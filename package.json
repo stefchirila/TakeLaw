@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"run": "node ./scripts"
+	},
+	"dependencies": {
+		"playwright": "^1.30.0"
+	},
+	"devDependencies": {
+		"@types/node": "^18.13.0"
+	}
+}
