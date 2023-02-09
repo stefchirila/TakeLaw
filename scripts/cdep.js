@@ -1,7 +1,11 @@
 const fs = require('fs/promises')
-const { setup, teardown } = require('./helpers')
+const {
+  getDate,
+  setup,
+  teardown
+} = require('./helpers')
 
-const main = async () => {
+const main = async (timestamp = Date.now()) => {
   const timerName = 'CDEP took'
   console.time(timerName)
   let pdfsCount = 0
@@ -11,11 +15,19 @@ const main = async () => {
   }
   const iframeTriggerPrefix = 'javascript:loadintoIframe('
   const baseUrl = 'https://www.cdep.ro'
-  await page.goto('https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi')
+
+  await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`)
+  console.log(`Navigated to ${page.url()}`)
+  
+  const visibleRows = page.locator('.grup-parlamentar-list.grupuri-parlamentare-list table').locator('tbody tr:not([style])')
+  if (!await visibleRows.count()) {
+    await teardown()
+    console.timeEnd(timerName)
+    console.error(`No data found for timestamp ${timestamp}. Exiting...`)
+    process.exit(0)
+  }
 
   await page.getByLabel('dismiss cookie message').click()
-
-  const visibleRows = page.locator('.grup-parlamentar-list.grupuri-parlamentare-list table').locator('tbody tr:not([style])')
 
   for await (const row of await visibleRows.all()) {
     const toggleFrameTrigger = row.locator(`a[href^="${iframeTriggerPrefix}"]`)
@@ -56,11 +68,12 @@ const main = async () => {
   await teardown()
   console.timeEnd(timerName)
   console.info(`Found ${pdfsCount} PDFs`)
-  fs.writeFile('output.json', JSON.stringify(output, null, 2))
+  // Comment this out if you don't want an output.json export of the returned data
+  // fs.writeFile('output.json', JSON.stringify(output, null, 2))
   return output
 }
 
 // Comment this out if you want to run this script from the exported function
-// (async () => await main())()
+(async () => await main())()
 
 module.exports = main

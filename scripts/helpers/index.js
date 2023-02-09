@@ -18,13 +18,21 @@ const setup = async ({ headless = true, timeout = defaultTimeout }) => {
   page = await context.newPage()
   return page
 }
+
 const teardown = async (waitForMs = 0) => {
   await page.waitForTimeout(waitForMs)
   await context.close()
   await browser.close()
 }
 
+const getDate = (timestamp = Date.now()) => {
+  const date = new Date(timestamp)
+  const dateParts = date.toISOString().split('T')[0].split('-')
+  return `${dateParts[0]}${dateParts[1]}${dateParts[2]}`
+}
+
 module.exports = {
+  getDate,
   setup,
   teardown
 }
