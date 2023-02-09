@@ -16,17 +16,21 @@
   pnpm install
   ```
 
-## Run
+## Usage
 
-You can execute any script by running the following command in the root of the project
-```bash
-node ./scripts/<scriptName>.js # e.g. node ./scripts/cdep.js
+Each script exports an async main function, that needs to be awaited:
+```js
+const { main } = require('./scripts/<scriptName>.js');
+
+const output = await main();
+// OR, as a promise:
+main().then(output => ...);
 ```
 Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 
 
 ## Scripts:
 
-1. [ ] Camera Deputaților: `cdep.js` (_in progress_)
+1. [x] Camera Deputaților: `cdep.js` (_done, **needs validation**_)
 1. [ ] ...
 
