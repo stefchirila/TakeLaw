@@ -1,3 +1,4 @@
+const fs = require('fs/promises')
 const { setup, teardown } = require('./helpers')
 
 const main = async () => {
@@ -55,9 +56,11 @@ const main = async () => {
   await teardown()
   console.timeEnd(timerName)
   console.info(`Found ${pdfsCount} PDFs`)
+  fs.writeFile('output.json', JSON.stringify(output, null, 2))
   return output
 }
 
+// Comment this out if you want to run this script from the exported function
 // (async () => await main())()
 
 module.exports = main

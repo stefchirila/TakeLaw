@@ -1,0 +1,4153 @@
+{
+  "camera_deputatilor": [
+    {
+      "lawProject": {
+        "name": "PL 707/2022",
+        "pdf": [
+          {
+            "date": "08-12-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av707.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "08-12-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av707.pdf",
+            "name": "Avizul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "16-11-2022",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2022/av707.pdf",
+            "name": "Avizul Comisiei pentru învăţământ"
+          },
+          {
+            "date": "16-11-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av707.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/00/7/as707.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/00/7/gv864.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/00/7/em864.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/00/7/oug864.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/00/7/ces864.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/00/7/cl864.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "07-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/00/7/se864.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 507/2022",
+        "pdf": [
+          {
+            "date": "26-10-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm507.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av507.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/7/gv625.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/7/as507.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/7/em625.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/7/oug625.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/7/ces625.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/7/cl625.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "19-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/7/se625.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 284/2022",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm284.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "29-09-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av284.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "18-08-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/4/pvg284_2022.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av284.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "26-05-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av284.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/4/as284.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/4/em347.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/4/cl347.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/4/ces347.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "16-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/4/se347.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 259/2022",
+        "pdf": [
+          {
+            "date": "05-12-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/as259rx.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "28-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/se918RX.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "21-07-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/259RXPROM.pdf",
+            "name": "CERERE DE REEXAMINARE"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2022/cd259_22.pdf",
+            "name": "Forma adoptată de Cameră"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2022/pr259_22.pdf",
+            "name": "Forma pentru promulgare"
+          },
+          {
+            "date": "28-06-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/rp259.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru industrii şi servicii, Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "27-06-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/rm259.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "09-06-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/av259.pdf",
+            "name": "Avizul Comisiei sesizate în fond"
+          },
+          {
+            "date": "30-05-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av259.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "26-05-2022",
+            "link": "https://www.cdep.ro/comisii/politica_externa/pdf/2022/av259.pdf",
+            "name": "Avizul Comisiei pentru politică externă"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/comisii/cultura/pdf/2022/av259.pdf",
+            "name": "Avizul Comisiei pentru cultură, arte, mijloace de informare în masă"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/gv321.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/as259.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/em321.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/comp321.pdf",
+            "name": "Tabel comparativ"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/conc321.pdf",
+            "name": "Tabel de punere în concordanță cu Directivele UE"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/cl321.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/ces321.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "09-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/50/9/se321.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 324/2021",
+        "pdf": [
+          {
+            "date": "18-08-2022",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/pvg324_2021.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "28-06-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm324_21.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "16-09-2021",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2021/av324.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "01-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/in404.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "01-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/as324.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "01-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/em404.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "01-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/ces404.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "01-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/cl404.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "30-06-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/se404.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "29-03-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/20/4/in128.pdf",
+            "name": "Adresa iniţiatorului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 668/2018",
+        "pdf": [
+          {
+            "date": "05-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/as668rx.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "27-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/se212RX.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "09-11-2020",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/rx668.pdf",
+            "name": "CERERE DE REEXAMINARE"
+          },
+          {
+            "date": "13-10-2020",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2018/pr668_18.pdf",
+            "name": "Forma pentru promulgare"
+          },
+          {
+            "date": "13-10-2020",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2018/cd668_18.pdf",
+            "name": "Forma adoptată de Cameră"
+          },
+          {
+            "date": "08-09-2020",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2020/rp668_18.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei juridică, de disciplină şi imunităţi, Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "08-05-2019",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/pvg668_2018.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "21-11-2018",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2018/av668.pdf",
+            "name": "Avizul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "05-11-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/in873.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "05-11-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/as668.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "05-11-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/em873.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "05-11-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/ces873.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "05-11-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/cl873.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "01-11-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/600/60/8/se873.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "09-11-2018",
+            "link": "https://www.cdep.ro/caseta/2018/11/09/pl18668_se.pdf",
+            "name": "Forma primită de la Senat a P.L.privind modificarea Legii 24/2007 privind reglementarea şi administrarea spaţiilor verzi din intravilanul localităţilora.Adresa de însoţire a Senatului (nr.L582/24-10-2018)b.Adresa iniţiatoruluic.Expunerea de motived.Forma adoptată de Senate.Adresa Consiliului Economic şi Social (nr.3971/24-07-2018)f.Avizul Consiliului Economic şi Social (nr.3971/24-07-2018)g.Avizul Consiliului Legislativ (nr.802/08-08-2018)"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 562/2022",
+        "pdf": [
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av562.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "16-11-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm562.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "13-10-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av562.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/2/as562.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/2/em687.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/2/cl687.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/2/ces687.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "28-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/2/se687.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 602/2022",
+        "pdf": [
+          {
+            "date": "26-01-2023",
+            "link": "https://www.cdep.ro/proiecte/2022/600/00/2/pvg602_2022.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "15-12-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm602.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "21-11-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rp602.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "15-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rm602.pdf",
+            "name": "Raportul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av602.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/00/2/as602.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/00/2/em728.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/00/2/cl728.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/00/2/ces728.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/00/2/se728.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 125/2022",
+        "pdf": [
+          {
+            "date": "05-07-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm125.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av125.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av125.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "05-04-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av125.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "31-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av125.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/5/as125.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/5/gv149.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/5/em149.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/5/og149.pdf",
+            "name": "Ordonanţa Guvernului"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/5/cl149.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/5/se149.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 363/2022",
+        "pdf": [
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av363.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/60/3/as363.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/60/3/em426.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/60/3/pvConsConc426.pdf",
+            "name": "Punctul de vedere al Consiliului Concurenței"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/60/3/ces426.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/60/3/cl426.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "07-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/60/3/se426.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 266/2020",
+        "pdf": [
+          {
+            "date": "15-12-2022",
+            "link": "https://www.cdep.ro/comisii/aparare/pdf/2022/rm266_20.pdf",
+            "name": "Raportul Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "02-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/pvg2195_02.04.2021.pdf",
+            "name": "(poz.20)"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2020/av266.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "13-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/as266.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "13-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/in328.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "13-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/em328.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "13-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/pl328.pdf",
+            "name": "Forma iniţiatorului"
+          },
+          {
+            "date": "13-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/ces328.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "13-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/cl328.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "13-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/pvg266.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "03-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/60/6/in911.pdf",
+            "name": "Adresa iniţiatorului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 143/2022",
+        "pdf": [
+          {
+            "date": "27-09-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm143.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av143.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/in168.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/as143.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/em168.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/pl168.pdf",
+            "name": "Forma iniţiatorului"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/opConsFiscal168.pdf",
+            "name": "Opinia Consiliului Fiscal"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/ces168.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/cl168.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/40/3/pvg168.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 285/2022",
+        "pdf": [
+          {
+            "date": "16-06-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm285.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "08-06-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rm285.pdf",
+            "name": "Raportul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "26-05-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av285.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/5/as285.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/5/em350.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/5/opConsFisc350.pdf",
+            "name": "Opinia Consiliului Fiscal"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/5/ces350.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/5/cl350.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "16-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/80/5/se350.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 454/2016",
+        "pdf": [
+          {
+            "date": "23-03-2020",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/PVG%20SITE.pdf",
+            "name": "(Anexa nr.1 - poz.21)"
+          },
+          {
+            "date": "02-11-2016",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2016/av454.pdf",
+            "name": "Avizul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "31-10-2016",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2016/av454.pdf",
+            "name": "Avizul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "26-10-2016",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2016/av454.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "25-10-2016",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2016/av454.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "17-10-2016",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/as454.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "17-10-2016",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/gv672.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "17-10-2016",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/em672.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "17-10-2016",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/oug672.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "17-10-2016",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/cl672.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "17-10-2016",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/comp672.pdf",
+            "name": "Tabel comparativ"
+          },
+          {
+            "date": "10-10-2016",
+            "link": "https://www.cdep.ro/proiecte/2016/400/50/4/se672.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "24-10-2016",
+            "link": "https://www.cdep.ro/caseta/2016/10/24/pl16454_se.pdf",
+            "name": "Forma primită de la Senat a P.L.pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.48/2016 privind modificarea şi completarea unor acte normative în domeniul culturiia.Adresa de însoţire a Senatului (din 10-10-2016)b.Hotărâre privind supunerea spre adoptare a proiectului de lege (nr.E124/31-08-2016)c.Expunerea de motived.Forma adoptată de Senate.Ordonanţa de urgenţă a Guvernului (nr.48/31-08-2016)f.Avizul Consiliului Legislativ (nr.829/01-09-2016)"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 388/2021",
+        "pdf": [
+          {
+            "date": "18-10-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/rp388_21.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "28-03-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rm388_21.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "17-11-2021",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2021/av388;1.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "02-11-2021",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2021/av388.pdf",
+            "name": "Avizul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "27-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/80/8/gv497.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "27-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/80/8/as388.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "27-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/80/8/em497.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "27-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/80/8/oug497.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "27-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/80/8/cl497.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "27-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/80/8/ces497.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "20-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/80/8/se497.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 424/2022",
+        "pdf": [
+          {
+            "date": "18-10-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/rp424.pdf",
+            "name": "Raportul Comisiei pentru industrii şi servicii, Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "29-09-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/rm424.pdf",
+            "name": "Raportul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "21-09-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/av424.pdf",
+            "name": "Avizul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "13-09-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av424.pdf",
+            "name": "Avizul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "08-09-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av424.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/20/4/gv520.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/20/4/as424.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/20/4/em520.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/20/4/oug520.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/20/4/cl520.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/20/4/ces520.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "27-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/20/4/se520.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 368/2017",
+        "pdf": [
+          {
+            "date": "18-10-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/rp368_17.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "09-03-2021",
+            "link": "https://www.cdep.ro/proiecte/2017/300/60/8/PVG1156_8.03.2021.pdf",
+            "name": "(poz.2)"
+          },
+          {
+            "date": "05-03-2019",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2019/av368_17.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "15-11-2017",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2017/av368.pdf",
+            "name": "Avizul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "01-11-2017",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2017/av368.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "23-10-2017",
+            "link": "https://www.cdep.ro/proiecte/2017/300/60/8/as368.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "23-10-2017",
+            "link": "https://www.cdep.ro/proiecte/2017/300/60/8/gv468.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "23-10-2017",
+            "link": "https://www.cdep.ro/proiecte/2017/300/60/8/em468.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "23-10-2017",
+            "link": "https://www.cdep.ro/proiecte/2017/300/60/8/oug468.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "23-10-2017",
+            "link": "https://www.cdep.ro/proiecte/2017/300/60/8/cl468.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "16-10-2017",
+            "link": "https://www.cdep.ro/proiecte/2017/300/60/8/se468.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "25-10-2017",
+            "link": "https://www.cdep.ro/caseta/2017/10/25/pl17368_se.pdf",
+            "name": "Forma primită de la Senat a P.L.privind aprobarea Ordonanţei de urgenţã a Guvernului nr.46/2017 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.8/2009 privind acordarea voucherelor de vacanţăa.Adresa de însoţire a Senatului (din 16-10-2017)b.Hotărâre privind supunerea spre adoptare a proiectului de lege (nr.E84/30-06-2017)c.Expunerea de motived.Forma adoptată de Senate.Ordonanţa de urgenţă a Guvernului (nr.46/30-06-2017)f.Avizul Consiliului Legislativ (nr.502/30-06-2017)"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 53/2022",
+        "pdf": [
+          {
+            "date": "18-10-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/rp053.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "15-06-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm053.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "30-03-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av053.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av053.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "16-03-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av053.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "10-03-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av053.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "03-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av053.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/3/gv52.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/3/as53.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/3/em52.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/3/oug52.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/3/cl52.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/3/ces52.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "14-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/3/se52.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 187/2021",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/rp187_21.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci, Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "27-09-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rm187_21.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "21-09-2021",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2021/av187.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "19-05-2021",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2021/av187.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "10-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/80/7/as187.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "10-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/80/7/gv231.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "10-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/80/7/em231.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "10-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/80/7/oug231.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "10-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/80/7/ces231.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "10-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/80/7/cl231.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "04-05-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/80/7/se231.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 512/2022",
+        "pdf": [
+          {
+            "date": "18-10-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/av512.pdf",
+            "name": "Avizul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "18-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp512.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/gv630.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/as512.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/em630.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/oug630.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/conc630.pdf",
+            "name": "Tabel de punere în concordanță cu Directivele UE"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/ces630.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/cl630.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "19-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/2/se630.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 192/2022",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp192.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "05-05-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av192.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "27-04-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av192.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/2/gv246.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/2/as192.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/2/em246.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/2/oug246.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/2/cl246.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/2/se246.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 482/2021",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/mediu/pdf/2022/rp482_21.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "10-02-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av482_21;1.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "09-02-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av482_21.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "17-11-2021",
+            "link": "https://www.cdep.ro/comisii/transport/pdf/2021/av482.pdf",
+            "name": "Avizul Comisiei pentru transporturi şi infrastructură"
+          },
+          {
+            "date": "15-11-2021",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2021/av482.pdf",
+            "name": "Avizul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "18-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/80/2/as482.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "18-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/80/2/gv586.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "18-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/80/2/em586.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "18-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/80/2/og586.pdf",
+            "name": "Ordonanţa Guvernului"
+          },
+          {
+            "date": "18-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/80/2/cl586.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "11-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/80/2/se586.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 428/2018",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/constitutionalitate/pdf/2022/re428_18.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială, Comisiei pentru constituționalitate"
+          },
+          {
+            "date": "24-05-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm428_18.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "07-06-2021",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/as297RX.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "19-01-2021",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/dec849.pdf",
+            "name": "D.C.C. nr.849 din 25 noiembrie 2020 (Dosar nr.1795A/2020)"
+          },
+          {
+            "date": "21-10-2020",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/Dosar%201795A.2020%20plx%20428.2020.PDF",
+            "name": "SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.1795A/2020)"
+          },
+          {
+            "date": "14-10-2020",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2018/pr428_18.pdf",
+            "name": "Forma pentru promulgare"
+          },
+          {
+            "date": "14-10-2020",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2018/cd428_18.pdf",
+            "name": "Forma adoptată de Cameră"
+          },
+          {
+            "date": "12-10-2020",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2020/ri428_18.pdf",
+            "name": "Raportul de înlocuire al Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "06-04-2020",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/pvg2293.pdf",
+            "name": "(pag.19, poz.41)"
+          },
+          {
+            "date": "10-10-2018",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2018/rp428.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "13-09-2018",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2018/av428.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "03-09-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/as428.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "03-09-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/in568.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "03-09-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/em568.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "03-09-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/cl568.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "03-09-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/ces568.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "03-09-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/pvg568.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "05-07-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/400/20/8/se568.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "12-10-2018",
+            "link": "https://www.cdep.ro/caseta/2018/10/12/pl18428_rp.pdf",
+            "name": "RAPORT asupra P.L.pentru completarea art. 33 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publicea.Adresa comisiei (nr.664/09-10-2018)b.Raport (nr.664/09-10-2018)"
+          },
+          {
+            "date": "10-09-2018",
+            "link": "https://www.cdep.ro/caseta/2018/09/10/pl18428_se.pdf",
+            "name": "Forma primită de la Senat a P.L.pentru completarea art. 33 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publicea.Adresa de însoţire a Senatului (din 05-07-2018)b.Adresa iniţiatorului (nr.46/05-02-2018)c.Expunerea de motived.Forma adoptată de Senate.Adresa Consiliului Economic şi Social (nr.891/27-02-2018)f.Avizul Consiliului Economic şi Social (nr.891/27-02-2018)g.Avizul Consiliului Legislativ (nr.187/12-03-2018)h.Punctul de vedere al Guvernului (nr.1125/11-06-2018)"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 191/2022",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/rp191.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "12-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rm191.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "21-09-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/rm191.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "14-09-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av191.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "17-05-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av191.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "13-05-2022",
+            "link": "https://www.cdep.ro/comisii/mediu/pdf/2022/av191.pdf",
+            "name": "Avizul Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "12-05-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av191.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "05-05-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av191.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "04-05-2022",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2022/av191.pdf",
+            "name": "Avizul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/1/gv245.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/1/as191.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/1/em245.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/1/oug245.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/1/ces245.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/1/cl245.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/90/1/se245.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 301/2019",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/rp301_19.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/rm301_19.pdf",
+            "name": "Raportul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "23-03-2020",
+            "link": "https://www.cdep.ro/proiecte/2019/300/00/1/PVG%20SITE.pdf",
+            "name": "(Anexa nr.1 - poz.11)"
+          },
+          {
+            "date": "19-09-2019",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2019/av301.pdf",
+            "name": "Avizul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "03-09-2019",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2019/av301.pdf",
+            "name": "Avizul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "03-09-2019",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2019/av301.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "01-07-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/300/00/1/as301.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "01-07-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/300/00/1/gv433.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "01-07-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/300/00/1/em433.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "01-07-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/300/00/1/oug433.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "01-07-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/300/00/1/cl433.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "26-06-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/300/00/1/se433.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "28-06-2019",
+            "link": "https://www.cdep.ro/caseta/2019/06/28/pl19301_se.pdf",
+            "name": "Forma primită de la Senat a P.L.pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.30/2019 privind reorganizarea Ministerului Economiei în scopul exercitării drepturilor şi îndeplinirii obligaţiilor ce decurg din calitatea de acţionar a statului la anumiţi operatori economici, precum şi pentru modificarea unor acte normativea.Adresa de însoţire a Senatului (din 26-06-2019)b.Hotărâre privind supunerea spre adoptare a proiectului de lege (nr.E51/14-05-2019)c.Expunerea de motived.Forma adoptată de Senate.Ordonanţa de urgenţă a Guvernului (nr.30/14-05-2019)f.Avizul Consiliului Legislativ (nr.391/15-05-2019)"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 145/2021",
+        "pdf": [
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/rp145_21.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "14-12-2021",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2021/rp145.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru buget, finanţe şi bănci, Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "06-05-2021",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2021/av145.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "12-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/40/5/as145.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "12-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/40/5/gv148.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "12-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/40/5/em148.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "12-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/40/5/oug148.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "12-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/40/5/ces148.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "12-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/40/5/cl148.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "06-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/100/40/5/se148.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 435/2021",
+        "pdf": [
+          {
+            "date": "25-10-2022",
+            "link": "https://www.cdep.ro/comisii/mediu/pdf/2022/rp435_21.pdf",
+            "name": "Raportul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice, Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "24-02-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av435_21.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "08-11-2021",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2021/av435.pdf",
+            "name": "Avizul Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "13-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/solicitare%20fond%20C%20mediu%20-%20435_2021.pdf",
+            "name": ""
+          },
+          {
+            "date": "11-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/gv547.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/as435.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/em547.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/comp547.pdf",
+            "name": "Tabel comparativ"
+          },
+          {
+            "date": "11-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/conc547.pdf",
+            "name": "Tabel de punere în concordanță cu Directivele Europene"
+          },
+          {
+            "date": "11-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/cl547.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "04-10-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/400/30/5/se547.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 563/2022",
+        "pdf": [
+          {
+            "date": "25-10-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/rp563.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "20-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/3/pvg563.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av563.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/3/as563.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/3/em689.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/3/ces689.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/3/cl689.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "28-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/60/3/se689.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 127/2022",
+        "pdf": [
+          {
+            "date": "26-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp127.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "26-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp127;1.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av127.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/av127.pdf",
+            "name": "Avizul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/7/as127.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/7/gv151.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/7/em151.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/7/oug151.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/7/ces151.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "21-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/7/cl151.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/20/7/se151.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 82/2022",
+        "pdf": [
+          {
+            "date": "26-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp082.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "02-06-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/rm082.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "23-03-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av082.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "15-03-2022",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2022/av082.pdf",
+            "name": "Avizul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av082.pdf",
+            "name": "Avizul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "02-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/2/gv91.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "02-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/2/as82.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "02-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/2/em91.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "02-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/2/oug91.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "02-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/2/cl91.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "02-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/2/ces91.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "28-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/2/se91.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 558/2022",
+        "pdf": [
+          {
+            "date": "10-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av558.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "25-10-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/rp558.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av558.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/50/8/gv685.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/50/8/as558.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/50/8/em685.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/50/8/og685.pdf",
+            "name": "Ordonanţa Guvernului"
+          },
+          {
+            "date": "04-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/50/8/cl685.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "28-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/50/8/se685.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 504/2022",
+        "pdf": [
+          {
+            "date": "27-10-2022",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2022/rp504.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci, Comisiei pentru învăţământ"
+          },
+          {
+            "date": "25-10-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av504.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "20-10-2022",
+            "link": "https://www.cdep.ro/comisii/sport/pdf/2022/av504.pdf",
+            "name": "Avizul Comisiei pentru tineret și sport"
+          },
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rm504.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av504.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av504.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/4/as504.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/4/gv622.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/4/em622.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/4/oug622.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/4/cl622.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "19-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/4/se622.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 371/2022",
+        "pdf": [
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp371.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru buget, finanţe şi bănci, Comisiei pentru transporturi şi infrastructură"
+          },
+          {
+            "date": "22-09-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rm371.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "08-09-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/rm371.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/70/1/as371.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/70/1/gv452.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/70/1/em452.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/70/1/oug452.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/70/1/ces452.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/70/1/cl452.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/70/1/se452.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 287/2020",
+        "pdf": [
+          {
+            "date": "02-11-2022",
+            "link": "https://www.cdep.ro/comisii/aparare/pdf/2022/rp287_20.pdf",
+            "name": "Raportul Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "19-08-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/7/pvg287_2020.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "10-06-2020",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2020/av287.pdf",
+            "name": "Avizul Comisiei pentru învăţământ"
+          },
+          {
+            "date": "02-06-2020",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2020/av287.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/7/as287.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/7/in366.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/7/em366.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/7/ces366.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/7/cl366.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "12-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/7/se366.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 627/2022",
+        "pdf": [
+          {
+            "date": "03-11-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/rp627.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/20/7/gv751.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/20/7/as627.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/20/7/em751.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/20/7/og751.pdf",
+            "name": "Ordonanţa Guvernului"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/20/7/cl751.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "10-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/20/7/se751.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 105/2020",
+        "pdf": [
+          {
+            "date": "08-04-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp105_20.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "08-04-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp105_20;1.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "26-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/pvg%203262_NS_22.04.2021.pdf",
+            "name": "(poz.11)"
+          },
+          {
+            "date": "29-04-2020",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2020/av105.pdf",
+            "name": "Avizul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "26-03-2020",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2020/av105.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "24-03-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/Sen105.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "24-03-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/Guv105.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "09-03-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/se141.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "24-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/em141.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "24-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/oug141.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "24-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/ces141.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "24-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/100/00/5/cl141.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 286/2020",
+        "pdf": [
+          {
+            "date": "07-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp286_20.pdf",
+            "name": "Raportul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "26-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/6/pvg%203263_20.04.2021.pdf",
+            "name": "(poz.2)"
+          },
+          {
+            "date": "02-06-2020",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2020/av286.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "26-05-2020",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2020/av286.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "25-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/6/pvg286_2020.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/6/as286.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/6/em362.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/6/ces362.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "20-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/6/cl362.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "12-05-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/200/80/6/se362.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 300/2022",
+        "pdf": [
+          {
+            "date": "08-11-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/rp300.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "28-09-2022",
+            "link": "https://www.cdep.ro/comisii/mediu/pdf/2022/rm300.pdf",
+            "name": "Raportul Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "07-09-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av300.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "22-06-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av300.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "16-06-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm300.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "25-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/00/0/as300.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "25-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/00/0/gv370.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "25-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/00/0/em370.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "25-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/00/0/oug370.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "25-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/00/0/cl370.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "23-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/00/0/se370.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 324/2022",
+        "pdf": [
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp324.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare, Comisiei pentru buget, finanţe şi bănci, Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "19-10-2022",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2022/rm324.pdf",
+            "name": "Raportul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/rm324.pdf",
+            "name": "Raportul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "27-09-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av324.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "07-09-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av324.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "22-06-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av324.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "07-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/20/4/as324.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "07-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/20/4/gv396.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "07-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/20/4/em396.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "07-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/20/4/oug396.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "07-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/20/4/cl396.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "30-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/20/4/se396.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 463/2022",
+        "pdf": [
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/retrsemn463_2022.pdf",
+            "name": "Notă"
+          },
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp463.pdf",
+            "name": "Raportul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "14-09-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av463.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "06-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/as463.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "06-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/em573.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "06-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/ces573.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "06-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/cl573.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "06-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/csm573.pdf",
+            "name": "Avizul Consiliului Superior al Magistraturii"
+          },
+          {
+            "date": "06-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/pvg573.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "01-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/se573.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "26-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/3/in272.pdf",
+            "name": "Adresa iniţiatorului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 51/2022",
+        "pdf": [
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp051.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie, Comisiei juridică, de disciplină şi imunităţi, Comisiei pentru apărare, ordine publică şi siguranţă naţională, Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "30-03-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/rm051.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "28-03-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/rm051.pdf",
+            "name": "Raportul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "24-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av051.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "10-03-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av051.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/1/as51.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/1/gv50.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/1/em50.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/1/oug50.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/1/cl50.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/1/se50.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 744/2022",
+        "pdf": [
+          {
+            "date": "22-12-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/40/4/ces744_2022.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "14-12-2022",
+            "link": "https://www.cdep.ro/comisii/sport/pdf/2022/av744.pdf",
+            "name": "Avizul Comisiei pentru tineret și sport"
+          },
+          {
+            "date": "09-12-2022",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2022/rp744.pdf",
+            "name": "Raportul Comisiei pentru învăţământ"
+          },
+          {
+            "date": "06-12-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/40/4/cl744_2022.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "28-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/40/4/in744.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "28-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/40/4/em908.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "28-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/40/4/plbun.pdf",
+            "name": "Forma iniţiatorului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 94/2022",
+        "pdf": [
+          {
+            "date": "09-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp094;1.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie, Comisiei juridică, de disciplină şi imunităţi, Comisiei pentru apărare, ordine publică şi siguranţă naţională, Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av094.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "06-04-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/rm094.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "28-03-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/rm094.pdf",
+            "name": "Raportul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "24-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av094.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/90/4/as94.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/90/4/gv105.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/90/4/em105.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/90/4/oug105.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/90/4/cl105.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "07-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/90/4/se105.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 549/2019",
+        "pdf": [
+          {
+            "date": "14-11-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/re549_19.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie, Comisiei juridică, de disciplină şi imunităţi, Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "28-06-2021",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/as354RX.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "22-06-2021",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/se354RX.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "21-01-2020",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/cerererxpsiho.pdf",
+            "name": "CERERE DE REEXAMINARE"
+          },
+          {
+            "date": "18-12-2019",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2019/pr549_19.pdf",
+            "name": "Forma pentru promulgare"
+          },
+          {
+            "date": "18-12-2019",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2019/cd549_19.pdf",
+            "name": "Forma adoptată de Cameră"
+          },
+          {
+            "date": "18-12-2019",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2019/rp549.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie, Comisiei juridică, de disciplină şi imunităţi, Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "28-11-2019",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2019/av549.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "28-10-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/as549.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "28-10-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/em718.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "28-10-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/ces718.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "28-10-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/cl718.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "28-10-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/pvg718.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "21-10-2019",
+            "link": "https://www.cdep.ro/proiecte/2019/500/40/9/se718.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "18-11-2019",
+            "link": "https://www.cdep.ro/caseta/2019/11/18/pl19549_se.pdf",
+            "name": "Forma primită de la Senat a P.L.pentru modificarea şi completarea Legii nr.143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri, precum şi a Legii nr.194/2011 privind combaterea operaţiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoarea.Adresa de însoţire a Senatului (din 21-10-2019)b.Expunerea de motivec.Forma adoptată de Senatd.Avizul Consiliului Economic şi Social (nr.2363/14-05-2019)e.Adresa Consiliului Economic şi Social (nr.2363/14-05-2019)f.Avizul Consiliului Legislativ (nr.453/04-06-2019)g.Punctul de vedere al Guvernului (nr.1326/26-08-2019)"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 260/2022",
+        "pdf": [
+          {
+            "date": "15-11-2022",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2022/rp260.pdf",
+            "name": "Raportul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "14-09-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av260.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "14-09-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av260.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "16-06-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av260.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/60/0/as260.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/60/0/gv322.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/60/0/em322.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/60/0/oug322.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/60/0/cl322.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "09-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/60/0/se322.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 277/2022",
+        "pdf": [
+          {
+            "date": "17-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp277.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci, Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "08-09-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rm277.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "31-05-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av277.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "26-05-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av277.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/70/7/as277.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/70/7/gv345.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/70/7/em345.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/70/7/oug345.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "18-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/70/7/cl345.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "16-05-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/200/70/7/se345.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 573/2022",
+        "pdf": [
+          {
+            "date": "15-12-2022",
+            "link": "https://www.cdep.ro/comisii/mediu/pdf/2022/av573.pdf",
+            "name": "Avizul Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "17-11-2022",
+            "link": "https://www.cdep.ro/comisii/turism/pdf/2022/rp573.pdf",
+            "name": "Raportul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "15-11-2022",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2022/rm573.pdf",
+            "name": "Raportul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "15-11-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av573.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "03-11-2022",
+            "link": "https://www.cdep.ro/comisii/economica/pdf/2022/av573.pdf",
+            "name": "Avizul Comisiei pentru politică economică, reformă şi privatizare"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/70/3/nota573.pdf",
+            "name": "Notă"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/70/3/gv700.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/70/3/as573.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/70/3/em700.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/70/3/oug700.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/70/3/cl700.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "03-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/70/3/se700.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 346/2022",
+        "pdf": [
+          {
+            "date": "17-11-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rp346.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială, Comisiei juridică, de disciplină şi imunităţi, Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm346.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "07-09-2022",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av346.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "22-06-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av346.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/as346.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/gv415.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/em415.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/comp415.pdf",
+            "name": "Tabel comparativ"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/oug415.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/ces415.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "14-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/cl415.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "07-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/40/6/se415.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 84/2022",
+        "pdf": [
+          {
+            "date": "16-11-2022",
+            "link": "https://www.cdep.ro/comisii/cultura/pdf/2022/rp084.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci, Comisiei pentru cultură, arte, mijloace de informare în masă"
+          },
+          {
+            "date": "26-10-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rm084.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av084.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "07-04-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av084.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "24-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av084.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "24-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av084.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "07-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/4/as84.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "07-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/4/gv93.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "07-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/4/em93.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "07-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/4/oug93.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "07-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/4/cl93.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "02-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/80/4/se93.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 159/2022",
+        "pdf": [
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp159.pdf",
+            "name": "Raportul Comisiei juridică, de disciplină şi imunităţi, Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "05-05-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av159.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "28-04-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/av159.pdf",
+            "name": "Avizul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av159.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "13-04-2022",
+            "link": "https://www.cdep.ro/comisii/tehnologia_informatiei/pdf/2022/av159.pdf",
+            "name": "Avizul Comisiei pentru tehnologia informaţiei şi comunicaţiilor"
+          },
+          {
+            "date": "04-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/50/9/gv190.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "04-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/50/9/as159.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "04-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/50/9/em190.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "04-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/50/9/oug190.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "04-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/50/9/cl190.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "04-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/50/9/ces190.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "28-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/50/9/se190.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 170/2022",
+        "pdf": [
+          {
+            "date": "24-11-2022",
+            "link": "https://www.cdep.ro/comisii/transport/pdf/2022/rs170;1.pdf",
+            "name": "Raportul suplimentar al Comisiei pentru apărare, ordine publică şi siguranţă naţională, Comisiei pentru transporturi şi infrastructură"
+          },
+          {
+            "date": "09-06-2022",
+            "link": "https://www.cdep.ro/comisii/aparare/pdf/2022/rp170.pdf",
+            "name": "Raportul Comisiei pentru apărare, ordine publică şi siguranţă naţională, Comisiei pentru transporturi şi infrastructură"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/comisii/transport/pdf/2022/rm170.pdf",
+            "name": "Raportul Comisiei pentru transporturi şi infrastructură"
+          },
+          {
+            "date": "11-05-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av170.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "04-05-2022",
+            "link": "https://www.cdep.ro/comisii/politica_externa/pdf/2022/av170.pdf",
+            "name": "Avizul Comisiei pentru politică externă"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/70/0/as170.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/70/0/gv205.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/70/0/em205.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/70/0/oug205.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "11-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/70/0/cl205.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "04-04-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/70/0/se205.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 595/2022",
+        "pdf": [
+          {
+            "date": "24-11-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp595.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci, Comisiei pentru transporturi şi infrastructură"
+          },
+          {
+            "date": "08-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av595.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/5/gv725.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/5/as595.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/5/em725.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/5/og725.pdf",
+            "name": "Ordonanţa Guvernului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/5/cl725.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/5/se725.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 509/2022",
+        "pdf": [
+          {
+            "date": "24-11-2022",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2022/rp509.pdf",
+            "name": "Raportul Comisiei pentru buget, finanţe şi bănci, Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "10-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av509.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/9/gv627.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/9/as509.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/9/em627.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/9/oug627.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/9/cl627.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "19-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/00/9/se627.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 587/2021",
+        "pdf": [
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/comisii/sport/pdf/2022/rp587_21.pdf",
+            "name": "Raportul Comisiei pentru tineret și sport"
+          },
+          {
+            "date": "10-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/pvg12148_8.11.2022.pdf",
+            "name": "(poz.5)"
+          },
+          {
+            "date": "03-03-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av587_21.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "03-02-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av587_21.pdf",
+            "name": "Avizul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "16-12-2021",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2021/av587.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "07-12-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/as587.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "07-12-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/em711.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "07-12-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/cl711.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "07-12-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/ces711.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "07-12-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/pvg711.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "22-11-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/se711.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "15-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/500/80/7/in440.pdf",
+            "name": "Adresa iniţiatorului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 680/2022",
+        "pdf": [
+          {
+            "date": "19-12-2022",
+            "link": "https://www.cdep.ro/comisii/cultura/pdf/2022/av680.pdf",
+            "name": "Avizul Comisiei pentru cultură, arte, mijloace de informare în masă"
+          },
+          {
+            "date": "19-12-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/80/0/pvg680_2022.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "07-12-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp680.pdf",
+            "name": "Raportul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "16-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/80/0/cl680_2022.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/80/0/ces680.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/80/0/in680.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/80/0/em822.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/80/0/pl822.pdf",
+            "name": "Forma iniţiatorului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 613/2022",
+        "pdf": [
+          {
+            "date": "09-12-2022",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2022/rp613.pdf",
+            "name": "Raportul Comisiei pentru învăţământ"
+          },
+          {
+            "date": "29-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/10/3/pvg613_2022.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av613.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "22-11-2022",
+            "link": "https://www.cdep.ro/comisii/stiinta/pdf/2022/av613.pdf",
+            "name": "Avizul Comisiei pentru știință și tehnologie"
+          },
+          {
+            "date": "04-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/10/3/cl613_2022.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/10/3/ces%20613_2022.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/10/3/in613.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/10/3/em772.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/10/3/pl772.pdf",
+            "name": "Forma iniţiatorului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 383/2022",
+        "pdf": [
+          {
+            "date": "05-12-2022",
+            "link": "https://www.cdep.ro/comisii/sport/pdf/2022/rp383.pdf",
+            "name": "Raportul Comisiei pentru tineret și sport"
+          },
+          {
+            "date": "10-11-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av383.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "18-10-2022",
+            "link": "https://www.cdep.ro/comisii/cultura/pdf/2022/av383.pdf",
+            "name": "Avizul Comisiei pentru cultură, arte, mijloace de informare în masă"
+          },
+          {
+            "date": "17-10-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av383.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "29-06-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av383.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/80/3/as383.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/80/3/em460.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/80/3/cl460.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/80/3/ces460.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "20-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/80/3/pvg460.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "15-06-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/300/80/3/se460.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 346/2021",
+        "pdf": [
+          {
+            "date": "07-12-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/rp346_21.pdf",
+            "name": "Raportul Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "17-11-2021",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2021/av346.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "17-11-2021",
+            "link": "https://www.cdep.ro/comisii/industrii/pdf/2021/av346.pdf",
+            "name": "Avizul Comisiei pentru industrii şi servicii"
+          },
+          {
+            "date": "28-09-2021",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2021/av346.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "28-09-2021",
+            "link": "https://www.cdep.ro/comisii/stiinta/pdf/2021/av346.pdf",
+            "name": "Avizul Comisiei pentru știință și tehnologie"
+          },
+          {
+            "date": "28-09-2021",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2021/av346.pdf",
+            "name": "Avizul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "20-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/40/6/as346.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "20-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/40/6/gv463.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "20-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/40/6/em463.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "20-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/40/6/oug463.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "20-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/40/6/cl463.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-09-2021",
+            "link": "https://www.cdep.ro/proiecte/2021/300/40/6/se463.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 50/2022",
+        "pdf": [
+          {
+            "date": "07-12-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp050.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei pentru muncă şi protecţie socială, Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "24-05-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm050.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "29-03-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm050.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "03-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av050.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/0/as50.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/0/gv49.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/0/em49.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/0/oug49.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "21-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/0/cl49.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-02-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/000/50/0/se49.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 113/2022",
+        "pdf": [
+          {
+            "date": "07-12-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp113.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială, Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "20-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/10/3/pvg113.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "30-06-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm113.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "06-04-2022",
+            "link": "https://www.cdep.ro/comisii/sanatate/pdf/2022/av113.pdf",
+            "name": "Avizul Comisiei pentru sănătate şi familie"
+          },
+          {
+            "date": "24-03-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av113.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/10/3/as113.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/10/3/em120.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/10/3/cl120.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "14-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/10/3/ces120.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "07-03-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/100/10/3/se120.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 517/2022",
+        "pdf": [
+          {
+            "date": "09-12-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rp517.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială, Comisiei pentru învăţământ"
+          },
+          {
+            "date": "17-11-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av517.pdf",
+            "name": "Avizul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "17-11-2022",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2022/rm517.pdf",
+            "name": "Raportul Comisiei pentru învăţământ"
+          },
+          {
+            "date": "26-10-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av517.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av517.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/7/as517.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/7/gv635.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/7/em635.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/7/oug635.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "26-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/7/cl635.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "19-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/10/7/se635.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 727/2022",
+        "pdf": [
+          {
+            "date": "12-12-2022",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2022/rp727.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială, Comisiei pentru învăţământ"
+          },
+          {
+            "date": "08-12-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rm727.pdf",
+            "name": "Raportul Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/20/7/in888.pdf",
+            "name": "Adresa iniţiatorului"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/20/7/as727.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/20/7/em888.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/20/7/pl888.pdf",
+            "name": "Forma iniţiatorului"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/20/7/ces888.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/20/7/cl888.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/700/20/7/pvg888.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 15/2020",
+        "pdf": [
+          {
+            "date": "12-12-2022",
+            "link": "https://www.cdep.ro/comisii/constitutionalitate/pdf/2022/re015_20.pdf",
+            "name": "Raportul Comisiei pentru cultură, arte, mijloace de informare în masă, Comisiei parlamentară a revoluţionarilor din Decembrie 1989, Comisiei pentru constituționalitate"
+          },
+          {
+            "date": "26-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/ap208RX.pdf",
+            "name": "Adresa Preşedintelui României"
+          },
+          {
+            "date": "21-04-2021",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/DCC15RX.pdf",
+            "name": "DECIZIA CURȚII CONSTITUȚIONALE nr.198 din 24 martie 2021(Dosar nr.523A/2021)"
+          },
+          {
+            "date": "18-02-2021",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/15sezpsd.pdf",
+            "name": "SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.523A/2021)"
+          },
+          {
+            "date": "03-11-2020",
+            "link": "https://www.cdep.ro/comisii/cultura/pdf/2020/re015.pdf",
+            "name": "Raportul Comisiei pentru cultură, arte, mijloace de informare în masă, Comisiei parlamentară a revoluţionarilor din Decembrie 1989"
+          },
+          {
+            "date": "13-10-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/rxcerere15.pdf",
+            "name": "CERERE DE REEXAMINARE"
+          },
+          {
+            "date": "05-10-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/DCC645.pdf",
+            "name": "D.C.C nr.645 din 24 septembrie 2020"
+          },
+          {
+            "date": "08-07-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/dosar%20907A-2020.PDF",
+            "name": "SESIZARE DE NECONSTITUȚIONALITATE (Dosar nr.907A/2020)"
+          },
+          {
+            "date": "23-04-2020",
+            "link": "https://www.cdep.ro/pls/proiecte/docs/2020/cd.15_20.pdf",
+            "name": "Forma adoptată de Cameră"
+          },
+          {
+            "date": "11-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/as15.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/31HG.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/31Exp.motive.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/31Forma%20init.pdf",
+            "name": "Forma iniţiatorului"
+          },
+          {
+            "date": "11-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/31%20OG.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "11-02-2020",
+            "link": "https://www.cdep.ro/proiecte/2020/000/10/5/31Av.CL.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 110/2018",
+        "pdf": [
+          {
+            "date": "14-12-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/rp110_18;1.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "28-06-2021",
+            "link": "https://www.cdep.ro/proiecte/2018/100/10/0/PVG%206197_25.06.2021.pdf",
+            "name": "(poz.1)"
+          },
+          {
+            "date": "06-04-2020",
+            "link": "https://www.cdep.ro/proiecte/2018/100/10/0/pvg2293.pdf",
+            "name": "(pag.23, poz.48)"
+          },
+          {
+            "date": "05-06-2018",
+            "link": "https://www.cdep.ro/comisii/buget/pdf/2018/av110.pdf",
+            "name": "Avizul Comisiei pentru buget, finanţe şi bănci"
+          },
+          {
+            "date": "17-04-2018",
+            "link": "https://www.cdep.ro/comisii/agricultura/pdf/2018/av110.pdf",
+            "name": "Avizul Comisiei pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+          },
+          {
+            "date": "20-03-2018",
+            "link": "https://www.cdep.ro/comisii/mediu/pdf/2018/av110.pdf",
+            "name": "Avizul Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "12-03-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/100/10/0/as110.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "12-03-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/100/10/0/em128.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "12-03-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/100/10/0/cl128.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "12-03-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/100/10/0/pvg128.pdf",
+            "name": "Punctul de vedere al Guvernului"
+          },
+          {
+            "date": "05-03-2018",
+            "link": "https://www.cdep.ro/proiecte/2018/100/10/0/se128.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "16-03-2018",
+            "link": "https://www.cdep.ro/caseta/2018/03/16/pl18110_se.pdf",
+            "name": "Forma primită de la Senat a P.L.privind trecerea Lacului Brebu, cu titlu gratuit, din domeniul public al statului şi din administrarea Administraţiei Naţionale \"Apele Române\" în domeniul public al Comunei Brebu si în administrarea Consiliului Local al Comunei Brebua.Adresa de însoţire a Senatului (din 05-03-2018)b.Expunerea de motivec.Forma adoptată de Senatd.Avizul Consiliului Legislativ (nr.852/18-10-2017)e.Punctul de vedere al Guvernului (nr.1940/08-12-2017)"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 464/2022",
+        "pdf": [
+          {
+            "date": "12-12-2022",
+            "link": "https://www.cdep.ro/comisii/munca/pdf/2022/rp464.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei pentru muncă şi protecţie socială"
+          },
+          {
+            "date": "17-11-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm464.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "26-10-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av464.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "21-09-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av464.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "12-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/4/as464.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "12-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/4/gv578.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "12-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/4/em578.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "12-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/4/oug578.pdf",
+            "name": "Ordonanţa de urgenţă a Guvernului"
+          },
+          {
+            "date": "06-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/400/60/4/se578.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 596/2022",
+        "pdf": [
+          {
+            "date": "14-12-2022",
+            "link": "https://www.cdep.ro/comisii/aparare/pdf/2022/rp596.pdf",
+            "name": "Raportul Comisiei pentru apărare, ordine publică şi siguranţă naţională"
+          },
+          {
+            "date": "23-11-2022",
+            "link": "https://www.cdep.ro/comisii/juridica/pdf/2022/av596.pdf",
+            "name": "Avizul Comisiei juridică, de disciplină şi imunităţi"
+          },
+          {
+            "date": "24-10-2022",
+            "link": "https://www.cdep.ro/comisii/politica_externa/pdf/2022/av596.pdf",
+            "name": "Avizul Comisiei pentru politică externă"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/6/gv726.pdf",
+            "name": "Adresa Guvernului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/6/as596.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/6/em726.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/6/og726.pdf",
+            "name": "Ordonanţa Guvernului"
+          },
+          {
+            "date": "11-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/6/cl726.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "05-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/500/90/6/se726.pdf",
+            "name": "Forma adoptată de Senat"
+          }
+        ]
+      }
+    },
+    {
+      "lawProject": {
+        "name": "PL 691/2022",
+        "pdf": [
+          {
+            "date": "19-12-2022",
+            "link": "https://www.cdep.ro/comisii/mediu/pdf/2022/rp691.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului, Comisiei pentru mediu şi echilibru ecologic"
+          },
+          {
+            "date": "24-11-2022",
+            "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/rm691.pdf",
+            "name": "Raportul Comisiei pentru administraţie publică şi amenajarea teritoriului"
+          },
+          {
+            "date": "16-11-2022",
+            "link": "https://www.cdep.ro/comisii/invatamant/pdf/2022/av691.pdf",
+            "name": "Avizul Comisiei pentru învăţământ"
+          },
+          {
+            "date": "10-11-2022",
+            "link": "https://www.cdep.ro/comisii/drepturile_omului/pdf/2022/av691.pdf",
+            "name": "Avizul Comisiei pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+          },
+          {
+            "date": "07-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/solCmediu%20691_2022.pdf",
+            "name": "Notă"
+          },
+          {
+            "date": "02-11-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/solCinv691_2022.pdf",
+            "name": "Notă"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/as691.pdf",
+            "name": "Adresa Senatului"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/em832.pdf",
+            "name": "Expunerea de motive"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/ces832.pdf",
+            "name": "Avizul Consiliului Economic şi Social"
+          },
+          {
+            "date": "31-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/cl832.pdf",
+            "name": "Avizul Consiliului Legislativ"
+          },
+          {
+            "date": "24-10-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/se832.pdf",
+            "name": "Forma adoptată de Senat"
+          },
+          {
+            "date": "01-09-2022",
+            "link": "https://www.cdep.ro/proiecte/2022/600/90/1/in538.pdf",
+            "name": "Adresa iniţiatorului"
+          }
+        ]
+      }
+    }
+  ]
+}
