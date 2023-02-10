@@ -1,15 +1,17 @@
-const fs = require('fs/promises')
 const {
   getDate,
   setup,
   teardown
 } = require('./helpers')
 
-const main = async (timestamp = Date.now()) => {
+const main = async ({
+  timestamp = Date.now()
+}) => {
   const timerName = 'CDEP took'
+  console.log('Starting CDEP script...')
   console.time(timerName)
   let pdfsCount = 0
-  const page = await setup({ timeout: 0 })
+  const page = await setup()
   const output = {
     camera_deputatilor: []
   }
@@ -24,7 +26,7 @@ const main = async (timestamp = Date.now()) => {
     await teardown()
     console.timeEnd(timerName)
     console.error(`No data found for timestamp ${timestamp}. Exiting...`)
-    process.exit(0)
+    return output
   }
 
   await page.getByLabel('dismiss cookie message').click()
@@ -43,37 +45,43 @@ const main = async (timestamp = Date.now()) => {
       await page.waitForResponse(response => response.url().endsWith(frameUrl))
       await page.waitForLoadState('networkidle')
       const frame = page.frameLocator(`iframe#frame${frameId}[src^="${frameUrl}"]`)
+
       const pdfRows = frame.locator('tr[align="center"][valign="top"]')
-      const frameOutput = {
-        lawProject: {
-          name: await frame.locator('tr[bgcolor="#e0e0e0"] b').textContent(),
-          pdf: []
-        }
+      if (!await pdfRows.count()) {
+        console.log(`Bad iframe @ ${baseUrl}${frameUrl}, skipping...`)
+        continue
       }
-      for await (const row of await pdfRows.all()) {
-        const pdfLink = row.locator('a[target="PDF"]')
-        if (await pdfLink.count()) {
-          const pdfPath = encodeURI(await pdfLink.getAttribute('href'))
-          frameOutput.lawProject.pdf.push({
-            date: (await row.locator('> td:first-child:not([align])').textContent()).trim().replace(/&nbsp;/g, ''),
-            link: pdfPath.startsWith(baseUrl) ? pdfPath : `${baseUrl}${pdfPath}`,
-            name: (await row.locator('> td:nth-child(2)').textContent()).trim()
-          })
-          pdfsCount += 1
+
+      const plNameField = frame.locator('tr[bgcolor="#e0e0e0"] b')
+      if (await plNameField.count()) {
+        const frameOutput = {
+          lawProject: {
+            name: await plNameField.textContent(),
+            pdf: []
+          }
         }
+        for await (const row of await pdfRows.all()) {
+          const pdfLink = row.locator('a[target="PDF"]')
+          if (await pdfLink.count()) {
+            const pdfPath = encodeURI(await pdfLink.getAttribute('href'))
+            frameOutput.lawProject.pdf.push({
+              date: (await row.locator('> td:first-child:not([align])').textContent()).trim().replace(/&nbsp;/g, ''),
+              link: pdfPath.startsWith(baseUrl) ? pdfPath : `${baseUrl}${pdfPath}`,
+              name: (await row.locator('> td:nth-child(2)').textContent()).trim()
+            })
+            pdfsCount += 1
+          }
+        }
+        output.camera_deputatilor.push(frameOutput)
       }
-      output.camera_deputatilor.push(frameOutput)
     }
   }
   await teardown()
   console.timeEnd(timerName)
-  console.info(`Found ${pdfsCount} PDFs`)
-  // Comment this out if you don't want an output.json export of the returned data
-  // fs.writeFile('output.json', JSON.stringify(output, null, 2))
+  console.info(`Found ${pdfsCount} PDFs. Exiting...`)
   return output
 }
 
-// Comment this out if you want to run this script from the exported function
-(async () => await main())()
-
-module.exports = main
+module.exports = {
+  main
+}

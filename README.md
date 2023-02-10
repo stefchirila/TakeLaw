@@ -18,14 +18,16 @@
 
 ## Usage
 
-Each script exports an async main function, that needs to be awaited:
+Each script exports an async `main` function, that needs to be awaited:
 ```js
-const { main } = require('./scripts/<scriptName>.js');
+const { main: scriptName } = require('./scripts/<scriptName>.js');
 
 const output = await main();
 // OR, as a promise:
 main().then(output => ...);
 ```
+
+Scripts can be tested by adding them to the `runner.js` file, and running it with `node runner.js`.
 Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 
 
