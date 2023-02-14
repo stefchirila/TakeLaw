@@ -34,5 +34,6 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 ## Scripts:
 
 1. [x] Camera Deputaților: `cdep.js` (_done, **needs validation**_)
+1. [ ] Senat: `senat.js` (_in progress_)
 1. [ ] ...
 

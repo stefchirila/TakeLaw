@@ -1,17 +1,23 @@
 const {
+  defaultTimeout,
   getDate,
   setup,
   teardown
 } = require('./helpers')
 
 const main = async ({
+  headless = true,
+  timeout = defaultTimeout,
   timestamp = Date.now()
 }) => {
   const timerName = 'CDEP took'
   console.log('Starting CDEP script...')
   console.time(timerName)
-  let pdfsCount = 0
-  const page = await setup()
+  let pdfCount = 0
+  const { page } = await setup({
+    headless,
+    timeout
+  })
   const output = {
     camera_deputatilor: []
   }
@@ -78,7 +84,7 @@ const main = async ({
   }
   await teardown()
   console.timeEnd(timerName)
-  console.info(`Found ${pdfsCount} PDFs. Exiting...`)
+  console.info(`Found ${pdfCount} PDFs. Exiting...`)
   return output
 }
 

@@ -16,7 +16,10 @@ const setup = async ({ headless = true, timeout = defaultTimeout } = {}) => {
   })
   context = await browser.newContext()
   page = await context.newPage()
-  return page
+  return {
+    context,
+    page
+  }
 }
 
 const teardown = async (waitForMs = 0) => {
@@ -32,6 +35,7 @@ const getDate = (timestamp = Date.now()) => {
 }
 
 module.exports = {
+  defaultTimeout,
   getDate,
   setup,
   teardown
