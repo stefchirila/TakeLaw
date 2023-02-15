@@ -1,10 +1,10 @@
 const { chromium } = require('playwright')
 
-/** @var Browser  */
+/** @type {import('playwright').Browser} */
 let browser
-/** @var BrowserContext */
+/** @type {import('playwright').BrowserContext} */
 let context
-/** @var Page */
+/** @type {import('playwright').Page} */
 let page
 
 const defaultTimeout = 4 * 60 * 1000

@@ -75,9 +75,10 @@ const main = async ({
               link: pdfPath.startsWith(baseUrl) ? pdfPath : `${baseUrl}${pdfPath}`,
               name: (await row.locator('> td:nth-child(2)').textContent()).trim()
             })
-            pdfsCount += 1
+            pdfCount += 1
           }
         }
+        console.log(`Found ${frameOutput.lawProject.pdf.length} PDFs for ${frameOutput.lawProject.name}`)
         output.camera_deputatilor.push(frameOutput)
       }
     }
