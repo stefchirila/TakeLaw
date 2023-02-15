@@ -56,9 +56,9 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 21. [ ] M Culturii
 22. [ ] M Mediului Apelor și Pădurilor
 23. [ ] M Cercetării, Inovării și Digitalizării
-24. [ ] ⦁	Ministry of Communications and Information Society ?? 
+24. [ ] Ministry of Communications and Information Society ?? 
 25. [ ] M Sportului
 26. [ ] M Antreprenoriatului și Turismului
-27. [ ] ⦁	Ministry for Romanians Everywhere ??
-28. [ ] ⦁	Ministry for Relations with Parliament ??
-29. [ ] ⦁	European Court Of Justice
+27. [ ] Ministry for Romanians Everywhere ??
+28. [ ] Ministry for Relations with Parliament ??
+29. [ ] European Court Of Justice
