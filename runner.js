@@ -6,11 +6,20 @@ const { main: <scriptName> } = require('./scripts/<scriptName>')
 
 Ex: */
 const { main: cdep } = require('./scripts/cdep')
+
 ;(async () => cdep({
-  headless: false, // optional - defaults to true (not specific to any script)
-  timeout: 0, // optional - defaults to 4 minutes (not specific to any script)
+  // Common params
+
+  // headless - whether to run the browser in headless mode or not
+  // optional - defaults to true (not specific to any script)
+  headless: false, 
+
+  // timeout - how long to wait for a page to load before timing out
+  // optional - defaults to 4 minutes (not specific to any script)
+  timeout: 0,
+
   // other params specific to each script
-  timestamp: Date.now() - 1000 * 60 * 60 * 24 * 2
+  timestamp: Date.now() - 1000 * 60 * 60 * 24
 }))()
 /**/
 

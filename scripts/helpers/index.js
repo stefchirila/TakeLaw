@@ -9,7 +9,10 @@ let page
 
 const defaultTimeout = 4 * 60 * 1000
 
-const setup = async ({ headless = true, timeout = defaultTimeout } = {}) => {
+const setup = async ({
+  headless = true,
+  timeout = defaultTimeout
+} = {}) => {
   browser = await chromium.launch({
     headless,
     timeout

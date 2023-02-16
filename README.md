@@ -26,40 +26,43 @@ const output = await main();
 // OR, as a promise:
 main().then(output => ...);
 ```
+Don't forget to pass any optional and required params to the `main` function.
 
-Scripts can be tested by adding them to the `runner.js` file, and running it with `node runner.js`.
+Scripts can be tested by adding them to the `runner.js` file, and running it with `pnpm runner`.
+
+If you want to see the debug information for a script which has been previously added to `runner.js`, you can run it with `pnpm debug`.
+
 Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 
 
 ## Scripts:
 
-1. [x] Camera Deputaților: `cdep.js` (_done, **needs validation**_)
-2. [ ] Senat: `senat.js` (_in progress_)
-3. [ ] M Finantelor Publice
-4. [ ] M Transporturilor
-5. [ ] M Dezvoltării, Lucrărilor Publice și Administrației
-6. [ ] M Mediului Apelor și Pădurilor
-7. [ ] M Afaceri Interne
-8. [ ] M Afaceri Externe
-9. [ ] M Apararii Nationale
-10. [ ] Monitorul Oficial
-11. [ ] M Justitie
-12. [ ] M Agriculturii și Dezvoltării Rurale
-13. [ ] M Educatiei
-14. [ ] C pentru muncă, familie şi protecţie socială
-15. [ ] M Economiei
-16. [ ] M Energiei
-17. [ ] Secretariatul General al Guvernului SGG
-18. [ ] M Investițiilor și Proiectelor Europene
-19. [ ] M Antreprenoriatului și Turismului ??	Ministry of Business Environment, Trade and Entrepreneurship
-20. [ ] M Sanatatii
-21. [ ] M Culturii
-22. [ ] M Mediului Apelor și Pădurilor
-23. [ ] M Cercetării, Inovării și Digitalizării
-24. [ ] Ministry of Communications and Information Society ?? 
-25. [ ] M Sportului
-26. [ ] M Antreprenoriatului și Turismului
-27. [ ] Ministry for Romanians Everywhere ??
-28. [ ] Ministry for Relations with Parliament ??
-29. [ ] European Court Of Justice
-
+1. [x] [Camera Deputaților](https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?idl=1) - `cdep.js` (_done, **needs validation**_)
+1. [ ] [Senat](https://www.senat.ro/ProgramLucruZi.aspx?Zi&ComisieID=587d586c-13fa-4bf6-8dbb-9fc3617dbdf4): `senat.js` (_in progress_)
+1. [ ] [M Finantelor Publice](https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative)
+1. [ ] [M Transporturilor](https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare)
+1. [ ] [M Dezvoltării, Lucrărilor Publice și Administrației](https://www.mdlpa.ro/pages/actenormativecaractergeneral)
+1. [ ] M Mediului Apelor și Pădurilor
+1. [ ] M Afaceri Interne
+1. [ ] M Afaceri Externe
+1. [ ] M Apararii Nationale
+1. [ ] Monitorul Oficial
+1. [ ] M Justitie
+1. [ ] M Agriculturii și Dezvoltării Rurale
+1. [ ] M Educatiei
+1. [ ] C pentru muncă, familie şi protecţie socială
+1. [ ] M Economiei
+1. [ ] M Energiei
+1. [ ] Secretariatul General al Guvernului SGG
+1. [ ] M Investițiilor și Proiectelor Europene
+1. [ ] M Antreprenoriatului și Turismului ??	Ministry of Business Environment, Trade and Entrepreneurship
+1. [ ] M Sanatatii
+1. [ ] M Culturii
+1. [ ] M Mediului Apelor și Pădurilor
+1. [ ] M Cercetării, Inovării și Digitalizării
+1. [ ] Ministry of Communications and Information Society ?? 
+1. [ ] M Sportului
+1. [ ] M Antreprenoriatului și Turismului
+1. [ ] Ministry for Romanians Everywhere ??
+1. [ ] Ministry for Relations with Parliament ??
+1. [ ] European Court Of Justice
