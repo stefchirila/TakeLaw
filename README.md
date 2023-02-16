@@ -35,21 +35,21 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 
 1. [x] Camera Deputaților: `cdep.js` (_done, **needs validation**_)
 2. [ ] Senat: `senat.js` (_in progress_)
-3. [ ] Monitorul Oficial
-4. [ ] Secretariatul General al Guvernului SGG
+3. [ ] M Finantelor Publice
+4. [ ] M Transporturilor
 5. [ ] M Dezvoltării, Lucrărilor Publice și Administrației
 6. [ ] M Mediului Apelor și Pădurilor
 7. [ ] M Afaceri Interne
 8. [ ] M Afaceri Externe
 9. [ ] M Apararii Nationale
-10. [ ] M Finantelor Publice
+10. [ ] Monitorul Oficial
 11. [ ] M Justitie
 12. [ ] M Agriculturii și Dezvoltării Rurale
 13. [ ] M Educatiei
 14. [ ] C pentru muncă, familie şi protecţie socială
 15. [ ] M Economiei
 16. [ ] M Energiei
-17. [ ] M Transporturilor
+17. [ ] Secretariatul General al Guvernului SGG
 18. [ ] M Investițiilor și Proiectelor Europene
 19. [ ] M Antreprenoriatului și Turismului ??	Ministry of Business Environment, Trade and Entrepreneurship
 20. [ ] M Sanatatii
@@ -62,3 +62,4 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 27. [ ] Ministry for Romanians Everywhere ??
 28. [ ] Ministry for Relations with Parliament ??
 29. [ ] European Court Of Justice
+
