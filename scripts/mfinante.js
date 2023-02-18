@@ -77,10 +77,11 @@ const main = async ({
             docCounter[type] += 1
 
             output.mfinante.push({
+              currentUrl: page.url(),
               date: date.replaceAll('.', '-'),
               link: `${baseUrl}${encodeURI(link)}`,
               name: textWithoutLink,
-              type
+              type,
             })
           }
         }
