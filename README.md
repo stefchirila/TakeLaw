@@ -37,9 +37,12 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 
 ## Scripts:
 
-1. [x] [Camera Deputaților](https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?idl=1) - `cdep.js` (_done, **needs validation**_)
+1. [x] [Camera Deputaților](https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?idl=1) - `cdep.js` (_done, **requires validation**_) 
+    - fetches documents based on the provided timestamp
+    - requires a `timestamp` param, which is the JS UNIX timestamp corresponding to the date of the page to be parsed
 1. [ ] [Senat](https://www.senat.ro/ProgramLucruZi.aspx?Zi&ComisieID=587d586c-13fa-4bf6-8dbb-9fc3617dbdf4): `senat.js` (_in progress_)
-1. [ ] [M Finantelor Publice](https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative)
+1. [x] [M Finantelor Publice](https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative) - `mfinante.js` (_done, **requires validation**_)
+    - fetches all documents from the entire history using the pagination
 1. [ ] [M Transporturilor](https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare)
 1. [ ] [M Dezvoltării, Lucrărilor Publice și Administrației](https://www.mdlpa.ro/pages/actenormativecaractergeneral)
 1. [ ] M Mediului Apelor și Pădurilor

@@ -4,7 +4,7 @@ const fs = require('fs/promises')
 const { main: <scriptName> } = require('./scripts/<scriptName>')
 ;(async () => <scriptName>(<params>))()
 
-Ex: */
+Ex:
 const { main: cdep } = require('./scripts/cdep')
 
 ;(async () => cdep({
@@ -21,8 +21,15 @@ const { main: cdep } = require('./scripts/cdep')
   // other params specific to each script
   timestamp: Date.now() - 1000 * 60 * 60 * 24
 }))()
-/**/
+*/
 
+const { main: mfinante } = require('./scripts/mfinante')
+;(async () => {
+  const output = await mfinante({
+    headless: false
+  })
+  fs.writeFile('output.json', JSON.stringify(output, null, 2))
+})()
 
 // const { main: senat } = require('./scripts/senat')
 // ;(async () => {

@@ -37,9 +37,29 @@ const getDate = (timestamp = Date.now()) => {
   return `${dateParts[0]}${dateParts[1]}${dateParts[2]}`
 }
 
+const getDocumentType = (url) => {
+  const urlParts = url.split('.')
+  switch (urlParts[urlParts.length - 1].toLowerCase()) {
+    case 'pdf':
+      return 'pdf'
+    case 'doc':
+    case 'docx':
+      return 'doc'
+    case 'xls':
+    case 'xlsx':
+      return 'xls'
+    case 'rar':
+    case 'zip':
+      return 'archive'
+    default:
+      return 'unknown'
+  }
+}
+
 module.exports = {
   defaultTimeout,
   getDate,
+  getDocumentType,
   setup,
   teardown
 }
