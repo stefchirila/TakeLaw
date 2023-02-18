@@ -11,7 +11,8 @@ const main = async ({
   timestamp = Date.now()
 }) => {
   const timerName = 'CDEP took'
-  console.log('Starting CDEP script...')
+  console.info('Starting CDEP script...')
+  console.info('-------------------')
   console.time(timerName)
   let pdfCount = 0
   const { page } = await setup({
@@ -25,7 +26,8 @@ const main = async ({
   const baseUrl = 'https://www.cdep.ro'
 
   await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`)
-  console.log(`Navigated to ${page.url()}`)
+  console.info(`Navigated to ${page.url()}`)
+  console.info('-------------------')
   
   const visibleRows = page.locator('.grup-parlamentar-list.grupuri-parlamentare-list table').locator('tbody tr:not([style])')
   if (!await visibleRows.count()) {
@@ -54,7 +56,8 @@ const main = async ({
 
       const pdfRows = frame.locator('tr[align="center"][valign="top"]')
       if (!await pdfRows.count()) {
-        console.log(`Bad iframe @ ${baseUrl}${frameUrl}, skipping...`)
+        console.info(`Bad iframe @ ${baseUrl}${frameUrl}, skipping...`)
+        console.info('-------------------')
         continue
       }
 
@@ -78,7 +81,8 @@ const main = async ({
             pdfCount += 1
           }
         }
-        console.log(`Found ${frameOutput.lawProject.pdf.length} PDFs for ${frameOutput.lawProject.name}`)
+        console.info(`Found ${frameOutput.lawProject.pdf.length} PDFs for ${frameOutput.lawProject.name}`)
+        console.info('-------------------')
         output.camera_deputatilor.push(frameOutput)
       }
     }

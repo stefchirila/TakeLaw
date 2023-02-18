@@ -22,23 +22,32 @@ Ex:
 //   // other params specific to each script
 //   timestamp: Date.now() - 1000 * 60 * 60 * 24 * 3
 //   })
-//   console.log(output)
+//   console.info(output)
 //   fs.writeFile('output.json', JSON.stringify(output, null, 2))
 // })()
 
-const { main: mfinante } = require('./scripts/mfinante')
+const { main: mtransport } = require('./scripts/mtransport')
 ;(async () => {
-  const output = await mfinante({
+  const output = await mtransport({
     headless: false
   })
+  // console.info(output)
   fs.writeFile('output.json', JSON.stringify(output, null, 2))
 })()
+
+// const { main: mfinante } = require('./scripts/mfinante')
+// ;(async () => {
+//   const output = await mfinante({
+//     headless: false
+//   })
+//   fs.writeFile('output.json', JSON.stringify(output, null, 2))
+// })()
 
 // const { main: senat } = require('./scripts/senat')
 // ;(async () => {
 //   const output = await senat({
 //     headless: false
 //   })
-//   console.log(output)
+//   console.info(output)
 //   // fs.writeFile('output.json', JSON.stringify(output, null, 2))
 // })()

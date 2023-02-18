@@ -37,6 +37,48 @@ const getDate = (timestamp = Date.now()) => {
   return `${dateParts[0]}${dateParts[1]}${dateParts[2]}`
 }
 
+const getMonthFromROString = (month) => {
+  switch (month.toLowerCase()) {
+    case 'ianuarie':
+    case 'ian':
+      return '01'
+    case 'februarie':
+    case 'feb':
+      return '02'
+    case 'martie':
+    case 'mar':
+      return '03'
+    case 'aprilie':
+    case 'apr':
+      return '04'
+    case 'mai':
+      return '05'
+    case 'iunie':
+    case 'iun':
+      return '06'
+    case 'iulie':
+    case 'iul':
+      return '07'
+    case 'august':
+    case 'aug':
+      return '08'
+    case 'septembrie':
+    case 'sept':
+      return '09'
+    case 'octombrie':
+    case 'oct':
+      return '10'
+    case 'noiembrie':
+    case 'noi':
+      return '11'
+    case 'decembrie':
+    case 'dec':
+      return '12'
+    default:
+      return '00'
+  }
+}
+
 const getDocumentType = (url) => {
   const urlParts = url.split('.')
   switch (urlParts[urlParts.length - 1].toLowerCase()) {
@@ -44,9 +86,12 @@ const getDocumentType = (url) => {
       return 'pdf'
     case 'doc':
     case 'docx':
+    case 'odt':
+    case 'odm':
       return 'doc'
     case 'xls':
     case 'xlsx':
+    case 'ods':
       return 'xls'
     case 'rar':
     case 'zip':
@@ -60,6 +105,7 @@ module.exports = {
   defaultTimeout,
   getDate,
   getDocumentType,
+  getMonthFromROString,
   setup,
   teardown
 }

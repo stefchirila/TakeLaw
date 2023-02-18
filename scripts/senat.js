@@ -9,7 +9,8 @@ const main = async ({
   timeout = defaultTimeout
 }) => {
   const timerName = 'SENAT took'
-  console.log('Starting SENAT script...')
+  console.info('Starting SENAT script...')
+  console.info('-------------------')
   console.time(timerName)
   let pdfCount = 0
   const { context, page } = await setup({
@@ -22,13 +23,14 @@ const main = async ({
   const postBackLink = 'a[href^="javascript:__doPostBack"]'
   const mainUrl = 'https://www.senat.ro/default.aspx?Sel=F1DE4E8D-E4E0-4847-B6FD-C63A05EC1F2A'
   await page.goto(mainUrl)
-  console.log(`Navigated to ${page.url()}`)
+  console.info(`Navigated to ${page.url()}`)
+  console.info('-------------------')
   await page.locator('a[onclick^="hideWarning()"]').click()
   const table = page.locator('table.ProgramLucruGrid')
   const rows = table.locator('tbody tr')
   let i = 0;
   for await (const row of await rows.all()) {
-    console.log(await rows.count(), i++)
+    console.info(await rows.count(), i++)
     const rowLinks = row.locator(postBackLink)
     if (!await rowLinks.count()) {
       continue
@@ -39,7 +41,7 @@ const main = async ({
     )
     await rowLinks.click()
     await loadPostBack
-    console.log(await rows.count())
+    console.info(await rows.count())
   }
   await teardown()
   console.timeEnd(timerName)

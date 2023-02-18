@@ -43,7 +43,18 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [ ] [Senat](https://www.senat.ro/ProgramLucruZi.aspx?Zi&ComisieID=587d586c-13fa-4bf6-8dbb-9fc3617dbdf4): `senat.js` (_in progress_)
 1. [x] [M Finantelor Publice](https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative) - `mfinante.js` (_done, **requires validation**_)
     - fetches all documents from the entire history using the pagination
-1. [ ] [M Transporturilor](https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare)
+1. [x] [M Transporturilor](https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare) - `mtransporturi.js` (_done, **requires validation**_)
+    - fetches documents based on params
+    - requires a `limitPerPage` param (which will be used to limit the number of rows displayed on the table page)
+    - requires a `maxResults` param (which will be used to limit the number of results fetched)
+    - **VERY IMPORTANT**: provide the `limitPerPage` and `maxResults` params and, optionally, the `timeout` param as follows:
+      ```ts
+      const output = await main({
+        limitPerPage: 50, // default: 100
+        maxResults: 500, // default: 1000
+        timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (5 minutes)
+      })
+      ```
 1. [ ] [M Dezvoltării, Lucrărilor Publice și Administrației](https://www.mdlpa.ro/pages/actenormativecaractergeneral)
 1. [ ] M Mediului Apelor și Pădurilor
 1. [ ] M Afaceri Interne

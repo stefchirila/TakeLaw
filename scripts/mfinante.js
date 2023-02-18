@@ -1,6 +1,5 @@
 const {
   defaultTimeout,
-  getDate,
   getDocumentType,
   setup,
   teardown
@@ -58,10 +57,10 @@ const main = async ({
           const linkParts = text.replaceAll(`\n`, '').match(/<a.*?href="(.*?)".*?>.*?<\/a>/)
           const link = (linkParts && linkParts[1] && linkParts[1].trim()) ?? null
           if (!link) {
-            console.log('-------------------')
+            console.info('-------------------')
             console.info('Bad link found at in paragraph', text)
             console.info('Continuing...')
-            console.log('-------------------')
+            console.info('-------------------')
             continue
           }
           const textWithoutLink = (text.includes('href="')
@@ -88,25 +87,29 @@ const main = async ({
         
       }
     } catch(e) {
-      console.log('-------------------')
+      console.info('-------------------')
       console.info('Error while parsing page content:')
       console.error(e)
       console.info('Continuing...')
-      console.log('-------------------')
+      console.info('-------------------')
     }
   }
   
   await teardown()
   console.timeEnd(timerName)
-  console.info(`Found ${output.mfinante.length} items out of which`)
-  const docTypesCount = Object.keys(docCounter).length
-  Object.entries(docCounter).forEach(([type, count], index) => {
-    console.info(`\t${count} are ${type.toUpperCase()}${
-      index === docTypesCount - 1
-        ? '.'
-        : (index === docTypesCount - 2 ? ' and' : ',')
-    }`)
-  })   
+  if (!output.mfinante.length) {
+    console.info(`Found ${output.mfinante.length} items out of which`)
+    const docTypesCount = Object.keys(docCounter).length
+    Object.entries(docCounter).forEach(([type, count], index) => {
+      console.info(`\t${count} are ${type.toUpperCase()}${
+        index === docTypesCount - 1
+          ? '.'
+          : (index === docTypesCount - 2 ? ' and' : ',')
+      }`)
+    })
+  } else {
+    console.info('Found no items. Something must have gone wrong. 😔')
+  }
 
   return output
 }
