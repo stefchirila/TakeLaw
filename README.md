@@ -50,9 +50,9 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
     - **VERY IMPORTANT**: provide the `limitPerPage` and `maxResults` params and, optionally, the `timeout` param as follows:
       ```ts
       const output = await main({
-        limitPerPage: 50, // default: 100
-        maxResults: 500, // default: 1000
-        timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (5 minutes)
+        limitPerPage: 20, // default: 50
+        maxResults: 200, // default: 100
+        timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (4 minutes)
       })
       ```
 1. [ ] [M Dezvoltării, Lucrărilor Publice și Administrației](https://www.mdlpa.ro/pages/actenormativecaractergeneral)

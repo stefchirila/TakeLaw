@@ -8,8 +8,8 @@ const {
 
 const main = async ({
   headless = true,
-  limitPerPage = 100,
-  maxResults = 1000,
+  limitPerPage = 50,
+  maxResults = 100,
   timeout = defaultTimeout,
 }) => {
   const timer = Date.now()
@@ -26,13 +26,16 @@ const main = async ({
     mtransport: []
   }
   const baseUrl = 'https://www.mt.ro'
-  await page.goto(`https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare?start=0&limit=${limitPerPage}`)
+  await page.goto(`https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare?limit=${limitPerPage}&start=0`)
   let rowCounter = 0
-
-  await page.locator('.btn.btn-primary.jb.accept.blue').click()
+  const cookieAcceptButton = page.locator('button.btn.btn-primary.jb.accept.blue')
+  if (await cookieAcceptButton.count()) {
+    await cookieAcceptButton.click()
+  }
   
   const table = page.locator('table.category.table.table-striped.table-bordered.table-hover')
   const rows = []
+  let pageCounter = 0
   do {
     await page.waitForLoadState('networkidle')
     console.info(`Navigated to ${page.url()}. This might take some time as the site is fetching up to ${limitPerPage} items from its database.`)
@@ -72,6 +75,7 @@ const main = async ({
       console.info('-------------------')
       continue
     }
+    const documents = []
     for await (const doc of await docs.all()) {
       const docLink = `${baseUrl}${await doc.getAttribute('href')}`
       const docTitle = (await doc.textContent()).trim()
@@ -80,15 +84,20 @@ const main = async ({
         docCounter[docType] = 0
       }
       docCounter[docType] += 1
-      output.mtransport.push({
-        currentUrl: page.url(),
-        name: `${docTitle} - ${row.name}`,
-        date: row.date,
-        type: docType,
-        link: docLink
+      documents.push({
+        link: docLink,
+        title: docTitle,
+        type: docType
       })
     }
+    output.mtransport.push({
+      currentUrl: page.url(),
+      name: row.name,
+      date: row.date,
+      documents,
+    })
     resultsCounter += 1
+    console.log(`Found ${resultsCounter} out of ${rows.length} documents...`)
     if (resultsCounter >= maxResults) {
       console.info(`Reached maximum results limit of ${maxResults}, stop fetching documents...`)
       console.info('-------------------')
