@@ -42,13 +42,13 @@ Ex:
 //   fs.writeFile('output-mfinante.json', JSON.stringify(output, null, 2))
 // })()
 
-const { main: mdezvoltarii } = require('./scripts/mdezvoltarii')
-;(async () => {
-  const output = await mdezvoltarii({
-    headless: false
-  })
-  fs.writeFile('output-mdezvoltarii.json', JSON.stringify(output, null, 2))
-})()
+// const { main: mdezvoltarii } = require('./scripts/mdezvoltarii')
+// ;(async () => {
+//   const output = await mdezvoltarii({
+//     headless: false
+//   })
+//   fs.writeFile('output-mdezvoltarii.json', JSON.stringify(output, null, 2))
+// })()
 
 // const { main: senat } = require('./scripts/senat')
 // ;(async () => {
