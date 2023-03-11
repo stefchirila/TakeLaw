@@ -1,6 +1,7 @@
 const {
   defaultTimeout,
   getDocumentType,
+  outputReport,
   setup,
   teardown
 } = require('./helpers')
@@ -20,6 +21,7 @@ const main = async ({
   const output = {
     mfinante: []
   }
+  let documentCounter = 0
   const baseUrl = 'https://mfinante.gov.ro'
   const pagePrefix = `https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative
 ?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_Bg185RyrkUe4
@@ -32,16 +34,17 @@ const main = async ({
 
   await page.goto('https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative')
   console.info(`Navigated to ${page.url()} to fetch page count`)
-  const pageCount = Number((
+  console.info('-------------------')
+  const pageCounter = Number((
       await page.locator('a.dropdown-toggle.direction-down.max-display-items-15.btn.btn-secondary').innerText()
     ).replace('Pagina 1 a ', '')
   )
   
-  const pageIndices = [...Array(pageCount).keys()].map(i => i + 1)
+  const pageIndices = [...Array(pageCounter).keys()].map(i => i + 1)
   for await (const pageIndex of pageIndices) {
     await page.goto(`${pagePrefix}${pageIndex}`)
-    console.info(`\t Navigated to ${page.url()} to fetch documents\n`)
-  
+    console.info(`Navigated to ${page.url()} to fetch documents\n`)
+    console.info('-------------------')
     try {
       for await (const section of await page.locator('.asset-content.row').all()) {
         const date = await section.locator('.asset-title').innerText()
@@ -57,7 +60,6 @@ const main = async ({
           const linkParts = text.replaceAll(`\n`, '').match(/<a.*?href="(.*?)".*?>.*?<\/a>/)
           const link = (linkParts && linkParts[1] && linkParts[1].trim()) ?? null
           if (!link) {
-            console.info('-------------------')
             console.info('Bad link found at in paragraph', text)
             console.info('Continuing...')
             console.info('-------------------')
@@ -74,20 +76,26 @@ const main = async ({
               docCounter[type] = 0
             }
             docCounter[type] += 1
+            documentCounter += 1
 
             output.mfinante.push({
               currentUrl: page.url(),
               date: date.replaceAll('.', '-'),
-              link: `${baseUrl}${encodeURI(link)}`,
               name: textWithoutLink,
-              type,
+              documents: [
+                {
+                  date: date.replaceAll('.', '-'),
+                  link: `${baseUrl}${encodeURI(link)}`,
+                  title: textWithoutLink,
+                  type,
+                }
+              ]
             })
           }
         }
         
       }
     } catch(e) {
-      console.info('-------------------')
       console.info('Error while parsing page content:')
       console.error(e)
       console.info('Continuing...')
@@ -97,19 +105,7 @@ const main = async ({
   
   await teardown()
   console.timeEnd(timerName)
-  if (!output.mfinante.length) {
-    console.info(`Found ${output.mfinante.length} items out of which`)
-    const docTypesCount = Object.keys(docCounter).length
-    Object.entries(docCounter).forEach(([type, count], index) => {
-      console.info(`\t${count} are ${type.toUpperCase()}${
-        index === docTypesCount - 1
-          ? '.'
-          : (index === docTypesCount - 2 ? ' and' : ',')
-      }`)
-    })
-  } else {
-    console.info('Found no items. Something must have gone wrong. 😔')
-  }
+  outputReport(output.mfinante, docCounter, documentCounter, pageCounter)
 
   return output
 }

@@ -1,6 +1,8 @@
 const {
   defaultTimeout,
   getDate,
+  getDocumentType,
+  outputReport,
   setup,
   teardown
 } = require('./helpers')
@@ -14,7 +16,9 @@ const main = async ({
   console.info('Starting CDEP script...')
   console.info('-------------------')
   console.time(timerName)
-  let pdfCount = 0
+  let documentCounter = 0
+  let pageCounter = 0
+  const docCounter = {}
   const { page } = await setup({
     headless,
     timeout
@@ -38,6 +42,10 @@ const main = async ({
   }
 
   await page.getByLabel('dismiss cookie message').click()
+  // console.log(await page.locator('div#olddiv').locator('div[align="right"]').all());
+  const dateOfSession = (await page.locator('div#olddiv').locator('div[align="right"]').filter({
+    hasText: 'Aprobata:'
+  }).textContent()).replace(/Aprobata: /, '').trim().replaceAll('.', '-')
 
   for await (const row of await visibleRows.all()) {
     const toggleFrameTrigger = row.locator(`a[href^="${iframeTriggerPrefix}"]`)
@@ -54,8 +62,9 @@ const main = async ({
       await page.waitForLoadState('networkidle')
       const frame = page.frameLocator(`iframe#frame${frameId}[src^="${frameUrl}"]`)
 
-      const pdfRows = frame.locator('tr[align="center"][valign="top"]')
-      if (!await pdfRows.count()) {
+      const documentRows = frame.locator('tr[align="center"][valign="top"]')
+      pageCounter += 1
+      if (!await documentRows.count()) {
         console.info(`Bad iframe @ ${baseUrl}${frameUrl}, skipping...`)
         console.info('-------------------')
         continue
@@ -64,24 +73,30 @@ const main = async ({
       const plNameField = frame.locator('tr[bgcolor="#e0e0e0"] b')
       if (await plNameField.count()) {
         const frameOutput = {
-          lawProject: {
-            name: await plNameField.textContent(),
-            pdf: []
-          }
+          currentUrl: `${baseUrl}${frameUrl}`,
+          date: dateOfSession,
+          name: await plNameField.textContent(),
+          documents: [],
         }
-        for await (const row of await pdfRows.all()) {
-          const pdfLink = row.locator('a[target="PDF"]')
-          if (await pdfLink.count()) {
-            const pdfPath = encodeURI(await pdfLink.getAttribute('href'))
-            frameOutput.lawProject.pdf.push({
+        for await (const row of await documentRows.all()) {
+          const documentLink = row.locator('a[target="PDF"]')
+          if (await documentLink.count()) {
+            const documentPath = encodeURI(await documentLink.getAttribute('href'))
+            const docType = getDocumentType(documentPath)
+            if (!docCounter[docType]) {
+              docCounter[docType] = 0
+            }
+            docCounter[docType] += 1
+            frameOutput.documents.push({
               date: (await row.locator('> td:first-child:not([align])').textContent()).trim().replace(/&nbsp;/g, ''),
-              link: pdfPath.startsWith(baseUrl) ? pdfPath : `${baseUrl}${pdfPath}`,
-              name: (await row.locator('> td:nth-child(2)').textContent()).trim()
+              link: documentPath.startsWith(baseUrl) ? documentPath : `${baseUrl}${documentPath}`,
+              title: (await row.locator('> td:nth-child(2)').textContent()).trim(),
+              type: docType
             })
-            pdfCount += 1
+            documentCounter += 1
           }
         }
-        console.info(`Found ${frameOutput.lawProject.pdf.length} PDFs for ${frameOutput.lawProject.name}`)
+        console.info(`Found ${frameOutput.documents.length} documents for ${frameOutput.name}`)
         console.info('-------------------')
         output.camera_deputatilor.push(frameOutput)
       }
@@ -89,7 +104,7 @@ const main = async ({
   }
   await teardown()
   console.timeEnd(timerName)
-  console.info(`Found ${pdfCount} PDFs. Exiting...`)
+  outputReport(output.camera_deputatilor, docCounter, documentCounter, pageCounter)
   return output
 }
 

@@ -78,7 +78,7 @@ const getMonthFromROString = (month) => {
       return '00'
   }
 }
-
+const knownDocumentTypes = ['pdf', 'doc', 'docx', 'odt', 'odm', 'xls', 'xlsx', 'ods', 'rar', 'zip']
 const getDocumentType = (url) => {
   const urlParts = url.split('.')
   switch (urlParts[urlParts.length - 1].toLowerCase()) {
@@ -101,11 +101,30 @@ const getDocumentType = (url) => {
   }
 }
 
+const outputReport = (outputArray, docCounter, documentCounter, pageCounter) => {
+  if (outputArray.length !== 0) {
+    console.info(`Parsed ${pageCounter} pages and found ${documentCounter} items out of which`)
+    const docTypesCount = Object.keys(docCounter).length
+    Object.entries(docCounter).forEach(([type, count], index) => {
+      console.info(`\t${count} ${count === 1 ? 'is' : 'are'} ${type.toUpperCase()}${
+        index === docTypesCount - 1
+          ? '.'
+          : (index === docTypesCount - 2 ? ' and' : ',')
+      }`)
+    })   
+  } else {
+    console.info('Found no items. Something must have gone wrong. 😔')
+  }
+
+}
+
 module.exports = {
   defaultTimeout,
   getDate,
   getDocumentType,
   getMonthFromROString,
+  knownDocumentTypes,
+  outputReport,
   setup,
   teardown
 }

@@ -2,6 +2,7 @@ const {
   defaultTimeout,
   getDocumentType,
   getMonthFromROString,
+  outputReport,
   setup,
   teardown
 } = require('./helpers')
@@ -28,6 +29,7 @@ const main = async ({
   const baseUrl = 'https://www.mt.ro'
   await page.goto(`https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare?limit=${limitPerPage}&start=0`)
   let rowCounter = 0
+  let pageCounter = 0
   const cookieAcceptButton = page.locator('button.btn.btn-primary.jb.accept.blue')
   if (await cookieAcceptButton.count()) {
     await cookieAcceptButton.click()
@@ -35,7 +37,6 @@ const main = async ({
   
   const table = page.locator('table.category.table.table-striped.table-bordered.table-hover')
   const rows = []
-  let pageCounter = 0
   do {
     await page.waitForLoadState('networkidle')
     console.info(`Navigated to ${page.url()}. This might take some time as the site is fetching up to ${limitPerPage} items from its database.`)
@@ -67,6 +68,7 @@ const main = async ({
   } while (true) 
   
   let resultsCounter = 0;
+  let documentCounter = 0;
   for (const row of rows) {
     await page.goto(`${baseUrl}${row.nameLink}`)
     docs = page.locator('a[href^="/web14/documente/acte-normative"]')
@@ -75,6 +77,7 @@ const main = async ({
       console.info('-------------------')
       continue
     }
+    pageCounter += 1
     const documents = []
     for await (const doc of await docs.all()) {
       const docLink = `${baseUrl}${await doc.getAttribute('href')}`
@@ -84,7 +87,9 @@ const main = async ({
         docCounter[docType] = 0
       }
       docCounter[docType] += 1
+      documentCounter += 1
       documents.push({
+        date: row.date,
         link: docLink,
         title: docTitle,
         type: docType
@@ -92,14 +97,15 @@ const main = async ({
     }
     output.mtransport.push({
       currentUrl: page.url(),
-      name: row.name,
       date: row.date,
+      name: row.name,
       documents,
     })
     resultsCounter += 1
-    console.log(`Found ${resultsCounter} out of ${rows.length} documents...`)
+    console.info(`Parsing page #${resultsCounter} out of ${rows.length}...`)
+    console.info('-------------------')
     if (resultsCounter >= maxResults) {
-      console.info(`Reached maximum results limit of ${maxResults}, stop fetching documents...`)
+      console.info(`Reached maximum results limit of ${maxResults}, stop accessing pages to fetch documents...`)
       console.info('-------------------')
       break
     }
@@ -112,15 +118,7 @@ const main = async ({
 
   await teardown()
   console.timeEnd(timerName)
-  console.info(`Found ${output.mtransport.length} items out of which`)
-  const docTypesCount = Object.keys(docCounter).length
-  Object.entries(docCounter).forEach(([type, count], index) => {
-    console.info(`\t${count} are ${type.toUpperCase()}${
-      index === docTypesCount - 1
-        ? '.'
-        : (index === docTypesCount - 2 ? ' and' : ',')
-    }`)
-  })   
+  outputReport(output.mtransport, docCounter, documentCounter, pageCounter)
 
   return output
 }

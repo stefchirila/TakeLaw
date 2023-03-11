@@ -1,4 +1,5 @@
 {
+	"version": "0.0.1",
 	"scripts": {
 		"debug": "cross-env DEBUG=pw:api,pw:browser node runner.js",
 		"runner": "node runner.js"
