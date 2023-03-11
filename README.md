@@ -66,14 +66,14 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
      })
      ```
      otherwise the script might take more than 5 minutes to finish (experimented locally it took ~8 minutes to parse and fetch all the documents, current year + archived years)
-1. [ ] M Mediului Apelor și Pădurilor
+1. [ ] [M Educatiei](https://www.edu.ro/proiecte-acte-normative) + [archives](https://www.edu.ro/transparen%C8%9B%C4%83-institu%C8%9Bional%C4%83)
+1. [ ] [M Mediului Apelor și Pădurilor](http://www.mmediu.ro/categorie/proiecte-de-acte-normative/41)
 1. [ ] M Afaceri Interne
 1. [ ] M Afaceri Externe
 1. [ ] M Apararii Nationale
 1. [ ] Monitorul Oficial
 1. [ ] M Justitie
 1. [ ] M Agriculturii și Dezvoltării Rurale
-1. [ ] M Educatiei
 1. [ ] C pentru muncă, familie şi protecţie socială
 1. [ ] M Economiei
 1. [ ] M Energiei
