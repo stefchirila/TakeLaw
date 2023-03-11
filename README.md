@@ -55,7 +55,17 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
         timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (4 minutes)
       })
       ```
-1. [ ] [M Dezvoltării, Lucrărilor Publice și Administrației](https://www.mdlpa.ro/pages/actenormativecaractergeneral)
+1. [x] [M Dezvoltării, Lucrărilor Publice și Administrației](https://www.mdlpa.ro/pages/actenormativecaractergeneral) - `mdezvoltarii.js` (_done, **requires validation**_)
+   - fetches all documents for the entire history using the archive links
+   - requires a `maxResults` param (which will be used to limit the number of results fetched)
+   - **VERY IMPORTANT**: provide the `maxResults` param and, optionally, the `timeout` param as follows:
+     ```ts
+     const output = await main({
+       maxResults: 300, // default: 200
+       timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (4 minutes)
+     })
+     ```
+     otherwise the script might take more than 5 minutes to finish (experimented locally it took ~8 minutes to parse and fetch all the documents, current year + archived years)
 1. [ ] M Mediului Apelor și Pădurilor
 1. [ ] M Afaceri Interne
 1. [ ] M Afaceri Externe
