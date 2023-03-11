@@ -76,38 +76,46 @@ const main = async ({
   }
   console.info(`Found ${output.mdezvoltarii.length} items. Accessing each page to fetch documents links...`)
   console.info('-------------------')
-  for await (docPage of output.mdezvoltarii) {
-    await page.goto(docPage.currentUrl)
-    console.info(`Navigated to ${docPage.currentUrl} to fetch documents links`)
-    console.info('-------------------')
-    pageCounter += 1
-    const docLinks = page.locator(`a[role="link"][href^="../../uploads"]`)
-    for await (const docLink of await docLinks.all()) {
-      const docUrl = (await docLink.getAttribute('href')).replaceAll('../../', '')
-      const docType = getDocumentType(docUrl)
-      if (!docCounter[docType]) {
-        docCounter[docType] = 0
+  try {
+    for await (docPage of output.mdezvoltarii) {
+      await page.goto(docPage.currentUrl)
+      console.info(`Navigated to ${docPage.currentUrl} to fetch documents links`)
+      console.info('-------------------')
+      pageCounter += 1
+      const docLinks = page.locator(`a[role="link"][href^="../../uploads"]`)
+      for await (const docLink of await docLinks.all()) {
+        const docUrl = (await docLink.getAttribute('href')).replaceAll('../../', '')
+        const docType = getDocumentType(docUrl)
+        if (!docCounter[docType]) {
+          docCounter[docType] = 0
+        }
+        docCounter[docType] += 1
+        documentCounter += 1
+        docPage.documents.push({
+          date: docPage.date,
+          link: `${baseUrl}${docUrl}`,
+          title: (await docLink.textContent()).trim(),
+          type: docType
+        })
       }
-      docCounter[docType] += 1
-      documentCounter += 1
-      docPage.documents.push({
-        date: docPage.date,
-        link: `${baseUrl}${docUrl}`,
-        title: (await docLink.textContent()).trim(),
-        type: docType
-      })
+      if (documentCounter >= maxResults) {
+        console.info(`Reached maximum results limit of ${maxResults}, stop accessing pages to fetch documents...`)
+        console.info('-------------------')
+        break
+      }
+      if (Date.now() - timer > timeout) {
+        console.info(`Reached timeout limit of ${timeout}ms, stop fetching documents and gracefully exit`)
+        console.info('-------------------')
+        break
+      }
     }
-    if (documentCounter >= maxResults) {
-      console.info(`Reached maximum results limit of ${maxResults}, stop accessing pages to fetch documents...`)
-      console.info('-------------------')
-      break
-    }
-    if (Date.now() - timer > timeout) {
-      console.info(`Reached timeout limit of ${timeout}ms, stop fetching documents and gracefully exit`)
-      console.info('-------------------')
-      break
-    }
+  } catch (error) {
+    console.info(`General error while fetching documents links from ${docPage.currentUrl} page...\nGracefully exiting...`)
+    console.info('-------------------')
+    console.error(error)
   }
+
+  output.mdezvoltarii = output.mdezvoltarii.filter(docPage => docPage.documents.length > 0)
 
   await teardown()
   console.timeEnd(timerName)

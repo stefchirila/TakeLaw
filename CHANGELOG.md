@@ -1,6 +1,10 @@
 # Changelog
 
-## [Unreleased]
+## [0.0.2] - 2023-03-11
+
+### Changed
+- Updated `mdezvoltarii` script to gracefully exit when encountering a general error
+- Removed empty documents from `mdezvoltarii` script output
 
 ## [0.0.1] - 2023-03-11
 
