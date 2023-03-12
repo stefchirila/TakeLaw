@@ -50,6 +50,14 @@ Ex:
 //   fs.writeFile('output-mdezvoltarii.json', JSON.stringify(output, null, 2))
 // })()
 
+const { main: meducatiei } = require('./scripts/meducatiei')
+;(async () => {
+  const output = await meducatiei({
+    headless: false
+  })
+  fs.writeFile('output-meducatiei.json', JSON.stringify(output, null, 2))
+})()
+
 // const { main: senat } = require('./scripts/senat')
 // ;(async () => {
 //   const output = await senat({

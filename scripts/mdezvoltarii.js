@@ -1,7 +1,6 @@
 const {
   defaultTimeout,
   getDocumentType,
-  knownDocumentTypes,
   outputReport,
   setup,
   teardown
