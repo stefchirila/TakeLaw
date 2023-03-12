@@ -51,9 +51,10 @@ const main = async ({
     } else {
       await page.goto(link)
     }
+    await page.waitForLoadState('networkidle')
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')
-    await page.waitForLoadState('networkidle')
+    pageCounter += 1
     const date = (await page.locator('.date-display-single').textContent())
       .trim()
       .replaceAll('.', '-')
@@ -62,6 +63,7 @@ const main = async ({
       const docUrl = (await docLink.getAttribute('href'))
       const docType = getDocumentType(docUrl)
       documentCounter += 1
+      docCounter[docType] = docCounter[docType] !== undefined ? docCounter[docType] + 1 : 1
       documents.push({
         date,
         link: docUrl,

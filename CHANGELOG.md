@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.4] - 2023-03-12
+
+### Changed
+- Moved output files to their own directory
+
+### Fixed
+- Fixed `meducatiei` script to correctly output its report
+
 ## [0.0.3] - 2023-03-12
 
 ### Added

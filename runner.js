@@ -22,7 +22,7 @@ Ex:
 //   // other params specific to each script
 //   timestamp: Date.now() - 1000 * 60 * 60 * 24 * 5
 //   })
-//   fs.writeFile('output-cdep.json', JSON.stringify(output, null, 2))
+//   fs.writeFile('output/cdep.json', JSON.stringify(output, null, 2))
 // })()
 
 // const { main: mtransport } = require('./scripts/mtransport')
@@ -31,7 +31,7 @@ Ex:
 //     headless: false
 //   })
 //   // console.info(output)
-//   fs.writeFile('output-mtransport.json', JSON.stringify(output, null, 2))
+//   fs.writeFile('output/mtransport.json', JSON.stringify(output, null, 2))
 // })()
 
 // const { main: mfinante } = require('./scripts/mfinante')
@@ -39,7 +39,7 @@ Ex:
 //   const output = await mfinante({
 //     headless: false
 //   })
-//   fs.writeFile('output-mfinante.json', JSON.stringify(output, null, 2))
+//   fs.writeFile('output/mfinante.json', JSON.stringify(output, null, 2))
 // })()
 
 // const { main: mdezvoltarii } = require('./scripts/mdezvoltarii')
@@ -47,22 +47,21 @@ Ex:
 //   const output = await mdezvoltarii({
 //     headless: false
 //   })
-//   fs.writeFile('output-mdezvoltarii.json', JSON.stringify(output, null, 2))
+//   fs.writeFile('output/mdezvoltarii.json', JSON.stringify(output, null, 2))
 // })()
 
-const { main: meducatiei } = require('./scripts/meducatiei')
-;(async () => {
-  const output = await meducatiei({
-    headless: false
-  })
-  fs.writeFile('output-meducatiei.json', JSON.stringify(output, null, 2))
-})()
+// const { main: meducatiei } = require('./scripts/meducatiei')
+// ;(async () => {
+//   const output = await meducatiei({
+//     headless: false
+//   })
+//   fs.writeFile('output/meducatiei.json', JSON.stringify(output, null, 2))
+// })()
 
 // const { main: senat } = require('./scripts/senat')
 // ;(async () => {
 //   const output = await senat({
 //     headless: false
 //   })
-//   console.info(output)
-//   // fs.writeFile('output.json', JSON.stringify(output, null, 2))
+//   fs.writeFile('output/senat.json', JSON.stringify(output, null, 2))
 // })()
