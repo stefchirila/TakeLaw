@@ -77,8 +77,8 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
         timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (4 minutes)
       })
       ```
-1. [ ] M Afaceri Interne
-1. [ ] M Afaceri Externe
+1. [ ] [M Afaceri Interne](https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/)
+1. [ ] [M Afaceri Externe](https://www.mae.ro/node/2011)
 1. [ ] M Apararii Nationale
 1. [ ] Monitorul Oficial
 1. [ ] M Justitie
