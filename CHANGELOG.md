@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.5] - 2023-03-13
+
+### Added
+- Added `mmediu` script
+
+### Changed
+- Added `7z` to the list of documents recognized to be archives
+
 ## [0.0.4] - 2023-03-12
 
 ### Changed

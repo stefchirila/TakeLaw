@@ -67,7 +67,16 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
      ```
      otherwise the script might take more than 5 minutes to finish (experimented locally it took ~8 minutes to parse and fetch all the documents, current year + archived years)
 1. [x] [M Educatiei](https://www.edu.ro/proiecte-acte-normative) ~~+ [archives](https://www.edu.ro/transparen%C8%9B%C4%83-institu%C8%9Bional%C4%83)?~~ (_done, **requires validation**_)
-1. [ ] [M Mediului Apelor și Pădurilor](http://www.mmediu.ro/categorie/proiecte-de-acte-normative/41)
+1. [x] [M Mediului Apelor și Pădurilor](http://www.mmediu.ro/categorie/proiecte-de-acte-normative/41) (_done, **requires validation**_)
+    - fetches all documents for the entire history using the pagination links
+    - requires a `maxPages` param (which will be used to limit the number of pages to be parsed)
+    - **VERY IMPORTANT**: provide the `maxPages` param and, optionally, the `timeout` param as follows:
+      ```ts
+      const output = await main({
+        maxPages: 5, // default: 10
+        timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (4 minutes)
+      })
+      ```
 1. [ ] M Afaceri Interne
 1. [ ] M Afaceri Externe
 1. [ ] M Apararii Nationale

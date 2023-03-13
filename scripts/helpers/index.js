@@ -93,6 +93,7 @@ const getDocumentType = (url) => {
     case 'xlsx':
     case 'ods':
       return 'xls'
+    case '7z':
     case 'rar':
     case 'zip':
       return 'archive'
