@@ -40,7 +40,6 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [Camera Deputaților](https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?idl=1) - `cdep.js` (_done, **requires validation**_) 
     - fetches documents based on the provided timestamp
     - requires a `timestamp` param, which is the JS UNIX timestamp corresponding to the date of the page to be parsed
-1. [ ] [Senat](https://www.senat.ro/ProgramLucruZi.aspx?Zi&ComisieID=587d586c-13fa-4bf6-8dbb-9fc3617dbdf4): `senat.js` (_in progress_)
 1. [x] [M Finantelor Publice](https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative) - `mfinante.js` (_done, **requires validation**_)
     - fetches all documents from the entire history using the pagination
 1. [x] [M Transporturilor](https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare) - `mtransporturi.js` (_done, **requires validation**_)
@@ -77,10 +76,9 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
         timeout: 2 * 60 * 1000, // default: 4 * 60 * 1000 (4 minutes)
       })
       ```
-1. [ ] [M Afaceri Interne](https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/)
+1. [x] [M Afaceri Interne](https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/) (_done, **requires validation**_)
 1. [ ] [M Afaceri Externe](https://www.mae.ro/node/2011)
 1. [ ] M Apararii Nationale
-1. [ ] Monitorul Oficial
 1. [ ] M Justitie
 1. [ ] M Agriculturii și Dezvoltării Rurale
 1. [ ] C pentru muncă, familie şi protecţie socială
@@ -99,3 +97,5 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [ ] Ministry for Romanians Everywhere ??
 1. [ ] Ministry for Relations with Parliament ??
 1. [ ] European Court Of Justice
+1. [ ] Monitorul Oficial
+1. [ ] [Senat](https://www.senat.ro/ProgramLucruZi.aspx?Zi&ComisieID=587d586c-13fa-4bf6-8dbb-9fc3617dbdf4): `senat.js` (_in progress_)

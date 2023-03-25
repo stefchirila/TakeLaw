@@ -97,6 +97,8 @@ const getDocumentType = (url) => {
     case 'rar':
     case 'zip':
       return 'archive'
+    case 'vsd':
+      return 'visio'
     default:
       return 'unknown'
   }

@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.6] - 2023-03-25
+
+### Added
+- Added `mai` script
+
 ## [0.0.5] - 2023-03-13
 
 ### Added
