@@ -65,7 +65,7 @@ const main = async ({
     const documents = []
     for await (const link of await page.locator('.brz-section__content a[href^="https://www.just.ro/wp-content/uploads/"]').all()) {
       const documentLink = (await link.getAttribute('href')).replaceAll(' ', '%20')
-      const documentTitle = (await link.textContent()).trim()
+      const documentTitle = (await link.textContent()).trim().replaceAll('–', '-')
       const documentType = getDocumentType(documentLink)
       if (documentTitle !== '') {
         documents.push({
