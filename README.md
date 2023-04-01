@@ -77,9 +77,9 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
       })
       ```
 1. [x] [M Afaceri Interne](https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/) (_done, **requires validation**_)
-1. [ ] [M Afaceri Externe](https://www.mae.ro/node/2011)
-1. [ ] M Apararii Nationale
-1. [ ] M Justitie
+1. [x] [M Afaceri Externe](https://www.mae.ro/node/2011) (_done, **requires validation**_)
+1. [x] [M Justitie](https://www.just.ro/informatii-de-interes-public/acte-normative/proiecte-in-dezbatere/) (_done, **requires validation**_)
+1. [ ] [M Apararii Nationale](https://sg.mapn.ro/transparenta)
 1. [ ] M Agriculturii și Dezvoltării Rurale
 1. [ ] C pentru muncă, familie şi protecţie socială
 1. [ ] M Economiei
