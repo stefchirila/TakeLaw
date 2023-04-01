@@ -74,6 +74,15 @@ Ex:
 //   fs.writeFile('output/mai.json', JSON.stringify(output, null, 2))
 // })()
 
+// const { main: mae } = require('./scripts/mae')
+// ;(async () => {
+//   const output = await mae({
+//     headless: false
+//   })
+//   fs.writeFile('output/mae.json', JSON.stringify(output, null, 2))
+// })()
+
+
 // const { main: senat } = require('./scripts/senat')
 // ;(async () => {
 //   const output = await senat({

@@ -2,6 +2,43 @@
   "mai": [
     {
       "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "27-03-2023",
+      "name": "proiectul de hotărâre a Guvernului privind aprobarea Strategiei Naționale de Ordine și Siguranță Publică 2023-2027.",
+      "documents": [
+        {
+          "date": "27-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679910354_Proiect%20HG.pdf",
+          "title": "Proiect HG",
+          "type": "pdf"
+        },
+        {
+          "date": "27-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679910354_Proiect%20SNSOP%202023-2027%20%20martie%202023.pdf",
+          "title": "Proiect",
+          "type": "pdf"
+        },
+        {
+          "date": "27-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679910354_Nota%20fundamentare%20.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "27-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679910354_Anexa%201%20.pdf",
+          "title": "Anexa 1",
+          "type": "pdf"
+        },
+        {
+          "date": "27-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679910354_Anexa%202%20.pdf",
+          "title": "Anexa 2",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
       "date": "24-03-2023",
       "name": "Proiectul Ordonanței de urgență a Guvernului pentru modificarea și completarea articolului 1 din Ordonanța de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin și asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina",
       "documents": [
