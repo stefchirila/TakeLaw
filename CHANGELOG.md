@@ -5,6 +5,7 @@
 ### Added
 - Added `mae` script
 - Added `mjustitiei` script
+- Added `mapn` script
 
 ## [0.0.6] - 2023-03-25
 

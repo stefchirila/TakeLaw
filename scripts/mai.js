@@ -31,8 +31,8 @@ const main = async ({
   )  
   await page.goto('https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/')
   console.info(`Navigated to ${page.url()} to fetch documents`)
-  const linkLocator = 'a[href^="https://webapp.mai.gov.ro"]'
   console.info('-------------------')
+  const linkLocator = 'a[href^="https://webapp.mai.gov.ro"]'
   const items = []
   for await (const child of await page.locator('.entry-content > div[style], .entry-content > p').all()) {
     const tagName = await child.evaluate(node => node.tagName)
