@@ -82,12 +82,11 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [M Apararii Nationale](https://sg.mapn.ro/transparenta) (_done, **requires validation**_)
 1. [x] [M Economiei](https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/) (_done, **requires validation**_)
 1. [x] [M Energiei](https://energie.gov.ro/category/transparenta-institutionala/transparenta-decizionala/) (_done, **requires validation**_)
+1. [ ] [M Antreprenoriatului și Turismului](https://turism.gov.ro/web/category/consultare-publica/)
+1. [ ] [M Sanatatii](https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/)
 1. [ ] M Agriculturii și Dezvoltării Rurale
-1. [ ] C pentru muncă, familie şi protecţie socială
 1. [ ] Secretariatul General al Guvernului SGG
 1. [ ] M Investițiilor și Proiectelor Europene
-1. [ ] M Antreprenoriatului și Turismului ??	Ministry of Business Environment, Trade and Entrepreneurship
-1. [ ] M Sanatatii
 1. [ ] M Culturii
 1. [ ] M Cercetării, Inovării și Digitalizării
 1. [ ] Ministry of Communications and Information Society ?? 
