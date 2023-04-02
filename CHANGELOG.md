@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.8] - 2023-04-02
+
+### Added
+- Added `meconomiei` script
+
 ## [0.0.7] - 2023-04-01
 
 ### Added

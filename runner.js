@@ -98,6 +98,14 @@ Ex:
 //   fs.writeFile('output/mapn.json', JSON.stringify(output, null, 2))
 // })()
 
+// const { main: meconomiei } = require('./scripts/meconomiei')
+// ;(async () => {
+//   const output = await meconomiei({
+//     headless: false
+//   })
+//   fs.writeFile('output/meconomiei.json', JSON.stringify(output, null, 2))
+// })()
+
 // const { main: senat } = require('./scripts/senat')
 // ;(async () => {
 //   const output = await senat({

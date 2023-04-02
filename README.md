@@ -80,7 +80,7 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [M Afaceri Externe](https://www.mae.ro/node/2011) (_done, **requires validation**_)
 1. [x] [M Justitie](https://www.just.ro/informatii-de-interes-public/acte-normative/proiecte-in-dezbatere/) (_done, **requires validation**_)
 1. [x] [M Apararii Nationale](https://sg.mapn.ro/transparenta) (_done, **requires validation**_)
-1. [ ] [M Economiei](https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/)
+1. [x] [M Economiei](https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/) (_done, **requires validation**_)
 1. [ ] [M Energiei](https://energie.gov.ro/category/transparenta-institutionala/transparenta-decizionala/)
 1. [ ] M Agriculturii și Dezvoltării Rurale
 1. [ ] C pentru muncă, familie şi protecţie socială
