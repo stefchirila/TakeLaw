@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.1.0] - 2023-04-18
+
+### Added
+- Added `cdep-pl` script
+
 ## [0.0.9] - 2023-04-02
 
 ### Added

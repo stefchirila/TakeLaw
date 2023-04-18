@@ -40,6 +40,8 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [Camera Deputaților](https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?idl=1) - `cdep.js` (_done, **requires validation**_) 
     - fetches documents based on the provided timestamp
     - requires a `timestamp` param, which is the JS UNIX timestamp corresponding to the date of the page to be parsed
+1. [x] [Camera Deputaților - detailed](https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi) - `cdep-pl.js` (_done, **requires validation**_)
+    - fetches details about each PL-X from the current plenary session
 1. [x] [M Finantelor Publice](https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative) - `mfinante.js` (_done, **requires validation**_)
     - fetches all documents from the entire history using the pagination
 1. [x] [M Transporturilor](https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare) - `mtransporturi.js` (_done, **requires validation**_)

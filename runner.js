@@ -25,6 +25,14 @@ Ex:
 //   fs.writeFile('output/cdep.json', JSON.stringify(output, null, 2))
 // })()
 
+// const { main: cdepPl } = require('./scripts/cdep-pl')
+// ;(async () => {
+//   const output = await cdepPl({
+//     headless: false
+//   })
+//   fs.writeFile('output/cdep-pl.json', JSON.stringify(output, null, 2))
+// })()
+
 // const { main: mtransport } = require('./scripts/mtransport')
 // ;(async () => {
 //   const output = await mtransport({

@@ -1,6 +1,150 @@
 {
   "meducatiei": [
     {
+      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_25_2023_ISJVN",
+      "date": "04-04-2023",
+      "name": "[Consultare publică] Proiect de Hotărâre de Guvern privind actualizarea valorii de inventar, caracteristicilor tehnice și a adresei poștale ale unui imobil",
+      "documents": [
+        {
+          "date": "04-04-2023",
+          "link": "https://www.edu.ro/sites/default/files/Proiect_HG_ISJVN.pdf",
+          "title": "Proiect_HG_ISJVN.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "04-04-2023",
+          "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_Proiect_HG_ISJVN.pdf",
+          "title": "Nota_fundamentare_Proiect_HG_ISJVN.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "04-04-2023",
+          "link": "https://www.edu.ro/sites/default/files/Anexa1_Proiect_HG_ISJVN.pdf",
+          "title": "Anexa1_Proiect_HG_ISJVN.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "04-04-2023",
+          "link": "https://www.edu.ro/sites/default/files/Anexa2_Proiect_HG_ISJVN.pdf",
+          "title": "Anexa2_Proiect_HG_ISJVN.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_24_2023_UMF_Craiova",
+      "date": "15-03-2023",
+      "name": "[Consultare publică] Proiect de Hotărâre de Guvern privind înscrierea imobilului situat în municipiul Craiova (...)  și darea acestuia în administrarea Ministerului Educației pentru Universitatea de Medicină și Farmacie din Craiova",
+      "documents": [
+        {
+          "date": "15-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Proiect_HG_UMF_Craiova_0.pdf",
+          "title": "Proiect_HG_UMF_Craiova.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "15-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_Proiect_HG_UMF_Craiova_0.pdf",
+          "title": "Nota_fundamentare_Proiect_HG_UMF_Craiova.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "15-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Anexa_Proiect_HG_UMF_Craiova.pdf",
+          "title": "Anexa_Proiect_HG_UMF_Craiova.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_23_2023_CFCLM",
+      "date": "14-03-2023",
+      "name": "[Consultare publică] Proiect de Hotărâre de Guvern pentru modificarea HG nr. 922/2018",
+      "documents": [
+        {
+          "date": "14-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/proiect_modificare_HG_CFCLM.pdf",
+          "title": "proiect_modificare_HG_CFCLM.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "14-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_proiect_modificare_HG_CFCLM.pdf",
+          "title": "Nota_fundamentare_proiect_modificare_HG_CFCLM.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_22_2023",
+      "date": "13-03-2023",
+      "name": "[Consultare publică] Proiect de Hotărâre de Guvern  privind declasificarea documentelor, emise anterior anului 2002, de către Ministerul Educației (...)",
+      "documents": [
+        {
+          "date": "13-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/proiect_HG_declasificare_documente.pdf",
+          "title": "proiect_HG_declasificare_documente.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "13-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_proiect_HG_declasificare_documente.pdf",
+          "title": "Nota_fundamentare_proiect_HG_declasificare_documente.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "13-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Anexa_4.pdf",
+          "title": "Anexa.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_21_2023_BCU_Cluj_Napoca",
+      "date": "10-03-2023",
+      "name": "[Consultare publică] Proiect de Hotărâre de Guvern privind actualizarea caracteristicilor tehnice și a valorii de inventar a bunului imobil identificat cu nr. MF 40145, aflat în domeniul public al statului și în administrarea BCU Cluj-Napoca",
+      "documents": [
+        {
+          "date": "10-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/proiect_HG_BCU_CJN.pdf",
+          "title": "proiect_HG_BCU_CJN.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "10-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_proiect_HG_BCU_CJN.pdf",
+          "title": "Nota_fundamentare_proiect_HG_BCU_CJN.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "10-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Anexa_proiect_HG_BCU_CJN.pdf",
+          "title": "Anexa_proiect_HG_BCU_CJN.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_20_2023",
+      "date": "10-03-2023",
+      "name": "[Consultare publică] Proiect de Hotărâre de Guvern pentru modificarea punctului IV, litera c), din anexa la Hotărârea Guvernului nr. 632/2022",
+      "documents": [
+        {
+          "date": "10-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Proiect_HG_modificare_HG_632_2023.pdf",
+          "title": "Proiect_HG_modificare_HG_632_2023.pdf",
+          "type": "pdf"
+        },
+        {
+          "date": "10-03-2023",
+          "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_Proiect_HG_modificare_HG_632_2023.pdf",
+          "title": "Nota_fundamentare_Proiect_HG_modificare_HG_632_2023.pdf",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
       "currentUrl": "https://www.edu.ro/proiecte_HG_18_19_2023",
       "date": "02-03-2023",
       "name": "[Consultare publică] Proiecte de Hotărâri de Guvern privind înscrierea unor imobile în inventarul centralizat al bunurilor din domeniul public al statului, respectiv actualizarea valorii de inventar și a datelor de identificare ale unui bun imobil",
@@ -108,25 +252,6 @@
           "link": "https://www.edu.ro/sites/default/files/Formular_DezPub_ME_02.docx",
           "title": "Formular_DezPub_ME_02.docx",
           "type": "doc"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_17_2023",
-      "date": "28-02-2023",
-      "name": "[Consultare publică] Proiect de Hotărâre de Guvern privind participarea României la Programul pentru evaluarea internaţională a elevilor - PISA 2025, inclusiv la opțiunile internaționale dezvoltate de Organizaţia pentru Cooperare şi Dezvoltare Economică",
-      "documents": [
-        {
-          "date": "28-02-2023",
-          "link": "https://www.edu.ro/sites/default/files/Proiect_HG_PISA_2025.pdf",
-          "title": "Proiect_HG_PISA_2025.pdf",
-          "type": "pdf"
-        },
-        {
-          "date": "28-02-2023",
-          "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_Proiect_HG_PISA_2025.pdf",
-          "title": "Nota_fundamentare_Proiect_HG_PISA_2025.pdf",
-          "type": "pdf"
         }
       ]
     },
@@ -370,25 +495,6 @@
           "date": "10-01-2023",
           "link": "https://www.edu.ro/sites/default/files/Nota_fundamentare_proiect_HG_LCCR.pdf",
           "title": "Nota_fundamentare_proiect_HG_LCCR.pdf",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.edu.ro/consultare_publica_proiect_HG_burse_strainatate_01_2023",
-      "date": "06-01-2023",
-      "name": "[Consultare publică] Proiect de Hotărâre de Guvern privind acordarea burselor în străinătate pentru stagii de studii universitare de masterat, de doctorat, pentru stagii postdoctorale și de cercetare",
-      "documents": [
-        {
-          "date": "06-01-2023",
-          "link": "https://www.edu.ro/sites/default/files/proiect_HG_burse_2023.pdf",
-          "title": "proiect_HG_burse_2023.pdf",
-          "type": "pdf"
-        },
-        {
-          "date": "06-01-2023",
-          "link": "https://www.edu.ro/sites/default/files/nota_fundamentare_proiect_HG_burse_2023.pdf",
-          "title": "nota_fundamentare_proiect_HG_burse_2023.pdf",
           "type": "pdf"
         }
       ]
