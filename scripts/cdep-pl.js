@@ -1,6 +1,5 @@
 const {
   defaultTimeout,
-  getDate,
   getDocumentType,
   outputReport,
   setup,
@@ -11,8 +10,8 @@ const main = async ({
   headless = true,
   timeout = defaultTimeout,
 }) => {
-  const timerName = 'CDEP took'
-  console.info('Starting CDEP script...')
+  const timerName = 'CDEP-PL took'
+  console.info('Starting CDEP-PL script...')
   console.info('-------------------')
   console.time(timerName)
   let documentCounter = 0
@@ -28,7 +27,7 @@ const main = async ({
   const today = new Date()
   const formattedToday = `${today.getDate().toString().padStart(2, '0')}-${(today.getMonth() + 1).toString().padStart(2, '0')}-${today.getFullYear()}`
   const baseUrl = 'https://www.cdep.ro'
-  await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi`)
+  await page.goto('https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi')
   console.info(`Navigated to ${page.url()} to fetch links`)
   console.info('-------------------')
   pageCounter += 1

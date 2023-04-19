@@ -42,6 +42,9 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
     - requires a `timestamp` param, which is the JS UNIX timestamp corresponding to the date of the page to be parsed
 1. [x] [Camera Deputaților - detailed](https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi) - `cdep-pl.js` (_done, **requires validation**_)
     - fetches details about each PL-X from the current plenary session
+1. [ ] [Senat](https://www.senat.ro/ProgramLucruZi.aspx?Zi&ComisieID=587d586c-13fa-4bf6-8dbb-9fc3617dbdf4): `senat.js` (_in progress_)
+1. [x] [Senat - detailed](https://www.senat.ro/): `senat-pl.js` (_done, **requires validation**_)
+    - fetches details about each subject from the current plenary session & all committee sessions
 1. [x] [M Finantelor Publice](https://mfinante.gov.ro/ro/acasa/transparenta/proiecte-acte-normative) - `mfinante.js` (_done, **requires validation**_)
     - fetches all documents from the entire history using the pagination
 1. [x] [M Transporturilor](https://www.mt.ro/web14/transparenta-decizionala/consultare-publica/acte-normative-in-avizare) - `mtransporturi.js` (_done, **requires validation**_)
@@ -98,4 +101,3 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [ ] Ministry for Relations with Parliament ??
 1. [ ] European Court Of Justice
 1. [ ] Monitorul Oficial
-1. [ ] [Senat](https://www.senat.ro/ProgramLucruZi.aspx?Zi&ComisieID=587d586c-13fa-4bf6-8dbb-9fc3617dbdf4): `senat.js` (_in progress_)
