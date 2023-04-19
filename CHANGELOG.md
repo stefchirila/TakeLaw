@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.1.2] - 2023-04-19
+
+### Changed
+- Updated `cdep-pl` script to accept a `timestamp` param
+
 ## [0.1.1] - 2023-04-19
 
 ### Added

@@ -1,6 +1,7 @@
 const {
   defaultTimeout,
   getDocumentType,
+  getDate,
   outputReport,
   setup,
   teardown
@@ -9,6 +10,7 @@ const {
 const main = async ({
   headless = true,
   timeout = defaultTimeout,
+  timestamp = Date.now()
 }) => {
   const timerName = 'CDEP-PL took'
   console.info('Starting CDEP-PL script...')
@@ -27,7 +29,7 @@ const main = async ({
   const today = new Date()
   const formattedToday = `${today.getDate().toString().padStart(2, '0')}-${(today.getMonth() + 1).toString().padStart(2, '0')}-${today.getFullYear()}`
   const baseUrl = 'https://www.cdep.ro'
-  await page.goto('https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi')
+  await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`)
   console.info(`Navigated to ${page.url()} to fetch links`)
   console.info('-------------------')
   pageCounter += 1

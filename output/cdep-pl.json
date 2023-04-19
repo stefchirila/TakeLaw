@@ -2,7 +2,7 @@
   "camera_deputatilor_pl": [
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20846",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 248/2023",
       "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal, precum şi a altor acte normative",
       "fields": [
@@ -104,7 +104,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18923",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 585/2020",
       "title": "Proiect de Lege pentru modificarea articolului 10 alin.(12) din Legea nr.82/1993 privind constituirea Rezervaţiei Biosferei ”Delta Dunării”",
       "fields": [
@@ -213,7 +213,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20121",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 354/2022",
       "title": "Proiect de Lege pentru modificarea şi completarea Legii fondului funciar nr.18/1991",
       "fields": [
@@ -252,7 +252,7 @@
         },
         {
           "name": "Stadiu",
-          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+          "value": "adoptat de catre Camera Deputatilor"
         },
         {
           "name": "Initiator - la data initierii",
@@ -332,7 +332,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20416",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 620/2022",
       "title": "Propunere legislativă pentru declararea zilei de 30 noiembrie ca Ziua naţională a tezaurului uman viu",
       "fields": [
@@ -371,7 +371,7 @@
         },
         {
           "name": "Stadiu",
-          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+          "value": "adoptata de catre Camera Deputatilor"
         },
         {
           "name": "Initiator - la data initierii",
@@ -462,7 +462,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20780",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 189/2023",
       "title": "Proiect de Lege pentru ratificarea Acordului de garanţie dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 4 ianuarie 2023, privind garantarea în procent de 100% a obligaţiilor aferente Acordului de împrumut (Proiect privind consolidarea instituţională şi rezistenţa plasei de siguranţă financiară) dintre Fondul de garantare a depozitelor bancare şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, în valoare de 406.000.000 EUR",
       "fields": [
@@ -504,7 +504,7 @@
         },
         {
           "name": "Stadiu",
-          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+          "value": "la Senat"
         },
         {
           "name": "Initiator - la data initierii",
@@ -576,7 +576,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=16039",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 511/2016",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 52/2016 privind contractele de credit oferite consumatorilor pentru bunuri imobile precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori",
       "fields": [
@@ -715,7 +715,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20489",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 707/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.134/2022 privind unele măsuri în vederea protejării consumatorului final în ceea ce priveşte utilizarea materialelor lemnoase şi a produselor derivate din lemn, pentru încălzirea locuinţei în sezonul rece",
       "fields": [
@@ -758,7 +758,7 @@
         },
         {
           "name": "Stadiu",
-          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+          "value": "Proiectul de lege pentru aprobarea ordonantei adoptat de catre Camera Deputatilor"
         },
         {
           "name": "Initiator - la data initierii",
@@ -835,18 +835,6 @@
         },
         {
           "date": "08-12-2022",
-          "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av707.pdf",
-          "title": "Comisia pentru muncă şi protecţie socială",
-          "type": "pdf"
-        },
-        {
-          "date": "08-12-2022",
-          "link": "https://www.cdep.ro/comisii/munca/doc/2022/av707.doc",
-          "title": "Comisia pentru muncă şi protecţie socială",
-          "type": "doc"
-        },
-        {
-          "date": "08-12-2022",
           "link": "https://www.cdep.ro/comisii/administratie/pdf/2022/av707.pdf",
           "title": "Comisia pentru administraţie publică şi amenajarea teritoriului",
           "type": "pdf"
@@ -855,6 +843,18 @@
           "date": "08-12-2022",
           "link": "https://www.cdep.ro/comisii/administratie/doc/2022/av707.docx",
           "title": "Comisia pentru administraţie publică şi amenajarea teritoriului",
+          "type": "doc"
+        },
+        {
+          "date": "08-12-2022",
+          "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av707.pdf",
+          "title": "Comisia pentru muncă şi protecţie socială",
+          "type": "pdf"
+        },
+        {
+          "date": "08-12-2022",
+          "link": "https://www.cdep.ro/comisii/munca/doc/2022/av707.doc",
+          "title": "Comisia pentru muncă şi protecţie socială",
           "type": "doc"
         },
         {
@@ -873,7 +873,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20635",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 44/2023",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.173/2022 privind stabilirea unor măsuri necesare pentru îndeplinirea jaloanelor şi ţintelor din Planul naţional de redresare şi rezilienţă aferente componentei 10 - Fondul local, componentei 11- Turism şi cultură, componentei 14 - Buna guvernanţă şi componentei 15 - Educaţie, precum şi pentru completarea unor acte normative",
       "fields": [
@@ -986,12 +986,24 @@
           "link": "https://www.cdep.ro/comisii/mediu/doc/2023/av044.doc",
           "title": "Comisia pentru mediu şi echilibru ecologic",
           "type": "doc"
+        },
+        {
+          "date": "19-04-2023",
+          "link": "https://www.cdep.ro/comisii/economica/pdf/2023/av044.pdf",
+          "title": "Comisia pentru politică economică, reformă şi privatizare",
+          "type": "pdf"
+        },
+        {
+          "date": "19-04-2023",
+          "link": "https://www.cdep.ro/comisii/economica/doc/2023/av044.docx",
+          "title": "Comisia pentru politică economică, reformă şi privatizare",
+          "type": "doc"
         }
       ]
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19429",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 578/2021",
       "title": "Proiect de Lege privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România",
       "fields": [
@@ -1030,7 +1042,7 @@
         },
         {
           "name": "Stadiu",
-          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+          "value": "adoptat de catre Camera Deputatilor"
         },
         {
           "name": "Initiator - la data initierii",
@@ -1157,7 +1169,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19606",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 462/2021",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.101/2021 pentru modificarea art.5 pct.IV 4  din Legea nr.76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă, precum şi pentru modificarea şi completarea Legii nr.416/2001 privind venitul minim garantat",
       "fields": [
@@ -1350,7 +1362,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20292",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 507/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.94/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
       "fields": [
@@ -1467,8 +1479,259 @@
       ]
     },
     {
+      "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20379",
+      "date": "19-04-2023",
+      "name": "PL-x nr. 603/2022",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.295/2004 privind regimul armelor şi muniţiilor",
+      "fields": [
+        {
+          "name": "Nr. înregistrare B.P.I.",
+          "value": "729/06-10-2022"
+        },
+        {
+          "name": "Nr. înregistrare Camera Deputatilor",
+          "value": "603/11.10.2022"
+        },
+        {
+          "name": "Nr. înregistrare Senat",
+          "value": "L550/27.06.2022",
+          "link": "https://senat.ro/legis/lista.aspx?nr_cls=L550&an_cls=2022#ListaDocumente"
+        },
+        {
+          "name": "Procedura legislativa",
+          "value": "cf. Constitutiei revizuita în 2003"
+        },
+        {
+          "name": "Camera decizionala",
+          "value": "Camera Deputatilor"
+        },
+        {
+          "name": "Tip initiativa",
+          "value": "Proiect de Lege pentru modificarea L. nr. 295/2004"
+        },
+        {
+          "name": "Caracter",
+          "value": "ordinar"
+        },
+        {
+          "name": "Procedura de urgenta",
+          "value": "nu"
+        },
+        {
+          "name": "Stadiu",
+          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+        },
+        {
+          "name": "Initiator - la data initierii",
+          "value": "28 senatori, din care:- PSD:Bodog Florian-Dorel, Cazanciuc Robert-Marius, Cionoiu Nicusor, Creţu Gabriela, Deneş Ioan, Dogariu Eugen, Dunca Marius-Alexandru, Genoiu Mihail, Georgescu Laura, Humelnicu Marius, Matei Constantin-Bogdan, Matieş Călin-Gheorghe, Mazilu Liviu-Lucian, Mirea Siminica, Moagher Laura-Mihaela, Mocioalcă Ion, Mutu Gabriel, Popa Maricel, Prioteasa Ion, Puiu Ovidiu, Purcărin Bianca-Mihaela, Rotaru Ion, Rujan Ion-Cristinel, Sbîrnea Liliana, Stocheci Cristina-Mariana, Stroe Felix, Tîlvăr Angel, Vlaşin Sorin"
+        },
+        {
+          "name": "documents",
+          "value": [
+            {
+              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/em729.pdf",
+              "title": "Expunerea de motive",
+              "type": "pdf"
+            },
+            {
+              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/ces729.pdf",
+              "title": "Avizul Consiliului Economic şi Social",
+              "type": "pdf"
+            },
+            {
+              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/cl729.pdf",
+              "title": "Avizul Consiliului Legislativ",
+              "type": "pdf"
+            },
+            {
+              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/pvg729.pdf",
+              "title": "Punctul de vedere al Guvernului",
+              "type": "pdf"
+            }
+          ]
+        }
+      ],
+      "docHistory": [
+        {
+          "date": "05-10-2022",
+          "link": "https://www.cdep.ro/proiecte/2022/600/00/3/se729.pdf",
+          "title": "Forma adoptată de Senat",
+          "type": "pdf"
+        },
+        {
+          "date": "11-10-2022",
+          "link": "https://www.cdep.ro/proiecte/2022/600/00/3/as603.pdf",
+          "title": "Adresa Senatului",
+          "type": "pdf"
+        },
+        {
+          "date": "19-10-2022",
+          "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av603.pdf",
+          "title": "Comisia pentru muncă şi protecţie socială",
+          "type": "pdf"
+        },
+        {
+          "date": "19-10-2022",
+          "link": "https://www.cdep.ro/comisii/munca/doc/2022/av603.docx",
+          "title": "Comisia pentru muncă şi protecţie socială",
+          "type": "doc"
+        },
+        {
+          "date": "29-11-2022",
+          "link": "https://www.cdep.ro/comisii/sport/pdf/2022/av603.pdf",
+          "title": "Comisia pentru tineret și sport",
+          "type": "pdf"
+        },
+        {
+          "date": "29-11-2022",
+          "link": "https://www.cdep.ro/comisii/sport/doc/2022/av603.docx",
+          "title": "Comisia pentru tineret și sport",
+          "type": "doc"
+        },
+        {
+          "date": "21-03-2023",
+          "link": "https://www.cdep.ro/comisii/aparare/pdf/2023/rp603_22.pdf",
+          "title": "Comisia juridică, de disciplină şi imunităţiComisia pentru apărare, ordine publică şi siguranţă naţională",
+          "type": "pdf"
+        },
+        {
+          "date": "21-03-2023",
+          "link": "https://www.cdep.ro/comisii/aparare/doc/2023/rp603_22.doc",
+          "title": "Comisia juridică, de disciplină şi imunităţiComisia pentru apărare, ordine publică şi siguranţă naţională",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20300",
+      "date": "19-04-2023",
+      "name": "PL-x nr. 535/2022",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.278/2013 privind emisiile industriale",
+      "fields": [
+        {
+          "name": "Nr. înregistrare B.P.I.",
+          "value": "646/21-09-2022"
+        },
+        {
+          "name": "Nr. înregistrare Camera Deputatilor",
+          "value": "535/26.09.2022"
+        },
+        {
+          "name": "Nr. înregistrare Senat",
+          "value": "L426/28.06.2022",
+          "link": "https://senat.ro/legis/lista.aspx?nr_cls=L426&an_cls=2022#ListaDocumente"
+        },
+        {
+          "name": "Nr. înregistrare Guvern",
+          "value": "E154/23.06.2022"
+        },
+        {
+          "name": "Procedura legislativa",
+          "value": "cf. Constitutiei revizuita în 2003"
+        },
+        {
+          "name": "Camera decizionala",
+          "value": "Camera Deputatilor"
+        },
+        {
+          "name": "Tip initiativa",
+          "value": "Proiect de Lege pentru modificarea L. nr. 278/2013"
+        },
+        {
+          "name": "Caracter",
+          "value": "organic"
+        },
+        {
+          "name": "Procedura de urgenta",
+          "value": "nu"
+        },
+        {
+          "name": "Stadiu",
+          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+        },
+        {
+          "name": "Initiator - la data initierii",
+          "value": "Guvern"
+        },
+        {
+          "name": "Prioritate legislativa",
+          "value": "Legislatura 2020-prezent:  feb 2023 - prezent"
+        },
+        {
+          "name": "documents",
+          "value": [
+            {
+              "link": "https://www.cdep.ro/proiecte/2022/500/30/5/em646.pdf",
+              "title": "Expunerea de motive",
+              "type": "pdf"
+            },
+            {
+              "link": "https://www.cdep.ro/proiecte/2022/500/30/5/ces646.pdf",
+              "title": "Avizul Consiliului Economic şi Social",
+              "type": "pdf"
+            },
+            {
+              "link": "https://www.cdep.ro/proiecte/2022/500/30/5/cl646.pdf",
+              "title": "Avizul Consiliului Legislativ",
+              "type": "pdf"
+            }
+          ]
+        }
+      ],
+      "docHistory": [
+        {
+          "date": "21-09-2022",
+          "link": "https://www.cdep.ro/proiecte/2022/500/30/5/se646.pdf",
+          "title": "Forma adoptată de Senat",
+          "type": "pdf"
+        },
+        {
+          "date": "26-09-2022",
+          "link": "https://www.cdep.ro/proiecte/2022/500/30/5/as535.pdf",
+          "title": "Adresa Senatului",
+          "type": "pdf"
+        },
+        {
+          "date": "26-09-2022",
+          "link": "https://www.cdep.ro/proiecte/2022/500/30/5/gv646.pdf",
+          "title": "Adresa Guvernului",
+          "type": "pdf"
+        },
+        {
+          "date": "19-10-2022",
+          "link": "https://www.cdep.ro/comisii/agricultura/pdf/2022/av535.pdf",
+          "title": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
+          "type": "pdf"
+        },
+        {
+          "date": "19-10-2022",
+          "link": "https://www.cdep.ro/comisii/agricultura/doc/2022/av535.docx",
+          "title": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
+          "type": "doc"
+        },
+        {
+          "date": "15-11-2022",
+          "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av535.pdf",
+          "title": "Comisia pentru industrii şi servicii",
+          "type": "pdf"
+        },
+        {
+          "date": "15-11-2022",
+          "link": "https://www.cdep.ro/comisii/industrii/doc/2022/av535.doc",
+          "title": "Comisia pentru industrii şi servicii",
+          "type": "doc"
+        },
+        {
+          "date": "28-02-2023",
+          "link": "https://www.cdep.ro/comisii/juridica/pdf/2023/rp535_22.pdf",
+          "title": "Comisia juridică, de disciplină şi imunităţiComisia pentru mediu şi echilibru ecologic",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20058",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 284/2022",
       "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.185/2013 privind amplasarea şi autorizarea mijloacelor de publicitate, pentru modificarea şi completarea Ordonanţei de Guvern nr.43/1997 privind regimul drumurilor şi pentru modificarea şi completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii",
       "fields": [
@@ -1595,7 +1858,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20034",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 259/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.46/2022 privind măsurile de punere în aplicare a Regulamentului (UE) 2019/452 al Parlamentului European şi al Consiliului din 19 martie 2019 de stabilire a unui cadru pentru examinarea investiţiilor străine directe în Uniune, precum şi pentru modificarea şi completarea Legii concurenţei nr.21/1996",
       "fields": [
@@ -1772,7 +2035,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20712",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 124/2023",
       "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.346/2006 privind organizarea şi funcţionarea Ministerului Apărării Naţionale",
       "fields": [
@@ -1885,7 +2148,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20288",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 505/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.92/2022 pentru modificarea art.34 alin.(1) din Ordonanţa de urgenţă a Guvernului nr.57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum şi unele măsuri fiscal-bugetare",
       "fields": [
@@ -2020,7 +2283,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19472",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 587/2021",
       "title": "Proiect de Lege pentru modificarea şi completarea art.64 din Legea educaţiei fizice şi sportului nr.69/2000",
       "fields": [
@@ -2174,7 +2437,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19227",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 324/2021",
       "title": "Proiect de Lege pentru completarea art.221din Ordonanţa Guvernului nr.43/1997 privind regimul drumurilor şi pentru modificarea Legii nr.350/2001 privind amenajarea teritoriului şi urbanismul",
       "fields": [
@@ -2279,7 +2542,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20518",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 732/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.146/2022 pentru modificarea şi completarea art.19 din Ordonanţa de urgenţă a Guvernului nr.124/2021 privind stabilirea cadrului instituţional şi financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare şi rezilienţă, precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.155/2020 privind unele măsuri pentru elaborarea Planului naţional de redresare şi rezilienţă necesar României pentru accesarea de fonduri externe rambursabile şi nerambursabile în cadrul Mecanismului de redresare şi rezilienţă",
       "fields": [
@@ -2402,7 +2665,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19490",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 373/2021",
       "title": "Proiect de Lege pentru modificarea şi completarea unor acte normative în vederea desfăşurării activităţii în calitate de asistent maternal profesionist, asistent personal al persoanei cu handicap grav şi asistent personal profesionist",
       "fields": [
@@ -2515,7 +2778,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20377",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 602/2022",
       "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane, precum şi pentru completarea Ordonanţei de urgenţă nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români",
       "fields": [
@@ -2652,7 +2915,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18299",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 266/2020",
       "title": "Propunere legislativă pentru completarea Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
       "fields": [
@@ -2761,7 +3024,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19733",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 8/2022",
       "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.29/2000 privind sistemul naţional de decoraţii al României şi a Ordonanţei de urgenţă a Guvernului nr.24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii",
       "fields": [
@@ -2871,7 +3134,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20554",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 763/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.153/2022 privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi modificarea Ordonanţei de urgenţă a Guvernului nr.119/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
       "fields": [
@@ -2978,7 +3241,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20606",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 12/2023",
       "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei Guvernului nr.27/2011 privind transporturile rutiere",
       "fields": [
@@ -3093,7 +3356,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=17487",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 668/2018",
       "title": "Proiect de Lege privind modificarea Legii 24/2007 privind reglementarea şi administrarea spaţiilor verzi din intravilanul localităţilor",
       "fields": [
@@ -3220,7 +3483,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20338",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 562/2022",
       "title": "Proiect de Lege pentru modificarea şi completarea art.485 din Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
       "fields": [
@@ -3329,7 +3592,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19889",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 125/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.12/2022 pentru modificarea şi completarea unor acte normative din domeniul transporturilor rutiere",
       "fields": [
@@ -3492,7 +3755,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19900",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 143/2022",
       "title": "Propunere legislativă pentru modificarea Ordonanţei de urgenţă a Guvernului nr.18/2009 privind creşterea performanţei energetice a blocurilor de locuinţe",
       "fields": [
@@ -3614,7 +3877,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20060",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 285/2022",
       "title": "Proiect de Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ şi pentru modificarea Legii-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice",
       "fields": [
@@ -3718,7 +3981,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=15972",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 454/2016",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.48/2016 privind modificarea şi completarea unor acte normative în domeniul culturii",
       "fields": [
@@ -3866,7 +4129,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19794",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 53/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.131/2021 privind modificarea şi completarea unor acte normative, precum şi pentru prorogarea unor termene",
       "fields": [
@@ -4042,7 +4305,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20455",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 10/2023",
       "title": "Proiect de Lege pentru modificarea Legii-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice, precum şi pentru stabilirea unor măsuri privind salarizarea personalului Agenţiei de Plăţi şi Intervenţie pentru Agricultură",
       "fields": [
@@ -4191,7 +4454,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19304",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 187/2021",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.20/2021 privind stabilirea unor măsuri în cadrul sistemului de asigurări sociale de sănătate în contextul evoluţiei situaţiei epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum şi pentru abrogarea unor prevederi din Ordonanţa de urgenţă a Guvernului nr.70/2020 privind reglementarea unor măsuri, începând cu data de 15 mai 2020, în contextul situaţiei epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, pentru prelungirea unor termene, pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal, a Legii educaţiei naţionale nr.1/2011, precum şi a altor acte normative, pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii şi pentru modificarea Legii farmaciei nr.266/2008",
       "fields": [
@@ -4343,7 +4606,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19478",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 14/2022",
       "title": "Propunere legislativă pentru modificarea art.215 alin.(1) şi completarea art.522 alin.(2) din Legea nr.134/2010 privind Codul de procedură civilă",
       "fields": [
@@ -4477,7 +4740,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20280",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 512/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.102/2022 pentru modificarea şi completarea Legii nr. 207/2015 privind Codul de procedură fiscală",
       "fields": [
@@ -4610,7 +4873,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19975",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 192/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.25/2022 privind unele măsuri în domeniul fondurilor europene",
       "fields": [
@@ -4751,7 +5014,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19604",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 482/2021",
       "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.13/2021 pentru modificarea Ordonanţei Guvernului nr.18/2016 privind amenajarea spaţiului maritim",
       "fields": [
@@ -4916,7 +5179,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=17252",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 428/2018",
       "title": "Proiect de Lege pentru completarea art. 33 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
       "fields": [
@@ -5082,7 +5345,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19974",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 191/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.24/2022 privind aprobarea şi finanţarea unor programe de garantare în domenii prioritare pentru economia românească",
       "fields": [
@@ -5264,7 +5527,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=17954",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 301/2019",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.30/2019 privind reorganizarea Ministerului Economiei în scopul exercitării drepturilor şi îndeplinirii obligaţiilor ce decurg din calitatea de acţionar a statului la anumiţi operatori economici, precum şi pentru modificarea unor acte normative",
       "fields": [
@@ -5417,7 +5680,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19245",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 145/2021",
       "title": "Proiect de Lege privind aprobarea Ordonnaţei de urgenţă nr.15/2021 pentru modificarea Ordonanţei de urgenţă a Guvernului nr.146/2020 privind aprobarea Programului IMM FACTOR - Produs de garantare a creditului comercial şi a Schemei de ajutor de stat asociate acestuia",
       "fields": [
@@ -5539,7 +5802,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19572",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 435/2021",
       "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.43/2007 privind introducerea deliberată în mediu a organismelor modificate genetic",
       "fields": [
@@ -5683,7 +5946,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19891",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 127/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.9/2022 pentru stabilirea unor măsuri bugetare în vederea sprijinirii sectorului întreprinderilor mici şi mijlocii",
       "fields": [
@@ -5817,7 +6080,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19831",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 82/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.142/2021 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.110/2017 privind Programul de susţinere a întreprinderilor mici şi mijlocii şi a întreprinderilor mici cu capitalizare de piaţă medie - IMM INVEST ROMÂNIA, pentru modificarea Schemei de ajutor de stat pentru susţinerea activităţii IMM-urilor în contextul crizei economice generate de pandemia COVID-19, aprobată prin art.II din Ordonanţa de urgenţă a Guvernului nr.42/2020, pentru modificarea art.III din Ordonanţa de urgenţă a Guvernului nr.16/2021 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.110/2017 privind Programul de susţinere a întreprinderilor mici şi mijlocii şi a întreprinderilor mici cu capitalizare de piaţă medie - IMM INVEST ROMÂNIA, precum şi pentru modificarea şi completarea Schemei de ajutor de stat pentru susţinerea activităţii IMM-urilor în contextul crizei economice generate de pandemia COVID-19, aprobată prin art.II din Ordonanţa de urgenţă a Guvernului nr.42/2020, precum şi pentru modificarea art.164 alin.(21) şi (22) din Legea nr.53/2003 - Codul muncii",
       "fields": [
@@ -5963,7 +6226,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20336",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 558/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.17/2022 pentru modificarea şi completarea Legii nr.263/2004 privind asigurarea continuităţii asistenţei medicale primare prin centrele de permanenţă",
       "fields": [
@@ -6096,7 +6359,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20286",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 504/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.91/2022 privind unele măsuri pentru asigurarea implementării proiectelor contractate în cadrul Programului operaţional Competitivitate, apelul 2, acţiunea 2.3.3, din fonduri externe nerambursabile şi pentru asigurarea sustenabilităţii acestora",
       "fields": [
@@ -6243,7 +6506,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20137",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 371/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.65/2022 privind reglementarea unor măsuri pentru stingerea unor obligaţii fiscale şi bugetare ale Societăţii Naţionale de Transport Feroviar de Marfă „C.F.R. Marfă” S.A.",
       "fields": [
@@ -6353,7 +6616,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18611",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 287/2020",
       "title": "Proiect de Lege pentru completarea Legii nr.360/2002 privind Statutul poliţistului",
       "fields": [
@@ -6478,7 +6741,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20394",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 627/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.35/2022 pentru modificarea Ordonanţei Guvernului nr.41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, precum şi pentru aprobarea plăţii cotizaţiilor anuale în vederea participării Institutului Naţional de Statistică - România în calitate de asociat în cadrul Comitetului de Statistică şi Guvernanţă în Statistică al Organizaţiei pentru Cooperare şi Dezvoltare Economică şi de membru instituţional în cadrul Institutului Internaţional de Statistică",
       "fields": [
@@ -6583,7 +6846,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18419",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 105/2020",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.8/2020 pentru modificarea şi completarea Legii nr.145/2019 privind statutul poliţiştilor de penitenciare",
       "fields": [
@@ -6725,7 +6988,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18607",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 286/2020",
       "title": "Proiect de Lege privind modificarea şi completarea Legii nr.61/1991 pentru sancţionarea faptelor de încălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice",
       "fields": [
@@ -6856,7 +7119,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20239",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 464/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.78/2022 privind unele măsuri pentru ocuparea posturilor aferente funcţiilor publice vacante şi temporar vacante care au atribuţii în implementarea Planului naţional de redresare şi rezilienţă al României",
       "fields": [
@@ -6986,7 +7249,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20076",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 300/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.56/2022 privind unele măsuri de eficientizare a activităţii turistice aferente sezonului turistic estival 2022 pe litoralul românesc al Mării Negre",
       "fields": [
@@ -7115,7 +7378,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20101",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 324/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.61/2022 privind unele măsuri pentru acordarea de microgranturi şi granturi pentru capital de lucru entităţilor din domeniul agroalimentar cu finanţare din fonduri externe nerambursabile",
       "fields": [
@@ -7262,7 +7525,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19792",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 51/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.129/2021 privind implementarea formularului digital de intrare în România",
       "fields": [
@@ -7397,7 +7660,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19846",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 94/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.5/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.129/2021 privind implementarea formularului digital de intrare în România",
       "fields": [
@@ -7532,7 +7795,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20035",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 260/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.51/2022 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectoarele bovine, suine şi avicol în contextul crizei economice generate de pandemia COVID 19",
       "fields": [
@@ -7685,7 +7948,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20056",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 277/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.53/2022 privind modificarea şi completarea Legii nr. 129/2019 pentru prevenirea şi combaterea spălării banilor şi finanţării terorismului, precum şi pentru modificarea şi completarea unor acte normative",
       "fields": [
@@ -7820,7 +8083,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20349",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 573/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.120/2022 privind modificarea unor acte normative care reglementează programele de sprijin pentru zona montană",
       "fields": [
@@ -7961,7 +8224,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20111",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 346/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.59/2022 pentru modificarea unor acte normative în domeniul străinilor",
       "fields": [
@@ -8112,7 +8375,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19834",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 84/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.4/2022 pentru completarea art.52 din Legea nr.500/2002 privind finanţele publice",
       "fields": [
@@ -8253,7 +8516,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19922",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 159/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.14/2022 pentru modificarea Legii nr.146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare şi execuţional penale",
       "fields": [
@@ -8411,7 +8674,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20382",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 595/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.32/2022 privind reglementarea unei măsuri financiar-fiscale şi bugetare",
       "fields": [
@@ -8528,7 +8791,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20295",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 509/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.96/2022 privind gestionarea financiară a fondurilor europene dedicate Afacerilor Interne alocate României pentru perioada de programare 2021-2027",
       "fields": [
@@ -8651,7 +8914,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19500",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 346/2021",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.46/2021 privind stabilirea cadrului instituţional şi a măsurilor pentru punerea în aplicare a Regulamentului (UE) 2017/745 al Parlamentului European şi al Consiliului din 5 aprilie 2017 privind dispozitivele medicale, de modificare a Directivei 2001/83/CE, a Regulamentului (CE) nr.178/2002 şi a Regulamentului (CE) nr.1223/2009 şi de abrogare a Directivelor 90/385/CEE şi 93/42/CEE ale Consiliului",
       "fields": [
@@ -8816,7 +9079,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19791",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 50/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.128/2021 privind unele măsuri referitoare la salarizarea personalului din sistemul administraţiei penitenciare",
       "fields": [
@@ -8939,7 +9202,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20291",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 517/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.111/2022 pentru completarea Ordonanţei de urgenţă a Guvernului nr.80/2022 privind reglementarea unor măsuri în domeniul ocupării posturilor în sectorul bugetar",
       "fields": [
@@ -9080,7 +9343,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18328",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 15/2020",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.91/2019 privind desfiinţarea Institutului Revoluţiei Române din Decembrie 1989",
       "fields": [
@@ -9236,7 +9499,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20203",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 691/2022",
       "title": "Proiect de Lege privind Ziua Sustenabilităţii în România",
       "fields": [
@@ -9391,7 +9654,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18815",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 469/2020",
       "title": "Proiect de Lege privind respingerea Ordonanţei de urgenţă a Guvernului nr.123/2020 pentru modificarea art.3 din Legea nr.61/1993 privind alocaţia de stat pentru copii",
       "fields": [
@@ -9573,7 +9836,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20486",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 708/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.137/2022 privind stabilirea cadrului instituţional, precum şi a măsurilor necesare pentru punerea în aplicare a prevederilor Regulamentului (UE) 2017/746 al Parlamentului European şi al Consiliului din 5 aprilie 2017 privind dispozitivele medicale pentru diagnostic in vitro şi de abrogare a Directivei 98/79/CE şi a Deciziei 2010/227/UE a Comisiei",
       "fields": [
@@ -9731,7 +9994,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18144",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 188/2020",
       "title": "Proiect de Lege privind unele măsuri pentru deblocarea procesului de restituire a terenurilor către foştii proprietari",
       "fields": [
@@ -9876,7 +10139,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19839",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 329/2022",
       "title": "Proiect de Lege pentru modificarea art.11 lit.a) din Legea nr.514/2003 privind organizarea şi exercitarea profesiei de consilier juridic",
       "fields": [
@@ -10012,7 +10275,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20380",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 591/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.22/2022 pentru modificarea Legii nr.152/1998 privind înfiinţarea Agenţiei Naţionale pentru Locuinţe",
       "fields": [
@@ -10159,7 +10422,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18867",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 495/2020",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă Guvernului nr.124/2020 pentru completarea Ordonanţei Guvernului nr.23/1998 privind finanţarea şi din alte surse decât bugetul de stat a unor activităţi specifice de administrare a rezervelor de stat",
       "fields": [
@@ -10276,7 +10539,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20281",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 501/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.88/2022 pentru modificarea şi completarea unor acte normative în vederea gestionării fondurilor europene nerambursabile destinate dezvoltării regionale",
       "fields": [
@@ -10405,7 +10668,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20471",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 697/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.136/2022 pentru modificarea unor acte normative",
       "fields": [
@@ -10559,7 +10822,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20381",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 577/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.24/2022 pentru modificarea anexei la Ordonanţa Guvernului nr.8/2022 privind interoperabilitatea sistemelor de tarifare rutieră electronică şi facilitarea schimbului transfrontalier de informaţii cu privire la neplata tarifelor rutiere",
       "fields": [
@@ -10706,7 +10969,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19611",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 490/2021",
       "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.31/2007 privind reorganizarea şi funcţionarea Academiei Oamenilor de Ştiinţă din România",
       "fields": [
@@ -10861,7 +11124,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18786",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 441/2020",
       "title": "Proiect de Lege pentru respingerea Ordonanţei de urgenţă a Guvernului nr.101/2020 privind unele măsuri pentru implementarea proiectelor cu finanţare din fonduri europene în vederea evitării riscului de dezangajare pentru perioada de programare 2014-2020",
       "fields": [
@@ -11019,135 +11282,8 @@
       ]
     },
     {
-      "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20300",
-      "date": "18-04-2023",
-      "name": "PL-x nr. 535/2022",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.278/2013 privind emisiile industriale",
-      "fields": [
-        {
-          "name": "Nr. înregistrare B.P.I.",
-          "value": "646/21-09-2022"
-        },
-        {
-          "name": "Nr. înregistrare Camera Deputatilor",
-          "value": "535/26.09.2022"
-        },
-        {
-          "name": "Nr. înregistrare Senat",
-          "value": "L426/28.06.2022",
-          "link": "https://senat.ro/legis/lista.aspx?nr_cls=L426&an_cls=2022#ListaDocumente"
-        },
-        {
-          "name": "Nr. înregistrare Guvern",
-          "value": "E154/23.06.2022"
-        },
-        {
-          "name": "Procedura legislativa",
-          "value": "cf. Constitutiei revizuita în 2003"
-        },
-        {
-          "name": "Camera decizionala",
-          "value": "Camera Deputatilor"
-        },
-        {
-          "name": "Tip initiativa",
-          "value": "Proiect de Lege pentru modificarea L. nr. 278/2013"
-        },
-        {
-          "name": "Caracter",
-          "value": "organic"
-        },
-        {
-          "name": "Procedura de urgenta",
-          "value": "nu"
-        },
-        {
-          "name": "Stadiu",
-          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
-        },
-        {
-          "name": "Initiator - la data initierii",
-          "value": "Guvern"
-        },
-        {
-          "name": "Prioritate legislativa",
-          "value": "Legislatura 2020-prezent:  feb 2023 - prezent"
-        },
-        {
-          "name": "documents",
-          "value": [
-            {
-              "link": "https://www.cdep.ro/proiecte/2022/500/30/5/em646.pdf",
-              "title": "Expunerea de motive",
-              "type": "pdf"
-            },
-            {
-              "link": "https://www.cdep.ro/proiecte/2022/500/30/5/ces646.pdf",
-              "title": "Avizul Consiliului Economic şi Social",
-              "type": "pdf"
-            },
-            {
-              "link": "https://www.cdep.ro/proiecte/2022/500/30/5/cl646.pdf",
-              "title": "Avizul Consiliului Legislativ",
-              "type": "pdf"
-            }
-          ]
-        }
-      ],
-      "docHistory": [
-        {
-          "date": "21-09-2022",
-          "link": "https://www.cdep.ro/proiecte/2022/500/30/5/se646.pdf",
-          "title": "Forma adoptată de Senat",
-          "type": "pdf"
-        },
-        {
-          "date": "26-09-2022",
-          "link": "https://www.cdep.ro/proiecte/2022/500/30/5/as535.pdf",
-          "title": "Adresa Senatului",
-          "type": "pdf"
-        },
-        {
-          "date": "26-09-2022",
-          "link": "https://www.cdep.ro/proiecte/2022/500/30/5/gv646.pdf",
-          "title": "Adresa Guvernului",
-          "type": "pdf"
-        },
-        {
-          "date": "19-10-2022",
-          "link": "https://www.cdep.ro/comisii/agricultura/pdf/2022/av535.pdf",
-          "title": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
-          "type": "pdf"
-        },
-        {
-          "date": "19-10-2022",
-          "link": "https://www.cdep.ro/comisii/agricultura/doc/2022/av535.docx",
-          "title": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
-          "type": "doc"
-        },
-        {
-          "date": "15-11-2022",
-          "link": "https://www.cdep.ro/comisii/industrii/pdf/2022/av535.pdf",
-          "title": "Comisia pentru industrii şi servicii",
-          "type": "pdf"
-        },
-        {
-          "date": "15-11-2022",
-          "link": "https://www.cdep.ro/comisii/industrii/doc/2022/av535.doc",
-          "title": "Comisia pentru industrii şi servicii",
-          "type": "doc"
-        },
-        {
-          "date": "28-02-2023",
-          "link": "https://www.cdep.ro/comisii/juridica/pdf/2023/rp535_22.pdf",
-          "title": "Comisia juridică, de disciplină şi imunităţiComisia pentru mediu şi echilibru ecologic",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20043",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 267/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.44/2022 privind stabilirea unor măsuri în cadrul sistemului de sănătate, precum şi pentru interpretarea, modificarea şi completarea unor acte normative",
       "fields": [
@@ -11312,7 +11448,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=17355",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 515/2018",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.53/2018 pentru modificarea şi completarea Legii nr.360/2002 privind Statutul poliţistului",
       "fields": [
@@ -11476,7 +11612,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19790",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 49/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.125/2021 pentru modificarea şi completarea Legii nr.127/2019 privind sistemul public de pensii, precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.6/2009 privind instituirea pensiei sociale minime garantate",
       "fields": [
@@ -11616,7 +11752,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19782",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 43/2022",
       "title": "Proiect de Lege privind aprobarea Ordonaţei de urgenţă a Guvernului nr.126/2021 pentru modificarea Legii nr.61/1993 privind alocaţia de stat pentru copii, precum şi pentru acordarea unei indemnizaţii compensatorii pentru persoanele cu handicap",
       "fields": [
@@ -11774,7 +11910,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20357",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 572/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.105/2022 privind aprobarea continuării Programului-pilot de acordare a unui suport alimentar pentru preşcolarii şi elevii din 300 de unităţi de învăţământ preuniversitar de stat",
       "fields": [
@@ -11939,7 +12075,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20117",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 348/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 63/2022 privind unele măsuri temporare pentru acordarea de sprijin material categoriilor de persoane aflate în situaţii de risc de deprivare materială şi/sau risc de sărăcie extremă, suportate parţial din fonduri externe nerambursabile, precum şi unele măsuri de distribuire a acestuia",
       "fields": [
@@ -12103,7 +12239,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19111",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 35/2021",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.196/2020 pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
       "fields": [
@@ -12244,7 +12380,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20038",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 256/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.42/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
       "fields": [
@@ -12391,7 +12527,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20138",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 372/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.66/2022 pentru completarea Legii nr.16/2017 privind detaşarea salariaţilor în cadrul prestării de servicii transnaţionale",
       "fields": [
@@ -12531,7 +12667,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20188",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 420/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.72/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.63/2022 privind unele măsuri temporare pentru acordarea de sprijin material categoriilor de persoane aflate în situaţii de risc de deprivare materială şi/sau risc de sărăcie extremă, suportate parţial din fonduri externe nerambursabile, precum şi unele măsuri de distribuire a acestuia",
       "fields": [
@@ -12666,7 +12802,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20392",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 626/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.33/2022 privind reglementarea unor măsuri financiar-fiscale şi bugetare",
       "fields": [
@@ -12825,7 +12961,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20515",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 729/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.142/2022 pentru modificarea şi completarea Legii nr.360/2002 privind Statutul poliţistului",
       "fields": [
@@ -12977,7 +13113,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20459",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 681/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.129/2022 pentru modificarea art.IV din Ordonanţa de urgenţă a Guvernului nr.44/2022 privind stabilirea unor măsuri în cadrul sistemului de sănătate, precum şi pentru interpretarea, modificarea şi completarea unor acte normative, pentru prelungirea unor termene, precum şi pentru stabilirea unor măsuri în domeniul sănătăţii",
       "fields": [
@@ -13112,7 +13248,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=18896",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 551/2020",
       "title": "Proiect de Lege pentru respingerea Ordonanţei de urgenţã a Guvernului nr.131/2020 privind reglementarea unor măsuri",
       "fields": [
@@ -13264,7 +13400,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20458",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 689/2022",
       "title": "Proiect de Lege pentru modificarea art.1 din Ordonanţa de urgenţă a Guvernului nr. 41/2016 privind stabilirea unor măsuri de simplificare la nivelul administraţiei publice centrale şi pentru modificarea şi completarea unor acte normative",
       "fields": [
@@ -13412,7 +13548,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20711",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 125/2023",
       "title": "Proiect de Lege pentru ratificarea Acordului cuprinzător privind transportul aerian dintre statele membre ale Asociaţiei Naţiunilor din Asia de Sud-Est şi Uniunea Europeană şi statele membre ale acesteia, semnat la Bali - Indonezia, la 17 octombrie 2022",
       "fields": [
@@ -13544,7 +13680,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19798",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 57/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.136/2021 pentru modificarea anexei nr.6 la Ordonanţa de urgenţă a Guvernului nr.196/2005 privind Fondul pentru mediu",
       "fields": [
@@ -13685,7 +13821,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19617",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 534/2021",
       "title": "Proiect de Lege pentru modificarea şi completarea unor dispoziţii din Codul Penal",
       "fields": [
@@ -13822,7 +13958,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20383",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 592/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.25/2022 privind modificarea şi completarea Ordonanţei Guvernului nr.46/1998 pentru stabilirea unor măsuri în vederea îndeplinirii obligaţiilor asumate de România prin aderarea la Convenţia internaţională EUROCONTROL privind cooperarea pentru securitatea navigaţiei aeriene şi la Acordul multilateral privind tarifele de rută aeriană, precum şi a unor obligaţii care rezultă pentru România din regulamentele adoptate la nivelul Uniunii Europene în domeniul serviciilor de navigaţie aeriană",
       "fields": [
@@ -13951,7 +14087,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19121",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 41/2021",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.200/2020 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.60/2019 privind reglementarea unor măsuri pentru stingerea unor obligaţii fiscale şi bugetare, precum şi unele măsuri referitoare la obligaţiile de plată aferente împrumuturilor din venituri din privatizare şi împrumuturilor contractate de statul român de la instituţii de credit şi subîmprumutate operatorilor economici",
       "fields": [
@@ -14093,7 +14229,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20630",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 40/2023",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.165/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.63/2022 privind unele măsuri temporare pentru acordarea de sprijin material categoriilor de persoane aflate în situaţii de risc de deprivare materială şi/sau risc de sărăcie extremă, suportate parţial din fonduri externe nerambursabile, precum şi unele măsuri de distribuire a acestuia",
       "fields": [
@@ -14237,132 +14373,8 @@
       ]
     },
     {
-      "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20379",
-      "date": "18-04-2023",
-      "name": "PL-x nr. 603/2022",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.295/2004 privind regimul armelor şi muniţiilor",
-      "fields": [
-        {
-          "name": "Nr. înregistrare B.P.I.",
-          "value": "729/06-10-2022"
-        },
-        {
-          "name": "Nr. înregistrare Camera Deputatilor",
-          "value": "603/11.10.2022"
-        },
-        {
-          "name": "Nr. înregistrare Senat",
-          "value": "L550/27.06.2022",
-          "link": "https://senat.ro/legis/lista.aspx?nr_cls=L550&an_cls=2022#ListaDocumente"
-        },
-        {
-          "name": "Procedura legislativa",
-          "value": "cf. Constitutiei revizuita în 2003"
-        },
-        {
-          "name": "Camera decizionala",
-          "value": "Camera Deputatilor"
-        },
-        {
-          "name": "Tip initiativa",
-          "value": "Proiect de Lege pentru modificarea L. nr. 295/2004"
-        },
-        {
-          "name": "Caracter",
-          "value": "ordinar"
-        },
-        {
-          "name": "Procedura de urgenta",
-          "value": "nu"
-        },
-        {
-          "name": "Stadiu",
-          "value": "pe ordinea de zi a sedintelor Camerei Deputatilor"
-        },
-        {
-          "name": "Initiator - la data initierii",
-          "value": "28 senatori, din care:- PSD:Bodog Florian-Dorel, Cazanciuc Robert-Marius, Cionoiu Nicusor, Creţu Gabriela, Deneş Ioan, Dogariu Eugen, Dunca Marius-Alexandru, Genoiu Mihail, Georgescu Laura, Humelnicu Marius, Matei Constantin-Bogdan, Matieş Călin-Gheorghe, Mazilu Liviu-Lucian, Mirea Siminica, Moagher Laura-Mihaela, Mocioalcă Ion, Mutu Gabriel, Popa Maricel, Prioteasa Ion, Puiu Ovidiu, Purcărin Bianca-Mihaela, Rotaru Ion, Rujan Ion-Cristinel, Sbîrnea Liliana, Stocheci Cristina-Mariana, Stroe Felix, Tîlvăr Angel, Vlaşin Sorin"
-        },
-        {
-          "name": "documents",
-          "value": [
-            {
-              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/em729.pdf",
-              "title": "Expunerea de motive",
-              "type": "pdf"
-            },
-            {
-              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/ces729.pdf",
-              "title": "Avizul Consiliului Economic şi Social",
-              "type": "pdf"
-            },
-            {
-              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/cl729.pdf",
-              "title": "Avizul Consiliului Legislativ",
-              "type": "pdf"
-            },
-            {
-              "link": "https://www.cdep.ro/proiecte/2022/600/00/3/pvg729.pdf",
-              "title": "Punctul de vedere al Guvernului",
-              "type": "pdf"
-            }
-          ]
-        }
-      ],
-      "docHistory": [
-        {
-          "date": "05-10-2022",
-          "link": "https://www.cdep.ro/proiecte/2022/600/00/3/se729.pdf",
-          "title": "Forma adoptată de Senat",
-          "type": "pdf"
-        },
-        {
-          "date": "11-10-2022",
-          "link": "https://www.cdep.ro/proiecte/2022/600/00/3/as603.pdf",
-          "title": "Adresa Senatului",
-          "type": "pdf"
-        },
-        {
-          "date": "19-10-2022",
-          "link": "https://www.cdep.ro/comisii/munca/pdf/2022/av603.pdf",
-          "title": "Comisia pentru muncă şi protecţie socială",
-          "type": "pdf"
-        },
-        {
-          "date": "19-10-2022",
-          "link": "https://www.cdep.ro/comisii/munca/doc/2022/av603.docx",
-          "title": "Comisia pentru muncă şi protecţie socială",
-          "type": "doc"
-        },
-        {
-          "date": "29-11-2022",
-          "link": "https://www.cdep.ro/comisii/sport/pdf/2022/av603.pdf",
-          "title": "Comisia pentru tineret și sport",
-          "type": "pdf"
-        },
-        {
-          "date": "29-11-2022",
-          "link": "https://www.cdep.ro/comisii/sport/doc/2022/av603.docx",
-          "title": "Comisia pentru tineret și sport",
-          "type": "doc"
-        },
-        {
-          "date": "21-03-2023",
-          "link": "https://www.cdep.ro/comisii/aparare/pdf/2023/rp603_22.pdf",
-          "title": "Comisia juridică, de disciplină şi imunităţiComisia pentru apărare, ordine publică şi siguranţă naţională",
-          "type": "pdf"
-        },
-        {
-          "date": "21-03-2023",
-          "link": "https://www.cdep.ro/comisii/aparare/doc/2023/rp603_22.doc",
-          "title": "Comisia juridică, de disciplină şi imunităţiComisia pentru apărare, ordine publică şi siguranţă naţională",
-          "type": "doc"
-        }
-      ]
-    },
-    {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20716",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 129/2023",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.1/2023 pentru completarea art.3 din Ordonanţa Guvernului nr.62/1999 privind înfiinţarea Unităţii Executive pentru Finanţarea Învăţământului Superior şi a Cercetării Ştiinţifice Universitare",
       "fields": [
@@ -14473,7 +14485,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20417",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 69/2023",
       "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români",
       "fields": [
@@ -14603,7 +14615,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19529",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 393/2021",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.68/2021 privind adoptarea unor măsuri pentru punerea în aplicare a cadrului european pentru eliberarea, verificarea şi acceptarea certificatului digital al Uniunii Europene privind COVID pentru a facilita libera circulaţie pe durata pandemiei de COVID-19",
       "fields": [
@@ -14737,7 +14749,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20598",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 24/2023",
       "title": "Proiect de Lege privind modificarea art.31 alin.(2) lit.b) din Legea nr.248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
       "fields": [
@@ -14873,7 +14885,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20628",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 37/2023",
       "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.372 din 13 decembrie 2005 privind performanţa energetică a clădirilor",
       "fields": [
@@ -15004,7 +15016,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20189",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 421/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.73/2022 pentru completarea Ordonanţei de urgenţă a Guvernului nr.132/2020 privind măsuri de sprijin destinate salariaţilor şi angajatorilor în contextul situaţiei epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum şi pentru stimularea creşterii ocupării forţei de muncă",
       "fields": [
@@ -15163,7 +15175,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19501",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 347/2021",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.47/2021 pentru completarea art.1 din Legea nr.49/1991 privind acordarea de indemnizaţii şi sporuri invalizilor, veteranilor şi văduvelor de război",
       "fields": [
@@ -15298,7 +15310,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20541",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 746/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.148/2022 pentru modificarea şi completarea Ordonanţei Guvernului nr.83/2001 privind înfiinţarea, organizarea şi funcţionarea serviciilor publice comunitare de paşapoarte şi serviciilor publice comunitare regim permise de conducere şi înmatriculare a vehiculelor, precum şi a Ordonanţei Guvernului nr.84/2001 privind înfiinţarea, organizarea şi funcţionarea serviciilor publice comunitare de evidenţă a persoanelor",
       "fields": [
@@ -15444,7 +15456,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19835",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 85/2022",
       "title": "Proiect de Lege privind registrul electronic al istoricului vehiculelor rutiere înmatriculate sau înregistrate în România",
       "fields": [
@@ -15592,7 +15604,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20822",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 229/2023",
       "title": "Proiect de Lege privind stabilirea unor măsuri de punere în aplicare a Regulamentului (UE) 2021/23 al Parlamentului European şi al Consiliului din 16 decembrie 2020 privind un cadru pentru redresarea şi rezoluţia contrapărţilor centrale şi de modificare a Regulamentelor (UE) nr.1095/2010, (UE) nr.648/2012, (UE) nr.600/2014, (UE) nr.806/2014 şi (UE) 2015/2365 şi a Directivelor 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE şi (UE) 2017/1132, precum şi pentru modificarea şi completarea unor acte normative",
       "fields": [
@@ -15701,7 +15713,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20656",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 52/2023",
       "title": "Propunere legislativă pentru completarea Legii educaţiei naţionale nr.1/2011",
       "fields": [
@@ -15824,7 +15836,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20733",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 142/2023",
       "title": "Proiect de Lege privind completarea Legii nr.241/2005 pentru prevenirea şi combaterea evaziunii fiscale",
       "fields": [
@@ -15945,7 +15957,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19800",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 58/2022",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.145/2021 pentru prorogarea unor termene prevăzute în Legea nr.95/2006 privind reforma în domeniul sănătăţii",
       "fields": [
@@ -16080,7 +16092,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20559",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 759/2022",
       "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.149/2022 privind unele măsuri pentru participarea României la Fondul Alianţei Nord-Atlantice de Inovare",
       "fields": [
@@ -16211,7 +16223,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20601",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 27/2023",
       "title": "Proiect de Lege pentru completarea art.9 din Legea nr.466/2004 privind Statutul asistentului social",
       "fields": [
@@ -16347,7 +16359,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=19840",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "Pl-x nr. 336/2022",
       "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.76/2002 privind sistemul asigurărilor pentru şomaj şi stimularea ocupării forţei de muncă",
       "fields": [
@@ -16493,7 +16505,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20750",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 156/2023",
       "title": "Proiect de Lege pentru completarea Legii drepturilor pacientului nr.46/2003",
       "fields": [
@@ -16604,7 +16616,7 @@
     },
     {
       "currentUrl": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20760",
-      "date": "18-04-2023",
+      "date": "19-04-2023",
       "name": "PL-x nr. 163/2023",
       "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.2/2023 pentru modificarea lit.c) a alin.(6) al art.41 din Ordonanţa Guvernului nr.43/1997 privind regimul drumurilor",
       "fields": [
