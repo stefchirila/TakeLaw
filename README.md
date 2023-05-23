@@ -92,13 +92,11 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [ ] [M Sanatatii](https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/)
 1. [ ] M Agriculturii și Dezvoltării Rurale
 1. [ ] Secretariatul General al Guvernului SGG
-1. [ ] M Investițiilor și Proiectelor Europene
-1. [ ] M Culturii
-1. [ ] M Cercetării, Inovării și Digitalizării
-1. [ ] Ministry of Communications and Information Society ?? 
-1. [ ] M Sportului
-1. [ ] M Antreprenoriatului și Turismului
-1. [ ] Ministry for Romanians Everywhere ??
-1. [ ] Ministry for Relations with Parliament ??
 1. [ ] European Court Of Justice
-1. [ ] Monitorul Oficial
+3. [ ] M Investițiilor și Proiectelor Europene
+4. [ ] M Culturii
+1. [ ] M Sportului
+6. [ ] M Cercetării, Inovării și Digitalizării
+8. [ ] Ministry for Romanians Everywhere ??
+9. [ ] Ministry for Relations with Parliament ??
+10. [ ] Monitorul Oficial
