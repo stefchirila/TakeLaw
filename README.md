@@ -97,7 +97,6 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [ ] [M Familiei, Tineretului si Egalitatii de sanse](https://mfamilie.gov.ro/1/proiecte-de-acte-normative-2/)
 1. [ ] [M Muncii și Solidarității Sociale](https://mmuncii.ro/j33/index.php/ro/transparenta/proiecte-in-dezbatere)
 1. [ ] [M Cercetării, Inovării și Digitalizării](https://www.mcid.gov.ro/transparenta-decizionala-2/)
-1. [ ] [M Cercetării, Inovării și Digitalizării](https://www.mcid.gov.ro/transparenta-decizionala-2/)
 1. [ ] [Monitorul Oficial](https://monitoruloficial.ro/e-monitor/)
 4. [ ] Secretariatul General al Guvernului SGG
 5. [ ] European Court Of Justice
