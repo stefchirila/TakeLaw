@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1] - 2023-06-10
+
+### Added
+- Added `msanatatii` script
+
+### Changed
+- Updated package version
+- Removed unneeded import from `mturism` script
+
 ## [0.2.0] - 2023-06-10
 
 ### Added

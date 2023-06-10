@@ -89,7 +89,7 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [M Economiei](https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/) (_done, **requires validation**_)
 1. [x] [M Energiei](https://energie.gov.ro/category/transparenta-institutionala/transparenta-decizionala/) (_done, **requires validation**_)
 1. [x] [M Antreprenoriatului și Turismului](https://turism.gov.ro/web/category/consultare-publica/) (_done, **requires validation**_)
-1. [ ] [M Sanatatii](https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/)
+1. [x] [M Sanatatii](https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/) (_done, **requires validation**_)
 1. [ ] [M Agriculturii și Dezvoltării Rurale](https://www.madr.ro/proiecte-de-acte-normative.html/)
 1. [ ] [M Culturii](http://www.cultura.ro/proiecte-acte-normative/)
 1. [ ] [M Sportului](https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/)

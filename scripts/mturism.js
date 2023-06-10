@@ -1,10 +1,9 @@
-const { exit } = require('process')
 const {
   defaultTimeout,
+  getDocumentType,
   outputReport,
   setup,
-  teardown,
-  getDocumentType
+  teardown
 } = require('./helpers')
 
 const main = async ({
@@ -37,10 +36,11 @@ const main = async ({
   pageCounter += 1
   const lastPageUrlParts = (await page.locator('.pag-last a').getAttribute('href')).split('/')
   const lastPageNumber = Number(lastPageUrlParts[lastPageUrlParts.length - 2])
+
   console.info(`Found ${lastPageNumber} pages`)
   console.info('-------------------')
-  const articleLinks = []
 
+  const articleLinks = []
   for await (const pageUrl of Array.from({ length: lastPageNumber }, (_, i) => `${baseUrl}page/${i + 1}/`)) {
     await page.goto(pageUrl)
     console.info(`Navigated to ${page.url()} to fetch links`)
@@ -105,7 +105,7 @@ const main = async ({
           title: docName,
           type: docType
         })
-        docCounter[docType] = docCounter[docType] ? docCounter[docType] + 1 : 1
+        docCounter[docName] = (docCounter[docName] || 0) + 1
         documentCounter += 1
       }
 

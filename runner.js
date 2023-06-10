@@ -145,3 +145,11 @@ Ex:
 //   })
 //   fs.writeFile('output/mturism.json', JSON.stringify(output, null, 2))
 // })()
+
+// const { main: msanatatii } = require('./scripts/msanatatii')
+// ;(async () => {
+//   const output = await msanatatii({
+//     headless: false
+//   })
+//   fs.writeFile('output/msanatatii.json', JSON.stringify(output, null, 2))
+// })()
