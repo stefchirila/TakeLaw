@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.0] - 2023-06-10
+
+### Added
+- Added `mturism` script
+
 ## [0.1.2] - 2023-04-19
 
 ### Changed

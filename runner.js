@@ -137,3 +137,11 @@ Ex:
 //   })
 //   fs.writeFile('output/senat.json', JSON.stringify(output, null, 2))
 // })()
+
+// const { main: mturism } = require('./scripts/mturism')
+// ;(async () => {
+//   const output = await mturism({
+//     headless: false
+//   })
+//   fs.writeFile('output/mturism.json', JSON.stringify(output, null, 2))
+// })()

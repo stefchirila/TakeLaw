@@ -9,7 +9,6 @@ const {
 
 const main = async ({
   headless = true,
-
   timeout = defaultTimeout
 }) => {
   const timerName = 'MENERGIEI took'
