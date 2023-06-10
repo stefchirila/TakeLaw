@@ -90,14 +90,15 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [M Energiei](https://energie.gov.ro/category/transparenta-institutionala/transparenta-decizionala/) (_done, **requires validation**_)
 1. [x] [M Antreprenoriatului și Turismului](https://turism.gov.ro/web/category/consultare-publica/) (_done, **requires validation**_)
 1. [ ] [M Sanatatii](https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/)
-1. [ ] M Agriculturii și Dezvoltării Rurale
-1. [ ] M Investițiilor și Proiectelor Europene
-1. [ ] M Culturii
-1. [ ] M Cercetării, Inovării și Digitalizării
-1. [ ] Ministry of Communications and Information Society ?? 
-1. [ ] M Sportului
-1. [ ] Secretariatul General al Guvernului SGG
-1. [ ] Ministry for Romanians Everywhere ??
-1. [ ] Ministry for Relations with Parliament ??
-1. [ ] European Court Of Justice
-1. [ ] Monitorul Oficial
+1. [ ] [M Agriculturii și Dezvoltării Rurale](https://www.madr.ro/proiecte-de-acte-normative.html/)
+1. [ ] [M Culturii](http://www.cultura.ro/proiecte-acte-normative/)
+1. [ ] [M Sportului](https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/)
+2. [ ] [M Investițiilor și Proiectelor Europene](https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/)
+1. [ ] [M Familiei, Tineretului si Egalitatii de sanse](https://mfamilie.gov.ro/1/proiecte-de-acte-normative-2/)
+1. [ ] [M Muncii și Solidarității Sociale](https://mmuncii.ro/j33/index.php/ro/transparenta/proiecte-in-dezbatere)
+1. [ ] [M Cercetării, Inovării și Digitalizării](https://www.mcid.gov.ro/transparenta-decizionala-2/)
+1. [ ] [Monitorul Oficial](https://monitoruloficial.ro/e-monitor/)
+4. [ ] Secretariatul General al Guvernului SGG
+5. [ ] European Court Of Justice
+8. [ ] Ministry for Romanians Everywhere ??
+9. [ ] Ministry for Relations with Parliament ??
