@@ -88,7 +88,7 @@ const main = async ({
 
   await teardown()
   console.timeEnd(timerName)
-  outputReport(output, docCounter, documentCounter, pageCounter)
+  outputReport(output.mmediu, docCounter, documentCounter, pageCounter)
 
   return output
 }

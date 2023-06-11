@@ -161,3 +161,11 @@ Ex:
 //   })
 //   fs.writeFile('output/magriculturii.json', JSON.stringify(output, null, 2))
 // })()
+
+// const { main: mculturii } = require('./scripts/mculturii')
+// ;(async () => {
+//   const output = await mculturii({
+//     headless: false
+//   })
+//   fs.writeFile('output/mculturii.json', JSON.stringify(output, null, 2))
+// })()

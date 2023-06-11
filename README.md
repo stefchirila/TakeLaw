@@ -92,7 +92,8 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [M Sanatatii](https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/) (_done, **requires validation**_)
 1. [x] [M Agriculturii și Dezvoltării Rurale](https://www.madr.ro/proiecte-de-acte-normative.html/) (_done, **requires validation**_)
     - because M Agriculturii has more than 145 pages of documents, at the time of writing, the script requires a `maxLinksCount` parameter (which will be used to limit the number of articles to be parsed) - currently set to 250
-1. [ ] [M Culturii](http://www.cultura.ro/proiecte-acte-normative/)
+1. [x] [M Culturii](http://www.cultura.ro/proiecte-acte-normative/) (_done, **requires validation**_)
+    - because M Culturii has a big number of article links on the same page, the script requires a `maxLinksCount` parameter (which will be used to limit the number of articles to be parsed) - currently set to 100
 1. [ ] [M Sportului](https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/)
 2. [ ] [M Investițiilor și Proiectelor Europene](https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/)
 1. [ ] [M Familiei, Tineretului si Egalitatii de sanse](https://mfamilie.gov.ro/1/proiecte-de-acte-normative-2/)

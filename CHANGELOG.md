@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.3] - 2023-06-11
+
+### Added
+- Added `mculturii` script
+
 ## [0.2.2] - 2023-06-11
 
 ### Added

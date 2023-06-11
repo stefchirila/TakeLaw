@@ -123,7 +123,7 @@ const main = async ({
   }
   await teardown()
   console.timeEnd(timerName)
-  outputReport(output, docCounter, documentCounter, pageCounter)
+  outputReport(output.mturism, docCounter, documentCounter, pageCounter)
 
   return output
 }
