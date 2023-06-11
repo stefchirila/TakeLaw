@@ -169,3 +169,11 @@ Ex:
 //   })
 //   fs.writeFile('output/mculturii.json', JSON.stringify(output, null, 2))
 // })()
+
+// const { main: msport } = require('./scripts/msport')
+// ;(async () => {
+//   const output = await msport({
+//     headless: false
+//   })
+//   fs.writeFile('output/msport.json', JSON.stringify(output, null, 2))
+// })()

@@ -94,8 +94,9 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
     - because M Agriculturii has more than 145 pages of documents, at the time of writing, the script requires a `maxLinksCount` parameter (which will be used to limit the number of articles to be parsed) - currently set to 250
 1. [x] [M Culturii](http://www.cultura.ro/proiecte-acte-normative/) (_done, **requires validation**_)
     - because M Culturii has a big number of article links on the same page, the script requires a `maxLinksCount` parameter (which will be used to limit the number of articles to be parsed) - currently set to 100
-1. [ ] [M Sportului](https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/)
-2. [ ] [M Investițiilor și Proiectelor Europene](https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/)
+1. [x] [M Sportului](https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/) (_done, **requires validation**_)
+     - because M Sportului has a big number of article links on the same page, the script requires a `maxLinksCount` parameter (which will be used to limit the number of articles to be parsed) - currently set to 50
+1. [ ] [M Investițiilor și Proiectelor Europene](https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/)
 1. [ ] [M Familiei, Tineretului si Egalitatii de sanse](https://mfamilie.gov.ro/1/proiecte-de-acte-normative-2/)
 1. [ ] [M Muncii și Solidarității Sociale](https://mmuncii.ro/j33/index.php/ro/transparenta/proiecte-in-dezbatere)
 1. [ ] [M Cercetării, Inovării și Digitalizării](https://www.mcid.gov.ro/transparenta-decizionala-2/)

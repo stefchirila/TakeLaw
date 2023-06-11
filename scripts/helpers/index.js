@@ -82,6 +82,15 @@ const knownDocumentTypes = ['pdf', 'doc', 'docx', 'odt', 'odm', 'xls', 'xlsx', '
 const getDocumentType = (url) => {
   const urlParts = url.split('.')
   switch (urlParts[urlParts.length - 1].toLowerCase()) {
+    case 'png':
+    case 'jpg':
+    case 'jpeg':
+    case 'gif':
+    case 'svg':
+    case 'bmp':
+    case 'tif':
+    case 'tiff':
+      return 'image'
     case 'pdf':
       return 'pdf'
     case 'doc':

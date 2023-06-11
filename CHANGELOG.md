@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.4] - 2023-06-11
+
+### Added
+- Added `msport` script
+
 ## [0.2.3] - 2023-06-11
 
 ### Added
