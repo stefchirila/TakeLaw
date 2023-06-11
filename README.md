@@ -90,7 +90,8 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [M Energiei](https://energie.gov.ro/category/transparenta-institutionala/transparenta-decizionala/) (_done, **requires validation**_)
 1. [x] [M Antreprenoriatului și Turismului](https://turism.gov.ro/web/category/consultare-publica/) (_done, **requires validation**_)
 1. [x] [M Sanatatii](https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/) (_done, **requires validation**_)
-1. [ ] [M Agriculturii și Dezvoltării Rurale](https://www.madr.ro/proiecte-de-acte-normative.html/)
+1. [x] [M Agriculturii și Dezvoltării Rurale](https://www.madr.ro/proiecte-de-acte-normative.html/) (_done, **requires validation**_)
+    - because M Agriculturii has more than 145 pages of documents, at the time of writing, the script requires a `maxLinksCount` parameter (which will be used to limit the number of articles to be parsed) - currently set to 250
 1. [ ] [M Culturii](http://www.cultura.ro/proiecte-acte-normative/)
 1. [ ] [M Sportului](https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/)
 2. [ ] [M Investițiilor și Proiectelor Europene](https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/)

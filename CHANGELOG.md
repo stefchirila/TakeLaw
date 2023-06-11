@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.2] - 2023-06-11
+
+### Added
+- Added `magriculturii` script
+
 ## [0.2.1] - 2023-06-10
 
 ### Added

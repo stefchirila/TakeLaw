@@ -153,3 +153,11 @@ Ex:
 //   })
 //   fs.writeFile('output/msanatatii.json', JSON.stringify(output, null, 2))
 // })()
+
+// const { main: magriculturii } = require('./scripts/magriculturii')
+// ;(async () => {
+//   const output = await magriculturii({
+//     headless: false
+//   })
+//   fs.writeFile('output/magriculturii.json', JSON.stringify(output, null, 2))
+// })()
