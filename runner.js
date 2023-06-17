@@ -177,3 +177,19 @@ Ex:
 //   })
 //   fs.writeFile('output/msport.json', JSON.stringify(output, null, 2))
 // })()
+
+// const { main: minvestitiilor } = require('./scripts/minvestitiilor')
+// ;(async () => {
+//   const output = await minvestitiilor({
+//     headless: false
+//   })
+//   fs.writeFile('output/minvestitiilor.json', JSON.stringify(output, null, 2))
+// })()
+
+// const { main: mfamiliei } = require('./scripts/mfamiliei')
+// ;(async () => {
+//   const output = await mfamiliei({
+//     headless: false
+//   })
+//   fs.writeFile('output/mfamiliei.json', JSON.stringify(output, null, 2))
+// })()

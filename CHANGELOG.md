@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.5] - 2023-06-17
+
+### Added
+- Added `mfamiliei` script
+- Added `minvestitiilor` script
+
 ## [0.2.4] - 2023-06-11
 
 ### Added
