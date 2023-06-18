@@ -99,7 +99,7 @@ Script execution can be stopped by pressing <kbd>Ctrl</kbd> + <kbd>C</kbd>.
 1. [x] [M Investițiilor și Proiectelor Europene](https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/) (_done, **requires validation**_)
 1. [x] [M Familiei, Tineretului si Egalitatii de sanse](https://mfamilie.gov.ro/1/proiecte-de-acte-normative-2/) (_done, **requires validation**_)
 1. [x] [M Muncii și Solidarității Sociale](https://mmuncii.ro/j33/index.php/ro/transparenta/proiecte-in-dezbatere) (_done, **requires validation**_)
-1. [x] [M Cercetării, Inovării și Digitalizării](https://www.mcid.gov.ro/transparenta-decizionala-2/) (__done, **requires validation**_)
+1. [x] [M Cercetării, Inovării și Digitalizării](https://www.mcid.gov.ro/transparenta-decizionala-2/) (__done, **requires validation**__)
 1. [ ] [Monitorul Oficial](https://monitoruloficial.ro/e-monitor/)
 4. [ ] Secretariatul General al Guvernului SGG
 5. [ ] European Court Of Justice
