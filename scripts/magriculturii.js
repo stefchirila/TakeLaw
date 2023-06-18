@@ -26,12 +26,12 @@ const main = async ({
   let documentCounter = 0
   let pageCounter = 0
   await page.route('**/*', (route) =>
-  route.request().resourceType() === 'image' ||
-  route.request().url().endsWith('.css') ||
-  route.request().url().endsWith('.js')
-    ? route.abort()
-    : route.continue()
-  )
+    route.request().resourceType() === 'image' ||
+    route.request().url().endsWith('.css') ||
+    route.request().url().endsWith('.js')
+      ? route.abort()
+      : route.continue()
+    )
 
   const baseUrl = 'https://www.madr.ro'
   const rootUrl = 'https://www.madr.ro/proiecte-de-acte-normative.html'

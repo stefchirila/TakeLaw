@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.6] - 2023-06-18
+
+### Added
+- Added `mmuncii` script
+- Added `mcercetarii` script
+
 ## [0.2.5] - 2023-06-17
 
 ### Added
