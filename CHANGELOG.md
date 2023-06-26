@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.8] - 2023-06-26
+
+### Fixed
+- Fixed `meconomiei` script to remove erroneous params sent to setup
+
 ## [0.2.7] - 2023-06-18
 
 ### Changed

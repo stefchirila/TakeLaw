@@ -17,8 +17,6 @@ const main = async ({
   const docCounter = {}
   const { page } = await setup({
     headless,
-    maxPage: 10,
-    maxResults: 200,
     timeout
   })
   const output = {
