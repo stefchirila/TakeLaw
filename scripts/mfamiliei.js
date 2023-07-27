@@ -52,10 +52,10 @@ const main = async ({
     let articleCounter = 0
  
     const articlesWrapper = page.locator('article.page.type-page')
-    const articleDates = await articlesWrapper.locator('p span[style] b').filter({
+    const articleDates = await articlesWrapper.locator('p b').filter({
       hasText: "Data publicării: "
     }).all()
- 
+    
     const articles = await articlesWrapper.locator('blockquote').all()
 
     const items = []

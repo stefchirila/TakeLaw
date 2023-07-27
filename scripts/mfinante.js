@@ -68,6 +68,8 @@ const main = async ({
           const textWithoutLink = (text.includes('href="')
             ? text.replaceAll(/<a.*?>/g, '')
                 .replaceAll(/<\/a>/g, '')
+                .replace(/(<([^>]+)>)/gi, '')
+                .replaceAll('&nbsp;', '')
             : text).trim()
   
           if (date && link && textWithoutLink) {

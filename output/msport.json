@@ -1,6 +1,37 @@
 {
   "msport": [
     {
+      "currentUrl": "https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/proiect-hotarare-de-guvern-privind-organizarea-si-functionarea-agentiei-nationale-pentru-sport/",
+      "documents": [
+        {
+          "date": "27-06-2023",
+          "link": "https://sport.gov.ro/wp-content/uploads/2023/06/Nota-de-fundamentare-a-Proiectului-de-HG-privind-organizarea-si-functionarea-Agentiei-Nationale-pentru-Sport.pdf",
+          "title": "Nota de fundamentare a Proiectului de HG privind organizarea şi funcţionarea Agentiei Naţionale pentru Sport",
+          "type": "pdf"
+        },
+        {
+          "date": "27-06-2023",
+          "link": "https://sport.gov.ro/wp-content/uploads/2023/06/Proiect-HG-privind-organizarea-si-functionarea-Agentiei-Nationale-pentru-Sport.pdf",
+          "title": "Proiect HG privind organizarea şi funcţionarea Agentiei Naţionale pentru Sport",
+          "type": "pdf"
+        },
+        {
+          "date": "27-06-2023",
+          "link": "https://sport.gov.ro/wp-content/uploads/2023/06/Anexa-nr.-1.pdf",
+          "title": "Anexa nr. 1",
+          "type": "pdf"
+        },
+        {
+          "date": "27-06-2023",
+          "link": "https://sport.gov.ro/wp-content/uploads/2023/06/Anexa-nr.2.pdf",
+          "title": "Anexa nr.2",
+          "type": "pdf"
+        }
+      ],
+      "date": "27-06-2023",
+      "name": "Proiect Hotărâre de Guvern privind organizarea şi funcţionarea Agentiei Naţionale pentru Sport"
+    },
+    {
       "currentUrl": "https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/proiect-de-hotarare-de-guvern-privind-modificarea-art-5-din-hg-882-2022/",
       "documents": [
         {
@@ -1248,31 +1279,6 @@
       ],
       "date": "02-06-2020",
       "name": "H O T Ă R Â R E  privind scoaterea din inventarul centralizat a unor bunuri imobile aparţinând domeniului public al statului aflate în administrarea Ministerului Tineretului și Sportului- Direcția Județeană pentru Sport și Tineret Harghita,  prevăzute în Anexa nr. 30 la Hotărârea Guvernului nr. 1705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului"
-    },
-    {
-      "currentUrl": "https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/h-o-t-a-r-a-r-e-privind-modificarea-datelor-de-identificare-a-adresei-si-scoaterea-din-inventarul-centralizat-a-unor-bunuri-imobile-apartinand-domeniului-public-al-statului-aflate-in-administrarea/",
-      "documents": [
-        {
-          "date": "02-06-2020",
-          "link": "https://sport.gov.ro/wp-content/uploads/2020/06/Nota-fundamentare-.docx",
-          "title": "Nota fundamentare",
-          "type": "doc"
-        },
-        {
-          "date": "02-06-2020",
-          "link": "https://sport.gov.ro/wp-content/uploads/2020/06/HG-restituiri-Prahova.doc",
-          "title": "HG restituiri Prahova",
-          "type": "doc"
-        },
-        {
-          "date": "02-06-2020",
-          "link": "https://sport.gov.ro/wp-content/uploads/2020/06/ANEXA-retrocedari-prahova-bun.docx",
-          "title": "ANEXA retrocedari prahova",
-          "type": "doc"
-        }
-      ],
-      "date": "02-06-2020",
-      "name": "H O T Ă R Â R E privind modificarea datelor de identificare, a adresei și scoaterea din inventarul centralizat a unor bunuri imobile aparţinând domeniului public al statului aflate în administrarea Ministerului Tineretului și Sportului - Direcția Județeană pentru Sport și Tineret Prahova,  prevăzute în Anexa nr. 30 la Hotărârea Guvernului nr. 1705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului"
     }
   ]
 }
