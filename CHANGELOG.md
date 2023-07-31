@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.3.0] - 2023-07-31
+
+### Changed
+- Added `ignoreHTTPSErrors` to playwright browser context launch options
+- Added `throwIfNotOk` helper and used it in all scripts
+
 ## [0.2.8] - 2023-06-26
 
 ### Fixed

@@ -1,7 +1,8 @@
 const {
   defaultTimeout,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -22,7 +23,7 @@ const main = async ({
   }
   const postBackLink = 'a[href^="javascript:__doPostBack"]'
   const mainUrl = 'https://www.senat.ro/default.aspx?Sel=F1DE4E8D-E4E0-4847-B6FD-C63A05EC1F2A'
-  await page.goto(mainUrl)
+  throwIfNotOk(await page.goto(mainUrl))
   console.info(`Navigated to ${page.url()}`)
   console.info('-------------------')
   await page.locator('a[onclick^="hideWarning()"]').click()

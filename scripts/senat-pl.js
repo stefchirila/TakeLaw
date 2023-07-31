@@ -1,10 +1,10 @@
 const {
   defaultTimeout,
-  getDate,
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -29,7 +29,7 @@ const main = async ({
   const formattedToday = `${today.getDate().toString().padStart(2, '0')}-${(today.getMonth() + 1).toString().padStart(2, '0')}-${today.getFullYear()}`
 
   const baseUrl = 'https://www.senat.ro/'
-  await page.goto('https://www.senat.ro/')
+  throwIfNotOk(await page.goto('https://www.senat.ro/'))
   console.info(`Navigated to ${page.url()} to click on Expand button`)
   console.info('-------------------')
   pageCounter += 1
@@ -82,7 +82,7 @@ const main = async ({
   }
   const plLinks = new Set()
   for await (const link of links) {
-    await page.goto(link)
+    throwIfNotOk(await page.goto(link))
     console.info(`Navigated to ${page.url()} to fetch links to PLs`)
     console.info('-------------------')
     pageCounter += 1
@@ -102,7 +102,7 @@ const main = async ({
     'Opiniile persoanelor interesate asupra propunerilor legislative aflate în consultare publică'
   ]
   for await (const plLink of plLinks.values()) {
-    await page.goto(plLink)
+    throwIfNotOk(await page.goto(plLink))
     console.info(`Navigated to ${page.url()} to fetch PL details and documents`)
     console.info('-------------------')
     pageCounter += 1

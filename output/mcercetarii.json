@@ -2,6 +2,32 @@
   "mcercetarii": [
     {
       "currentUrl": "https://www.mcid.gov.ro/transparenta-decizionala-2/",
+      "date": "28-07-2023",
+      "documents": [
+        {
+          "date": "28-07-2023",
+          "link": "https://www.mcid.gov.ro/wp-content/uploads/2023/07/TOTALITARISM.pdf",
+          "title": "Proiect de Hotărâre de Guvern și Notă de fundamentare",
+          "type": "pdf"
+        }
+      ],
+      "name": "Proiect de Hotărâre de Guvern și Notă de fundamentare privind organizarea și funcționarea Institutului Național pentru Studiul Totalitarismului"
+    },
+    {
+      "currentUrl": "https://www.mcid.gov.ro/transparenta-decizionala-2/",
+      "date": "28-07-2023",
+      "documents": [
+        {
+          "date": "28-07-2023",
+          "link": "https://www.mcid.gov.ro/wp-content/uploads/2023/07/INTELIGENTA-ARTIFICIALA.pdf",
+          "title": "Proiect de Hotărâre de Guvern și Notă de fundamentare",
+          "type": "pdf"
+        }
+      ],
+      "name": "Proiect de Hotărâre de Guvern și Notă de fundamentare pentru modificarea Hotărârii Guvernului nr.695/2002 privind înființarea Institutului de Cercetări pentru Inteligență Artificială"
+    },
+    {
+      "currentUrl": "https://www.mcid.gov.ro/transparenta-decizionala-2/",
       "date": "27-06-2023",
       "documents": [
         {

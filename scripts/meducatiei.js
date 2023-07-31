@@ -3,7 +3,8 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -24,7 +25,7 @@ const main = async ({
   let documentCounter = 0
   let pageCounter = 0
   const baseUrl = 'https://www.edu.ro'
-  await page.goto('https://www.edu.ro/proiecte-acte-normative')
+  throwIfNotOk(await page.goto('https://www.edu.ro/proiecte-acte-normative'))
   console.info(`Navigated to ${page.url()} to fetch pages`)
   console.info('-------------------')
   let nextPageLink = page.locator('li[class*="pager-next"] > a')
@@ -46,11 +47,7 @@ const main = async ({
   } while (true)
 
   for await (const link of links) {
-    if (!link.includes('https://')) {
-      await page.goto(`${baseUrl}${link}`)
-    } else {
-      await page.goto(link)
-    }
+    throwIfNotOk(await page.goto(!link.includes('https://') ? `${baseUrl}${link}` : link))
     await page.waitForLoadState('networkidle')
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')

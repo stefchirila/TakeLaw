@@ -4,7 +4,8 @@ const {
   getMonthFromROString,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -32,7 +33,7 @@ const main = async ({
       : route.continue()
   )
   const urlPrefix = 'https://energie.gov.ro/category/transparenta-institutionala/transparenta-decizionala/page/1/'
-  await page.goto(urlPrefix)
+  throwIfNotOk(await page.goto(urlPrefix))
   console.info(`Navigated to ${page.url()} to fetch pages`)
   console.info('-------------------')
 
@@ -65,7 +66,7 @@ const main = async ({
   } while (true)
 
   for await (const item of output.menergiei) {
-    await page.goto(item.currentUrl)
+    throwIfNotOk(await page.goto(item.currentUrl))
     // await page.waitForLoadState('networkidle')
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')

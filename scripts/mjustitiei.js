@@ -3,7 +3,8 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -30,7 +31,7 @@ const main = async ({
       ? route.abort()
       : route.continue()
   )
-  await page.goto('https://www.just.ro/informatii-de-interes-public/acte-normative/proiecte-in-dezbatere/')
+  throwIfNotOk(await page.goto('https://www.just.ro/informatii-de-interes-public/acte-normative/proiecte-in-dezbatere/'))
   console.info(`Navigated to ${page.url()} to titles, dates & links`)
   console.info('-------------------')
   pageCounter += 1
@@ -55,7 +56,7 @@ const main = async ({
   }
   let currentIndex = 0
   for await (const item of items) {
-    await page.goto(item.currentUrl)
+    throwIfNotOk(await page.goto(item.currentUrl))
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')
     pageCounter += 1

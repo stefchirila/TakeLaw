@@ -4,7 +4,8 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -29,7 +30,7 @@ const main = async ({
   const iframeTriggerPrefix = 'javascript:loadintoIframe('
   const baseUrl = 'https://www.cdep.ro'
 
-  await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`)
+  throwIfNotOk(await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`))
   console.info(`Navigated to ${page.url()}`)
   console.info('-------------------')
   

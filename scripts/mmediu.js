@@ -4,7 +4,8 @@ const {
   getMonthFromROString,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -36,7 +37,7 @@ const main = async ({
   const rootUrl = 'http://www.mmediu.ro/categories/view/proiecte-de-acte-normative/41/page:'
   const links = []
   for await (const pageNumber of Array(maxPages).keys()) {
-    await page.goto(`${rootUrl}${pageNumber + 1}`)
+    throwIfNotOk(await page.goto(`${rootUrl}${pageNumber + 1}`))
     console.info(`Navigated to ${page.url()} to fetch pages`)
     console.info('-------------------')
     pageCounter += 1
@@ -45,7 +46,7 @@ const main = async ({
     }
   }
   for await (const link of links) {
-    await page.goto(link)
+    throwIfNotOk(await page.goto(link))
     await page.waitForLoadState('networkidle')
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')

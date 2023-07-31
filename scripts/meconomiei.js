@@ -4,7 +4,8 @@ const {
   getMonthFromROString,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -32,7 +33,7 @@ const main = async ({
       : route.continue()
   )
   const urlPrefix = 'https://economie.gov.ro/proiecte-de-acte-normative-aflate-in-consultare-publica/'
-  await page.goto(urlPrefix)
+  throwIfNotOk(await page.goto(urlPrefix))
   console.info(`Navigated to ${page.url()} to fetch last page from pagination`)
   console.info('-------------------')
   pageCounter += 1
@@ -41,7 +42,7 @@ const main = async ({
   const lastPageNumber = Number(await mainWrapper.locator('.pt-cv-pagination .cv-pageitem-number').last().textContent())
 
   for await (const currentPageNumber of Array(lastPageNumber).keys()) {
-    await page.goto(`${urlPrefix}?_page=${currentPageNumber + 1}`)
+    throwIfNotOk(await page.goto(`${urlPrefix}?_page=${currentPageNumber + 1}`))
     console.info(`Navigated to ${page.url()} to fetch names, dates and documents`)
     console.info('-------------------')
     pageCounter += 1

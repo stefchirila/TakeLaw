@@ -1,10 +1,11 @@
 const {
   defaultTimeout,
   getDocumentType,
+  getMonthFromROString,
   outputReport,
   setup,
   teardown,
-  getMonthFromROString
+  throwIfNotOk
 } = require('./helpers')
 
 const pageUrls = [
@@ -36,7 +37,7 @@ const main = async ({
       : route.continue()
   )
   for await (const pageUrl of pageUrls) {
-    await page.goto(pageUrl)
+    throwIfNotOk(await page.goto(pageUrl))
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')
     pageCounter += 1

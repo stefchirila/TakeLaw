@@ -4,7 +4,8 @@ const {
   getDate,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -29,7 +30,7 @@ const main = async ({
   const today = new Date()
   const formattedToday = `${today.getDate().toString().padStart(2, '0')}-${(today.getMonth() + 1).toString().padStart(2, '0')}-${today.getFullYear()}`
   const baseUrl = 'https://www.cdep.ro'
-  await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`)
+  throwIfNotOk(await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`))
   console.info(`Navigated to ${page.url()} to fetch links`)
   console.info('-------------------')
   pageCounter += 1
@@ -57,7 +58,7 @@ const main = async ({
 
   let currentLinkIndex = 0
   for await (const link of links) {
-    await page.goto(`${baseUrl}${link}`)
+    throwIfNotOk(await page.goto(`${baseUrl}${link}`))
     console.info(`Navigated to ${page.url()} to fetch details and documents`)
     console.info('-------------------')
     pageCounter += 1

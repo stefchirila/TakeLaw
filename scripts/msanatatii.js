@@ -4,7 +4,8 @@ const {
   getMonthFromROString,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -33,7 +34,7 @@ const main = async ({
   )
   const baseUrl = 'https://www.ms.ro'
   const rootUrl = 'https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/'
-  await page.goto(rootUrl)
+  throwIfNotOk(await page.goto(rootUrl))
   await page.locator('.modal-dialog button[type="submit"]').click()
   console.info(`Navigated to ${page.url()} to page count`)
   console.info('-------------------')
@@ -43,7 +44,7 @@ const main = async ({
 
   const links = []
   for await (const pageUrl of Array.from({ length: lastPageNumber }, (_, i) => `${rootUrl}?page=${i + 1}`)) {
-    await page.goto(pageUrl)
+    throwIfNotOk(await page.goto(pageUrl))
     console.info(`Navigated to ${page.url()} to fetch links`)
     console.info('-------------------')
     pageCounter += 1
@@ -54,7 +55,7 @@ const main = async ({
   }
 
   for await (const link of links) {
-    await page.goto(`${baseUrl}${link}`)
+    throwIfNotOk(await page.goto(`${baseUrl}${link}`))
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')
     pageCounter += 1

@@ -3,7 +3,8 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -30,7 +31,7 @@ const main = async ({
       : route.continue()
   )
 
-  await page.goto('https://sg.mapn.ro/transparenta')
+  throwIfNotOk(await page.goto('https://sg.mapn.ro/transparenta'))
   console.info(`Navigated to ${page.url()} to change years filter`)
   console.info('-------------------')
   pageCounter += 1

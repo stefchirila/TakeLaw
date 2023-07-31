@@ -14,10 +14,13 @@ const setup = async ({
   timeout = defaultTimeout
 } = {}) => {
   browser = await chromium.launch({
+    args: ['--ignore-certificate-errors'],
     headless,
-    timeout
+    timeout,
   })
-  context = await browser.newContext()
+  context = await browser.newContext({
+    ignoreHTTPSErrors: true
+  })
   page = await context.newPage()
   return {
     context,
@@ -29,6 +32,12 @@ const teardown = async (waitForMs = 0) => {
   await page.waitForTimeout(waitForMs)
   await context.close()
   await browser.close()
+}
+
+const throwIfNotOk = (response) => {
+  if (!response.ok()) {
+    throw new Error(`Response from ${response.request().url()} not ok: ${response.status()} ${response.statusText()}`)
+  }
 }
 
 const getDate = (timestamp = Date.now()) => {
@@ -138,5 +147,6 @@ module.exports = {
   knownDocumentTypes,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 }

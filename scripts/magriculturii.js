@@ -4,7 +4,8 @@ const {
   getMonthFromROString,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -35,7 +36,7 @@ const main = async ({
 
   const baseUrl = 'https://www.madr.ro'
   const rootUrl = 'https://www.madr.ro/proiecte-de-acte-normative.html'
-  await page.goto(rootUrl)
+  throwIfNotOk(await page.goto(rootUrl))
   console.info(`Navigated to ${page.url()} to fetch page count`)
   console.info('-------------------')
   pageCounter += 1
@@ -48,7 +49,7 @@ const main = async ({
   let counter = 0
   const items = []
   while (true) {
-    await page.goto(`${rootUrl}?start=${indexes[counter]}`)
+    throwIfNotOk(await page.goto(`${rootUrl}?start=${indexes[counter]}`))
     console.info(`Navigated to ${page.url()} to fetch links, documents`)
     console.info('-------------------')
     pageCounter += 1

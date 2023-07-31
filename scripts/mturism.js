@@ -3,7 +3,8 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -31,7 +32,7 @@ const main = async ({
       : route.continue()
   )
   const baseUrl = 'https://turism.gov.ro/web/category/consultare-publica/'
-  await page.goto(baseUrl)
+  throwIfNotOk(await page.goto(baseUrl))
   console.info(`Navigated to ${page.url()} to fetch page count`)
   pageCounter += 1
   const lastPageUrlParts = (await page.locator('.pag-last a').getAttribute('href')).split('/')
@@ -42,7 +43,7 @@ const main = async ({
 
   const articleLinks = []
   for await (const pageUrl of Array.from({ length: lastPageNumber }, (_, i) => `${baseUrl}page/${i + 1}/`)) {
-    await page.goto(pageUrl)
+    throwIfNotOk(await page.goto(pageUrl))
     console.info(`Navigated to ${page.url()} to fetch links`)
     console.info('-------------------')
     pageCounter += 1
@@ -65,7 +66,7 @@ const main = async ({
   console.info('-------------------')  
 
   for await (const articleLink of articleLinks) {
-    await page.goto(articleLink)
+    throwIfNotOk(await page.goto(articleLink))
     const currentPageUrl = page.url()
     console.info(`Navigated to ${currentPageUrl} to fetch documents`)
     console.info('-------------------')

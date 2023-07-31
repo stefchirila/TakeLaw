@@ -3,7 +3,8 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -29,7 +30,7 @@ const main = async ({
       ? route.abort()
       : route.continue()
   )  
-  await page.goto('https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/')
+  throwIfNotOk(await page.goto('https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/'))
   console.info(`Navigated to ${page.url()} to fetch documents`)
   console.info('-------------------')
   const linkLocator = 'a[href^="https://webapp.mai.gov.ro"]'

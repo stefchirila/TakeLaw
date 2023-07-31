@@ -3,7 +3,8 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown
+  teardown,
+  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
@@ -27,7 +28,7 @@ const main = async ({
   let pageCounter = 0
   const baseUrl = 'https://www.mdlpa.ro/'
 
-  await page.goto('https://www.mdlpa.ro/pages/actenormativecaractergeneral')
+  throwIfNotOk(await page.goto('https://www.mdlpa.ro/pages/actenormativecaractergeneral'))
   const yearlyArchives = [
     'https://www.mdlpa.ro/pages/actenormativecaractergeneral'
   ]
@@ -41,7 +42,7 @@ const main = async ({
     yearlyArchives.push(`${baseUrl}${archiveUrl}`)
   }
   for await (const archiveUrl of yearlyArchives) {
-    await page.goto(archiveUrl)
+    throwIfNotOk(await page.goto(archiveUrl))
     console.info(`Navigated to ${page.url()} to fetch pages links`)
     console.info('-------------------')
     pageCounter += 1
@@ -77,7 +78,7 @@ const main = async ({
   console.info('-------------------')
   try {
     for await (docPage of output.mdezvoltarii) {
-      await page.goto(docPage.currentUrl)
+      throwIfNotOk(await page.goto(docPage.currentUrl))
       console.info(`Navigated to ${docPage.currentUrl} to fetch documents links`)
       console.info('-------------------')
       pageCounter += 1
