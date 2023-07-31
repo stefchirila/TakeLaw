@@ -1,6 +1,31 @@
 {
   "mmediu": [
     {
+      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-hotarare-a-guvernului-privind-reaprobarea-caracteristicilor-principale-si-a-indicatorilor-tehnico-economici-aferenti-obiectivului-de-investitii-amenajare-rau-trotus-si-afluenti-judetul-harghita-precum-si-nota-de-fundamentare-a-acestuia/6356",
+      "date": "28-00-2023",
+      "name": "Proiect de hotărâre a Guvernului  privind reaprobarea caracteristicilor principale și a indicatorilor tehnico-economici aferenți obiectivului de investiții  „Amenajare râu Trotuș și afluenți, județul Harghita” precum și Nota de fundamentare a acestuia.",
+      "documents": [
+        {
+          "date": "28-00-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/NOTA%20DE%20FUNDAMENTARE%20TROTUS%20-%20HR%2021.06.2023%20%28002%29.doc",
+          "title": "NOTA DE FUNDAMENTARE",
+          "type": "doc"
+        },
+        {
+          "date": "28-00-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/HG%20Trotus%20Harghita%2021.06.2023%20%28002%29.doc",
+          "title": "HG TROTUS HARGHITA",
+          "type": "doc"
+        },
+        {
+          "date": "28-00-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Anexa%20HG%20Trotus%20Harghita%20modif%2021.06.2023%20%28002%29.doc",
+          "title": "ANEXA HG",
+          "type": "doc"
+        }
+      ]
+    },
+    {
       "currentUrl": "http://www.mmediu.ro/articol/proiect-de-ordonanta-a-guvernului-privind-prorogarea-termenului-prevazut-la-art-6-din-ordonanta-guvernului-nr-40-2006-pentru-aprobarea-si-finantarea-programelor-multianuale-prioritare-de-mediu-si-gospodarire-a-apelor/6351",
       "date": "26-00-2023",
       "name": "Proiect de Ordonanță a Guvernului privind prorogarea termenului  prevăzut la art. 6 din Ordonanța Guvernului nr. 40/2006 pentru aprobarea și finanțarea programelor multianuale prioritare de mediu și gospodărire a apelor",
@@ -2858,25 +2883,6 @@
           "link": "http://www.mmediu.ro/app/webroot/uploads/files/Referat%20de%20aprobare_pdf.pdf",
           "title": "Referat de aprobare",
           "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-ordin-pentru-aprobarea-derogarii-in-scopul-cercetarii-stiintifice-pentru-unele-specii-de-pesti/5715",
-      "date": "08-00-2022",
-      "name": "Proiect de Ordin pentru aprobarea derogării în scopul cercetării științifice pentru unele specii de pești",
-      "documents": [
-        {
-          "date": "08-00-2022",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/1%20Proiect%20de%20Ordin%20Cheile%20Nerei.doc",
-          "title": "Proiect Ordin",
-          "type": "doc"
-        },
-        {
-          "date": "08-00-2022",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Referat%20de%20aprobare%2836%29.docx",
-          "title": "Referat de aprobare",
-          "type": "doc"
         }
       ]
     }

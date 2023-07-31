@@ -79,7 +79,7 @@ const main = async ({
               documents: [
                 {
                   date: articleDate,
-                  link: articleDownloadLink,
+                  link: articleDownloadUrl,
                   title: (articleName.split(' ') ?? [''])[0] ?? 'Act normativ',
                   type: articleType
                 }

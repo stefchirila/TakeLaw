@@ -2,18 +2,77 @@
   "minvestitiilor": [
     {
       "currentUrl": "https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/",
+      "date": "28-07-2023",
+      "name": "HG privind modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 936/2020 pentru aprobarea cadrului general necesar în vederea implicării autorităților și instituțiilor din România în procesul de programare și negociere a fondurilor externe nerambursabile aferente perioadei de programare 2021-2027 și a cadrului instituțional de coordonare, gestionare și control al acestor fonduri",
+      "documents": [
+        {
+          "date": "28-07-2023",
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/07/2094875983e49cacf465ea100826b53b.zip",
+          "title": "HG",
+          "type": "archive"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/",
+      "date": "28-07-2023",
+      "name": "Ordonanţă pentru stabilirea unor măsuri necesare optimizării procesului de implementare a proiectelor finanțate din fonduri externe nerambursabile",
+      "documents": [
+        {
+          "date": "28-07-2023",
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/07/479c0d5c25808c8bb37bc3972e4d1624.zip",
+          "title": "Ordonanţă",
+          "type": "archive"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/",
+      "date": "19-07-2023",
+      "name": "ORDONANȚĂ pentru completarea Ordonanţei de urgenţă a Guvernului nr. 113/2022 privind unele măsuri necesare în vederea implementării Fondului de ajutor european destinat celor mai defavorizate persoane, decontarea unor cheltuieli privind sprijinirea refugiaţilor din Ucraina, precum şi acordarea de granturi din fonduri externe nerambursabile pentru investiţii destinate retehnologizării IMM-urilor, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea prețului la energie, suportat parțial din fonduri externe nerambursabile",
+      "documents": [
+        {
+          "date": "19-07-2023",
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/07/6e362bfd12d4c9cc6fc2172a7af8c6dc.rar",
+          "title": "ORDONANȚĂ",
+          "type": "archive"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/",
+      "date": "19-07-2023",
+      "name": "HOTĂRÂRE pentru modificarea și completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 66/2011 privind prevenirea, constatarea și sancționarea neregulilor apărute în obținerea și utilizarea fondurilor europene și/sau a fondurilor publice naționale aferente acestora, aprobate prin Hotărârea Guvernului nr. 875/2011",
+      "documents": [
+        {
+          "date": "19-07-2023",
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/07/0e763581cf38aef953a8da6f581e644b.rar",
+          "title": "HOTĂRÂRE",
+          "type": "archive"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/",
+      "date": "04-07-2023",
+      "name": "Ordonanță pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 109/2022 privind unele măsuri pentru proiectele de infrastructură de apă și apă uzată finanțate din fonduri europene și pentru modificarea unor acte normative, precum și pentru modificarea articolului 9 litera o) punctul (ii) din Ordonanța de urgență a Guvernului nr. 40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014-2020",
+      "documents": [
+        {
+          "date": "04-07-2023",
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/07/1993f67a3f76711d13bfb214612e3a2e.zip",
+          "title": "Ordonanță",
+          "type": "archive"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://mfe.gov.ro/informatii-de-interes-public/acte-normative-in-consultare-publica/",
       "date": "11-06-2023",
       "name": "OUG privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic și didactic auxiliar precum și primă de carieră profesională pentru personalul nedidactic din învățământul de stat suportate din fonduri externe nerambursabile",
       "documents": [
         {
           "date": "11-06-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=0 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/06/73b3e034ad3356b37f378f537cdd610c.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -26,13 +85,7 @@
       "documents": [
         {
           "date": "09-06-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=1 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/06/b17c73b86031eb7eefb7d0dd4690164b.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -45,13 +98,7 @@
       "documents": [
         {
           "date": "09-06-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=2 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/06/fa2473f759ef25cc1ebb753fffe54e0b.zip",
           "title": "ORDIN",
           "type": "archive"
         }
@@ -64,13 +111,7 @@
       "documents": [
         {
           "date": "30-05-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=3 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/05/d36e5ebf651c41386df625fc36123bb7.zip",
           "title": "ORDIN",
           "type": "archive"
         }
@@ -83,13 +124,7 @@
       "documents": [
         {
           "date": "28-05-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=4 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/05/2364ebe852fc68e05b4c6b18cf59d17e-1.rar",
           "title": "ORDONANȚĂ",
           "type": "archive"
         }
@@ -102,13 +137,7 @@
       "documents": [
         {
           "date": "22-05-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=5 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/05/07953f7bbc54065b806d3a212da7f606.zip",
           "title": "ORDIN",
           "type": "archive"
         }
@@ -121,13 +150,7 @@
       "documents": [
         {
           "date": "16-05-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=6 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/05/4b23819a883bbc4977b6c4304c13bb76.docx",
           "title": "ORDIN",
           "type": "doc"
         }
@@ -140,13 +163,7 @@
       "documents": [
         {
           "date": "15-05-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=7 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/05/8f1981dafe190948ad3ba9db862382a5.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -159,13 +176,7 @@
       "documents": [
         {
           "date": "05-05-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=8 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/05/42b747fd5fa795cb7864ba0736ca31ff.zip",
           "title": "ORDIN",
           "type": "archive"
         }
@@ -178,13 +189,7 @@
       "documents": [
         {
           "date": "02-05-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=9 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/05/1dd79349e1c2a78f29de3412cface659.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -197,13 +202,7 @@
       "documents": [
         {
           "date": "25-04-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=10 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/04/76b8c9b6767899332e2ec64d3597b671.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -216,13 +215,7 @@
       "documents": [
         {
           "date": "25-04-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=11 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/04/f33f493ffc65f286bc078771998e6409.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -235,13 +228,7 @@
       "documents": [
         {
           "date": "19-04-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=12 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/04/2ba58abb05dbede8f5dce3ec531174aa.rar",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -254,13 +241,7 @@
       "documents": [
         {
           "date": "11-04-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=13 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/04/478b8363edd226c5b9b6e618f9bbb56e.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -273,13 +254,7 @@
       "documents": [
         {
           "date": "14-03-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=14 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/03/5472adfa589d9b3aa9b2cda41ca5596b.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -292,13 +267,7 @@
       "documents": [
         {
           "date": "10-03-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=15 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/03/68fb2d7d2e47a37cc0753f169a183c3e.rar",
           "title": "HG",
           "type": "archive"
         }
@@ -311,13 +280,7 @@
       "documents": [
         {
           "date": "07-03-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=16 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/03/f61ab254010890e7860465c28f5dacfe.rar",
           "title": "HOTĂRÂRE",
           "type": "archive"
         }
@@ -330,13 +293,7 @@
       "documents": [
         {
           "date": "09-02-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=17 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/02/277abf9fb7ba3ec9dfd8b8bbc9a21b75.rar",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -349,13 +306,7 @@
       "documents": [
         {
           "date": "23-02-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=18 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/02/3f2558ab2393b1acf9cc12c852a1fedb.pdf",
           "title": "Minuta",
           "type": "pdf"
         }
@@ -368,13 +319,7 @@
       "documents": [
         {
           "date": "17-02-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=19 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/02/65c99286277f3c9ffa4434df33c056b3.pdf",
           "title": "ANUNT",
           "type": "pdf"
         }
@@ -387,13 +332,7 @@
       "documents": [
         {
           "date": "03-02-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=20 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/02/479dc9ed48807735abaafb73e9d07133.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -406,13 +345,7 @@
       "documents": [
         {
           "date": "03-02-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=21 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/02/205d1c35b5d8d139859c03825f1a1694.zip",
           "title": "HG",
           "type": "archive"
         }
@@ -425,13 +358,7 @@
       "documents": [
         {
           "date": "02-02-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=22 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/02/7da4e06597284eecdd46e417dc72ffe8.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -444,13 +371,7 @@
       "documents": [
         {
           "date": "02-02-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=23 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/02/011456497346de9f82a3b24419e668ee.zip",
           "title": "OUG",
           "type": "archive"
         }
@@ -463,13 +384,7 @@
       "documents": [
         {
           "date": "26-01-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=24 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/01/f4a5a21fca53ba5dba48912ef8da074e.zip",
           "title": "Ordonanță",
           "type": "archive"
         }
@@ -482,13 +397,7 @@
       "documents": [
         {
           "date": "26-01-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=25 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/01/d78d32e7bb7c12548d95f5a4d5ef04f2.zip",
           "title": "Ordonanță",
           "type": "archive"
         }
@@ -501,13 +410,7 @@
       "documents": [
         {
           "date": "05-01-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=26 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/01/ccfec4d46f99554c3ae832a6d9828d2f.rar",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -520,13 +423,7 @@
       "documents": [
         {
           "date": "30-12-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=0 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/12/42ff12490d0cc42810e8b4d01288e22b.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -539,13 +436,7 @@
       "documents": [
         {
           "date": "05-01-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=1 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/01/479c0d5c25808c8bb37bc3972e4d1624.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -558,13 +449,7 @@
       "documents": [
         {
           "date": "27-12-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=2 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/12/6f465e90eee5a73c0a5290c39f36de3f.rar",
           "title": "Proiect",
           "type": "archive"
         }
@@ -577,13 +462,7 @@
       "documents": [
         {
           "date": "22-12-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=3 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/12/321366cf919e0864cabe9efcf684569a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -596,13 +475,7 @@
       "documents": [
         {
           "date": "22-12-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=4 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/12/e84353b651a884da51753f46b5add0a5.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -615,13 +488,7 @@
       "documents": [
         {
           "date": "15-12-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=5 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/12/bdbe4fc9e1e0706f8fe291b81b9b6560.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -634,13 +501,7 @@
       "documents": [
         {
           "date": "06-12-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=6 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/12/a8c97038ad659b7ba8b0798e6cb16b85.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -653,13 +514,7 @@
       "documents": [
         {
           "date": "25-11-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=7 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/11/78662f344525e952f1c1abacfa9b6044.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -672,13 +527,7 @@
       "documents": [
         {
           "date": "25-11-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=8 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/11/373a3be444bb74a63e11c2163b451b59.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -691,13 +540,7 @@
       "documents": [
         {
           "date": "22-11-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=9 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/11/a1eaabd508a95dd8fdc64eaa1ee645ed.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -710,13 +553,7 @@
       "documents": [
         {
           "date": "17-11-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=10 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/11/e8268803af0a98913206c01494957f41.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -729,13 +566,7 @@
       "documents": [
         {
           "date": "15-11-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=11 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/11/444379a820e42229bea8a41cfac2762e.rar",
           "title": "Proiect",
           "type": "archive"
         }
@@ -748,13 +579,7 @@
       "documents": [
         {
           "date": "04-11-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=12 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/11/6ed0c676cf95326969bd6980c194ee3a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -767,13 +592,7 @@
       "documents": [
         {
           "date": "02-11-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=13 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/11/25cfb1f5d51f783d52130533e30f55b6.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -786,13 +605,7 @@
       "documents": [
         {
           "date": "27-10-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=14 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/10/6580b634cae1e64b84afcd291f5c1cd9.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -805,13 +618,7 @@
       "documents": [
         {
           "date": "20-10-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=15 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/10/8fb43829b5ced33b46a6c19e99e8af71.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -824,13 +631,7 @@
       "documents": [
         {
           "date": "08-10-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=16 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/10/d2fd1dcd3daf88124e2237e7fb3ec64d-1.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -843,13 +644,7 @@
       "documents": [
         {
           "date": "13-09-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=17 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/09/b2f601360d7c368b115448755b8b50cf.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -862,13 +657,7 @@
       "documents": [
         {
           "date": "26-08-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=18 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/08/a247ac0a7efc40733484d317b502ceea.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -881,13 +670,7 @@
       "documents": [
         {
           "date": "10-08-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=19 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/08/9e9236579f897dfe086a8441885ba66a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -900,13 +683,7 @@
       "documents": [
         {
           "date": "29-07-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=20 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/07/6cb6e8bd90c2a93bd58191bc1423acd7.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -919,13 +696,7 @@
       "documents": [
         {
           "date": "27-07-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=21 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/07/480f7db984d25b806c39e63af6527a21.rar",
           "title": "Ordonanță",
           "type": "archive"
         }
@@ -938,13 +709,7 @@
       "documents": [
         {
           "date": "08-07-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=22 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/07/9fedade1dd8989cc0e01cbb672464cb0.rar",
           "title": "Ordonanța",
           "type": "archive"
         }
@@ -957,13 +722,7 @@
       "documents": [
         {
           "date": "06-07-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=23 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/07/b168b846d5a6b935f72425ca8c137693.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -976,13 +735,7 @@
       "documents": [
         {
           "date": "06-07-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=24 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/07/4b0fb0e2f95d71c718c18ffe70b4c177.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -995,13 +748,7 @@
       "documents": [
         {
           "date": "06-07-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=25 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/07/37e691ebb3286980dbc295732140e48e.rar",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -1014,13 +761,7 @@
       "documents": [
         {
           "date": "24-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=26 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/63579b218bb6fc4e245b0a48cd637bf9.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1033,13 +774,7 @@
       "documents": [
         {
           "date": "23-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=27 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/0e84e6e73051695bc8467afdcd29fa75.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1052,13 +787,7 @@
       "documents": [
         {
           "date": "21-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=28 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/cb2e02337ab3b1fc1fcd599da1c46cef.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1071,13 +800,7 @@
       "documents": [
         {
           "date": "20-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=29 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/3b909d4090996eae292b3c56335c802a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1090,13 +813,7 @@
       "documents": [
         {
           "date": "20-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=30 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/b980540a85a2d3dfe072c94de4553553.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1109,13 +826,7 @@
       "documents": [
         {
           "date": "15-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=31 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/4a748abcaae9f08e4adac99ba875ebac.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1128,13 +839,7 @@
       "documents": [
         {
           "date": "15-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=32 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/c0ee356e46ef45578819ae584c8e1c3b.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1147,13 +852,7 @@
       "documents": [
         {
           "date": "10-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=33 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/343463acd24707a2d552db72137e88c9.rar",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -1166,13 +865,7 @@
       "documents": [
         {
           "date": "09-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=34 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/98eea7cb2bc1ea7dcb76d69075e0f44c.rar",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1185,13 +878,7 @@
       "documents": [
         {
           "date": "06-06-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=35 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/06/48e71ccb36f0e4d6cb3daf9aaa2df81f.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1204,13 +891,7 @@
       "documents": [
         {
           "date": "27-05-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=36 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/05/386fb5956c93f8ed194f17ce37422d03.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1223,13 +904,7 @@
       "documents": [
         {
           "date": "25-05-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=37 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/05/82c6b1303f12df14147ee61cdfdecb08.rar",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1242,13 +917,7 @@
       "documents": [
         {
           "date": "18-08-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=38 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/08/84bade14616a6e6a5d587fba17bebb79.docx",
           "title": "Centralizator",
           "type": "doc"
         }
@@ -1261,13 +930,7 @@
       "documents": [
         {
           "date": "23-05-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=39 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/05/ecb76c596017142e1e5e5d8a410db804.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1280,13 +943,7 @@
       "documents": [
         {
           "date": "17-05-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=40 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/05/dae9545cb06485a6015297fdb1358fdf-1.rar",
           "title": "HOTĂRÂRE",
           "type": "archive"
         }
@@ -1299,13 +956,7 @@
       "documents": [
         {
           "date": "05-05-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=41 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/05/6d9a0e4634bf7186d46c2e50477eb039.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1318,13 +969,7 @@
       "documents": [
         {
           "date": "02-05-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=42 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/05/3313a92b3742db03e37635fbf696d0b4.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1337,13 +982,7 @@
       "documents": [
         {
           "date": "29-04-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=43 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/04/3748611e09c02576f26c920558432284.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1356,13 +995,7 @@
       "documents": [
         {
           "date": "07-04-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=44 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/04/b28611eb39f5f87512d78f8225ede2c6.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1375,13 +1008,7 @@
       "documents": [
         {
           "date": "24-03-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=45 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/03/b7e6e37e84210240957d146a94d99269.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1394,13 +1021,7 @@
       "documents": [
         {
           "date": "16-03-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=46 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/03/2cdef226ac83c6a4b1dc07b99d9153dc.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1413,13 +1034,7 @@
       "documents": [
         {
           "date": "16-03-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=47 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/03/30c0076e74376304f78f3bf1f9627c00.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1432,13 +1047,7 @@
       "documents": [
         {
           "date": "15-03-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=48 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/03/6a5e5c29027ce2e039ea6de7f056d052.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1451,13 +1060,7 @@
       "documents": [
         {
           "date": "03-03-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=49 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/03/0b49d6b5a4d11f8dc44b27539936ca58.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1470,13 +1073,7 @@
       "documents": [
         {
           "date": "02-03-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=50 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/03/e604ffbbfd4b10395385e44b1ad364eb.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1489,13 +1086,7 @@
       "documents": [
         {
           "date": "14-02-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=51 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/02/bb77476363db03ea3e70bcee6b04fb7a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1508,13 +1099,7 @@
       "documents": [
         {
           "date": "04-02-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=52 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/02/685962d8c537d3ec44ed6472c987d91c.rar",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1527,13 +1112,7 @@
       "documents": [
         {
           "date": "02-02-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=53 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/02/00aeca19edf70534a61a4043988c2ffc.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1546,13 +1125,7 @@
       "documents": [
         {
           "date": "12-01-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=54 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/01/d0318f83e21ba164642b6386f3ee9072.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1565,13 +1138,7 @@
       "documents": [
         {
           "date": "11-01-2022",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=55 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2022/01/85a467935e7de1f5770aae63ea8a103a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1584,13 +1151,7 @@
       "documents": [
         {
           "date": "23-12-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=0 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/12/6a71ad77ed1fe9b459ba6fae07aae686.rar",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -1603,13 +1164,7 @@
       "documents": [
         {
           "date": "17-12-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=1 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/12/d4b4db5b6470b34e7fb4fc62a9ea6348.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -1622,13 +1177,7 @@
       "documents": [
         {
           "date": "06-12-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=2 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/12/5d3ac7886defe4189cfc3e3ade9154c7.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1641,13 +1190,7 @@
       "documents": [
         {
           "date": "03-12-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=3 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/12/397b84295a2f5ebecbb8755468d1557f.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1660,13 +1203,7 @@
       "documents": [
         {
           "date": "08-12-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=4 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/12/cb409fa33c1eb2788d19332a693ca256.pdf",
           "title": "Anunț",
           "type": "pdf"
         }
@@ -1679,13 +1216,7 @@
       "documents": [
         {
           "date": "20-12-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=5 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/12/dd96cf3b3fdfedda10dc6165ccf7f396.pdf",
           "title": "Minuta",
           "type": "pdf"
         }
@@ -1698,13 +1229,7 @@
       "documents": [
         {
           "date": "25-11-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=6 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/11/a0b837cf62602ab30c524ba4670b455b.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -1717,13 +1242,7 @@
       "documents": [
         {
           "date": "24-09-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=7 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/09/8226c00eed3b7238dcb67c01a4dcc7bf.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1736,13 +1255,7 @@
       "documents": [
         {
           "date": "21-09-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=8 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/09/aa51f8fcbc5b026c723b20691a42abfc.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1755,13 +1268,7 @@
       "documents": [
         {
           "date": "22-12-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=9 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/12/e406cafac136f493f1ce5461a1400ced.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1774,13 +1281,7 @@
       "documents": [
         {
           "date": "07-09-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=10 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/09/e3280e500a37d890a144e0675f6e66fc.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1793,13 +1294,7 @@
       "documents": [
         {
           "date": "24-08-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=11 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/08/77747276a4f6a901a8aede4ce017e38b.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1812,13 +1307,7 @@
       "documents": [
         {
           "date": "02-08-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=12 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/08/c022ab180a40e8739aee6745b0fede66.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1831,13 +1320,7 @@
       "documents": [
         {
           "date": "29-07-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=13 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/07/2cf98693eaabb11aef3edf31c708006d.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -1850,13 +1333,7 @@
       "documents": [
         {
           "date": "31-05-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=14 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/05/ad3f17918c311e6a57d8aaa1de2644f0.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1869,13 +1346,7 @@
       "documents": [
         {
           "date": "06-05-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=15 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/05/1ce43ac80602ed2727098d5c70fc70f4.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1888,13 +1359,7 @@
       "documents": [
         {
           "date": "29-04-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=16 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/04/40ef615922197f2cc258f60b0e7be114.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1907,13 +1372,7 @@
       "documents": [
         {
           "date": "19-07-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=17 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/07/58d84632b182213237b7d725c33b0722.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -1926,13 +1385,7 @@
       "documents": [
         {
           "date": "27-04-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=18 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/04/09732830283999791636b3923b8981dc.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1945,13 +1398,7 @@
       "documents": [
         {
           "date": "27-04-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=19 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/04/68d223a26bad919d9b068bedba7e8a23.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1964,13 +1411,7 @@
       "documents": [
         {
           "date": "14-04-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=20 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/04/b47a4ed7183312baf31bbe705becb9e8.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -1983,13 +1424,7 @@
       "documents": [
         {
           "date": "22-03-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=21 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/03/34a15f6969bf4f95e28e7a0c5f6fdb6b.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2002,13 +1437,7 @@
       "documents": [
         {
           "date": "18-03-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=22 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/03/d9c5231d0881e09cdb576e10eb3a776e.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2021,13 +1450,7 @@
       "documents": [
         {
           "date": "19-05-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=23 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/05/3616fa37307839d2e7b71db09a8c8b9e.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2040,13 +1463,7 @@
       "documents": [
         {
           "date": "12-02-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=24 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/02/817c363d77412f4912329aab311bf939.zip",
           "title": "Hotărârea",
           "type": "archive"
         }
@@ -2059,13 +1476,7 @@
       "documents": [
         {
           "date": "19-07-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=25 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/07/ff08a628cdb0c1c46eaafb9306bbd1e7.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -2078,13 +1489,7 @@
       "documents": [
         {
           "date": "01-02-2021",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=26 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2021/02/4a7d1ed414474e4033ac29ccb8653d9b.zip",
           "title": "Proiectul",
           "type": "archive"
         }
@@ -2097,13 +1502,7 @@
       "documents": [
         {
           "date": "18-11-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=0 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/11/4fde8ded31bf9ef69e9254d8a454296c.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2116,13 +1515,7 @@
       "documents": [
         {
           "date": "12-11-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=1 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/11/65a8f308842daee445e8842d953ddcb9.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2135,13 +1528,7 @@
       "documents": [
         {
           "date": "11-11-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=2 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/11/4a7d1ed414474e4033ac29ccb8653d9b.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2154,13 +1541,7 @@
       "documents": [
         {
           "date": "10-11-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=3 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/11/aabff6f9afd96fb9042176ff4d93fdab.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2173,13 +1554,7 @@
       "documents": [
         {
           "date": "26-10-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=4 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/10/901797d9efcd1cde992eddc9af1807cf.zip",
           "title": "Ordonață",
           "type": "archive"
         }
@@ -2192,13 +1567,7 @@
       "documents": [
         {
           "date": "23-10-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=5 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/10/2c1a70a1578f39fdb20f0ac6d50356fc.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -2211,13 +1580,7 @@
       "documents": [
         {
           "date": "21-10-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=6 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/10/2080b164191f57e49ee0338664a5d623.zip",
           "title": "Ordonanță",
           "type": "archive"
         }
@@ -2230,13 +1593,7 @@
       "documents": [
         {
           "date": "20-10-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=7 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/10/aa1e5bc09856fc834ed9c3a440a974e8.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2249,13 +1606,7 @@
       "documents": [
         {
           "date": "16-09-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=8 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/09/bfafe2ec22e192c99bc5117503d0e525.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2268,13 +1619,7 @@
       "documents": [
         {
           "date": "16-09-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=9 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/09/c9f803dc40c0be5ed1ec38b6f061e0e6.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2287,13 +1632,7 @@
       "documents": [
         {
           "date": "11-09-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=10 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/09/2a8e56ea4d54656f484f17eeba0c5330.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2306,13 +1645,7 @@
       "documents": [
         {
           "date": "11-09-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=11 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/09/fc4ea25943a0b4473a114e89e1fb3c3a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2325,13 +1658,7 @@
       "documents": [
         {
           "date": "02-09-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=12 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/09/307deb13bae0c79c8709e0de2c01d6e7.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2344,13 +1671,7 @@
       "documents": [
         {
           "date": "01-09-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=13 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/09/ef62d4df141a8d553ae9856a0d479254.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2363,13 +1684,7 @@
       "documents": [
         {
           "date": "12-08-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=14 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/08/d7cb5187c88647daa5d29d2e15b66567.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2382,13 +1697,7 @@
       "documents": [
         {
           "date": "12-08-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=15 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/08/4f167f89d629dc68e7dd1024ddcef019.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2401,13 +1710,7 @@
       "documents": [
         {
           "date": "11-08-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=16 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/08/5a40de0210fa97634f7e6811bc147813.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2420,13 +1723,7 @@
       "documents": [
         {
           "date": "10-08-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=17 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/08/fde569e6b4eaa41466ea60feb6a6725d.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2439,13 +1736,7 @@
       "documents": [
         {
           "date": "10-08-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=18 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/08/64aa2f8e80c72f862ca91118339a73f3.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2458,13 +1749,7 @@
       "documents": [
         {
           "date": "10-08-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=19 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/08/d39db3c9ce9e3eeec4009400e384d946.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2477,13 +1762,7 @@
       "documents": [
         {
           "date": "29-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=20 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/1b5e192d84300114ee241cc8f377a8f5.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2496,13 +1775,7 @@
       "documents": [
         {
           "date": "28-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=21 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/c7ed9968f17ebabcb8b33f7e593bec36.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2515,13 +1788,7 @@
       "documents": [
         {
           "date": "23-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=22 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/85ddc144258b6dc7354569dbc7106b7a.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2534,13 +1801,7 @@
       "documents": [
         {
           "date": "14-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=23 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/5453032ecec22eda92bbf5b65fe6a9a6.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2553,13 +1814,7 @@
       "documents": [
         {
           "date": "09-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=24 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/a2a0a9903d6cde515a7d92e2c6889153.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2572,13 +1827,7 @@
       "documents": [
         {
           "date": "09-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=25 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/a5081b6195d9c6e6bbdc6a7e8ff26b1f.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2591,13 +1840,7 @@
       "documents": [
         {
           "date": "08-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=26 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/d5800ce0c6e836b8495e31b007795cbd.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2610,13 +1853,7 @@
       "documents": [
         {
           "date": "02-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=27 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/43c1daf68c5ab952fda0957c9c57e6e7.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -2629,13 +1866,7 @@
       "documents": [
         {
           "date": "02-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=28 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/2fcc1c758a335e33f00c8211a560a893.zip",
           "title": "Hotărârea",
           "type": "archive"
         }
@@ -2648,13 +1879,7 @@
       "documents": [
         {
           "date": "02-07-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=29 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/07/68070a95653988a3a705cc12c5e048dc.zip",
           "title": "Hotărâre",
           "type": "archive"
         }
@@ -2667,13 +1892,7 @@
       "documents": [
         {
           "date": "30-06-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=30 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/06/9a28593d2c37f3c73a08da22ec8f323d.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2686,13 +1905,7 @@
       "documents": [
         {
           "date": "16-06-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=31 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/06/d8696a4ba134269f60e1431392c7c187.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2705,13 +1918,7 @@
       "documents": [
         {
           "date": "12-06-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=32 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/06/e109c7feb920bb8e043d81ae8a523a88.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2724,13 +1931,7 @@
       "documents": [
         {
           "date": "04-06-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=33 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/06/4ebbea2ad4c2feef00f76d94dcf684eb.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2743,13 +1944,7 @@
       "documents": [
         {
           "date": "26-05-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=34 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/05/29067f7bf5e2733cbc5b88e618c46ac1.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2762,13 +1957,7 @@
       "documents": [
         {
           "date": "25-05-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=35 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/05/3da9d5902702b566b2d1dc24a4d64447.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2781,13 +1970,7 @@
       "documents": [
         {
           "date": "11-05-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=36 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/05/1d1f6dbaebd5dbc58e48a2356053dc1b.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2800,13 +1983,7 @@
       "documents": [
         {
           "date": "07-05-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=37 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/05/7870879fe2f7343717a434af2bd8067e.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2819,13 +1996,7 @@
       "documents": [
         {
           "date": "06-05-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=38 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/05/902e9c23b7a0a49180a1981158421837.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2838,13 +2009,7 @@
       "documents": [
         {
           "date": "01-05-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=39 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/05/c231308d7982e2c4a201ca02268dca56.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2857,13 +2022,7 @@
       "documents": [
         {
           "date": "29-04-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=40 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/04/53ab4980b968dc7fc3ba5212663bdf91.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2876,13 +2035,7 @@
       "documents": [
         {
           "date": "28-04-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=41 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/04/dfe2bbf8cf185bdd04d1c7737c304705.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2895,13 +2048,7 @@
       "documents": [
         {
           "date": "09-04-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=42 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/04/6b0214175047133fc1f81ba2b75a9124.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2914,13 +2061,7 @@
       "documents": [
         {
           "date": "08-04-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=43 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/04/4f42c40accfa53f5c0d1069bb0ea44fa.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2933,13 +2074,7 @@
       "documents": [
         {
           "date": "01-04-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=44 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/04/ac0c07368696f3d29b4329a4c4ac9c8c.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2952,13 +2087,7 @@
       "documents": [
         {
           "date": "31-01-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=45 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/01/2cf2ae673e38d3dea1e3f79975de4d21.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2971,13 +2100,7 @@
       "documents": [
         {
           "date": "29-01-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=46 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/01/b8fa96ffb79ccaa766c93b89ebaf6ef6.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -2990,13 +2113,7 @@
       "documents": [
         {
           "date": "17-01-2020",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=47 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2020/01/4a7d1ed414474e4033ac29ccb8653d9b-3.zip",
           "title": "Proiect",
           "type": "archive"
         }
@@ -3009,13 +2126,7 @@
       "documents": [
         {
           "date": "14-06-2023",
-          "link": {
-            "_frame": {
-              "_type": "Frame",
-              "_guid": "frame@8a805a1628815646cc85e97c00d84019"
-            },
-            "_selector": "table.footable.footable-loaded.no-paging >> tbody tr[style] >> nth=48 >> td >> nth=-1 >> a[href][role=\"link\"]"
-          },
+          "link": "https://mfe.gov.ro/wp-content/uploads/2023/06/40ece1d70d10aaead47f9ea8d3247c98.pdf",
           "title": "DA",
           "type": "pdf"
         }
