@@ -10,7 +10,7 @@ const {
 
 const main = async ({
   headless = true,
-  maxLinksCount = 250,
+  maxLinksCount = 125,
   timeout = defaultTimeout
 }) => {
   const timerName = 'MAGRICULTURII took'

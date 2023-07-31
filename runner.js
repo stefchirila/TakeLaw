@@ -28,7 +28,7 @@ Ex:
 // const { main: cdepPl } = require('./scripts/cdep-pl')
 // ;(async () => {
 //   const output = await cdepPl({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/cdep-pl.json', JSON.stringify(output, null, 2))
 // })()
@@ -36,7 +36,7 @@ Ex:
 // const { main: senatPl } = require('./scripts/senat-pl')
 // ;(async () => {
 //   const output = await senatPl({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/senat-pl.json', JSON.stringify(output, null, 2))
 // })()
@@ -44,7 +44,7 @@ Ex:
 // const { main: mtransport } = require('./scripts/mtransport')
 // ;(async () => {
 //   const output = await mtransport({
-//     headless: false
+//     headless: true
 //   })
 //   // console.info(output)
 //   fs.writeFile('output/mtransport.json', JSON.stringify(output, null, 2))
@@ -53,7 +53,7 @@ Ex:
 // const { main: mfinante } = require('./scripts/mfinante')
 // ;(async () => {
 //   const output = await mfinante({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mfinante.json', JSON.stringify(output, null, 2))
 // })()
@@ -61,7 +61,7 @@ Ex:
 // const { main: mdezvoltarii } = require('./scripts/mdezvoltarii')
 // ;(async () => {
 //   const output = await mdezvoltarii({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mdezvoltarii.json', JSON.stringify(output, null, 2))
 // })()
@@ -69,7 +69,7 @@ Ex:
 // const { main: meducatiei } = require('./scripts/meducatiei')
 // ;(async () => {
 //   const output = await meducatiei({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/meducatiei.json', JSON.stringify(output, null, 2))
 // })()
@@ -77,7 +77,7 @@ Ex:
 // const { main: mmediu } = require('./scripts/mmediu')
 // ;(async () => {
 //   const output = await mmediu({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mmediu.json', JSON.stringify(output, null, 2))
 // })()
@@ -85,7 +85,7 @@ Ex:
 // const { main: mai } = require('./scripts/mai')
 // ;(async () => {
 //   const output = await mai({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mai.json', JSON.stringify(output, null, 2))
 // })()
@@ -93,7 +93,7 @@ Ex:
 // const { main: mae } = require('./scripts/mae')
 // ;(async () => {
 //   const output = await mae({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mae.json', JSON.stringify(output, null, 2))
 // })()
@@ -101,7 +101,7 @@ Ex:
 // const { main: mjustitiei } = require('./scripts/mjustitiei')
 // ;(async () => {
 //   const output = await mjustitiei({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mjustitiei.json', JSON.stringify(output, null, 2))
 // })()
@@ -109,7 +109,7 @@ Ex:
 // const { main: mapn } = require('./scripts/mapn')
 // ;(async () => {
 //   const output = await mapn({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mapn.json', JSON.stringify(output, null, 2))
 // })()
@@ -117,7 +117,7 @@ Ex:
 // const { main: meconomiei } = require('./scripts/meconomiei')
 // ;(async () => {
 //   const output = await meconomiei({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/meconomiei.json', JSON.stringify(output, null, 2))
 // })()
@@ -125,23 +125,15 @@ Ex:
 // const { main: menergiei } = require('./scripts/menergiei')
 // ;(async () => {
 //   const output = await menergiei({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/menergiei.json', JSON.stringify(output, null, 2))
-// })()
-
-// const { main: senat } = require('./scripts/senat')
-// ;(async () => {
-//   const output = await senat({
-//     headless: false
-//   })
-//   fs.writeFile('output/senat.json', JSON.stringify(output, null, 2))
 // })()
 
 // const { main: mturism } = require('./scripts/mturism')
 // ;(async () => {
 //   const output = await mturism({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mturism.json', JSON.stringify(output, null, 2))
 // })()
@@ -149,7 +141,7 @@ Ex:
 // const { main: msanatatii } = require('./scripts/msanatatii')
 // ;(async () => {
 //   const output = await msanatatii({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/msanatatii.json', JSON.stringify(output, null, 2))
 // })()
@@ -157,7 +149,7 @@ Ex:
 // const { main: magriculturii } = require('./scripts/magriculturii')
 // ;(async () => {
 //   const output = await magriculturii({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/magriculturii.json', JSON.stringify(output, null, 2))
 // })()
@@ -165,7 +157,7 @@ Ex:
 // const { main: mculturii } = require('./scripts/mculturii')
 // ;(async () => {
 //   const output = await mculturii({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mculturii.json', JSON.stringify(output, null, 2))
 // })()
@@ -173,7 +165,7 @@ Ex:
 // const { main: msport } = require('./scripts/msport')
 // ;(async () => {
 //   const output = await msport({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/msport.json', JSON.stringify(output, null, 2))
 // })()
@@ -181,7 +173,7 @@ Ex:
 // const { main: minvestitiilor } = require('./scripts/minvestitiilor')
 // ;(async () => {
 //   const output = await minvestitiilor({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/minvestitiilor.json', JSON.stringify(output, null, 2))
 // })()
@@ -189,7 +181,7 @@ Ex:
 // const { main: mfamiliei } = require('./scripts/mfamiliei')
 // ;(async () => {
 //   const output = await mfamiliei({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mfamiliei.json', JSON.stringify(output, null, 2))
 // })()
@@ -197,15 +189,15 @@ Ex:
 // const { main: mmuncii } = require('./scripts/mmuncii')
 // ;(async () => {
 //   const output = await mmuncii({
-//     headless: false
+//     headless: true
 //   })
 //   fs.writeFile('output/mmuncii.json', JSON.stringify(output, null, 2))
 // })()
 
-const { main: mcercetarii } = require('./scripts/mcercetarii')
-;(async () => {
-  const output = await mcercetarii({
-    headless: false
-  })
-  fs.writeFile('output/mcercetarii.json', JSON.stringify(output, null, 2))
-})()
+// const { main: mcercetarii } = require('./scripts/mcercetarii')
+// ;(async () => {
+//   const output = await mcercetarii({
+//     headless: true
+//   })
+//   fs.writeFile('output/mcercetarii.json', JSON.stringify(output, null, 2))
+// })()

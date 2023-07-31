@@ -1,6 +1,25 @@
 {
   "mjustitiei": [
     {
+      "currentUrl": "https://www.just.ro/proiectul-hotararii-pentru-aprobarea-protocolului-de-cooperare-in-domeniul-juridic-intre-ministerul-justitiei-al-romaniei-si-ministerul-justitiei-al-regatului-maroc-semnat-la-bucuresti-la-12-iulie-20/",
+      "date": "31-07-2023",
+      "documents": [
+        {
+          "date": "31-07-2023",
+          "link": "https://www.just.ro/wp-content/uploads/2023/07/proiect-HG.pdf",
+          "title": "Proiect Hotarare",
+          "type": "pdf"
+        },
+        {
+          "date": "31-07-2023",
+          "link": "https://www.just.ro/wp-content/uploads/2023/07/nota-fundamentare-HG.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        }
+      ],
+      "name": "Proiectul Hotărârii pentru aprobarea Protocolului de cooperare în domeniul juridic între Ministerul Justiției al României şi Ministerul Justiției al Regatului Maroc semnat la București, la 12 iulie 2023"
+    },
+    {
       "currentUrl": "https://www.just.ro/proiectul-de-hotarare-a-guvernului-privind-comasarea-actualizarea-denumirii-descrierii-tehnice-si-a-valorii-de-inventar-ale-unor-imobile-aflate-in-domeniul-public-al-statului-si-in-administrarea-pen/",
       "date": "25-07-2023",
       "documents": [
@@ -1074,37 +1093,6 @@
         }
       ],
       "name": "Proiectul de Lege pentru modificarea art. 74 lit. d) din Legea notarilor publici și a activității notariale nr. 36/1995"
-    },
-    {
-      "currentUrl": "https://www.just.ro/proiectul-de-ordin-al-ministrului-justitiei-privind-prelungirea-aplicarii-in-anul-2023-a-ordinului-ministrului-justitiei-nr-820-c-2015-pentru-aprobarea-normelor-metodologice-privind-acordarea-major/",
-      "date": "10-01-2023",
-      "documents": [
-        {
-          "date": "10-01-2023",
-          "link": "https://www.just.ro/wp-content/uploads/2023/01/ordin.docx",
-          "title": "Proiect Ordin",
-          "type": "doc"
-        },
-        {
-          "date": "10-01-2023",
-          "link": "https://www.just.ro/wp-content/uploads/2023/01/referat-de-aprobare.docx",
-          "title": "Referat de aprobare |",
-          "type": "doc"
-        },
-        {
-          "date": "10-01-2023",
-          "link": "https://www.just.ro/wp-content/uploads/2023/01/anunt-dezbatere-publica-OMJ820.docx",
-          "title": "Anunt dezbatere publica",
-          "type": "doc"
-        },
-        {
-          "date": "10-01-2023",
-          "link": "https://www.just.ro/wp-content/uploads/2023/02/Minuta.pdf",
-          "title": "Minuta dezbaterii din data de 16.02.2023",
-          "type": "pdf"
-        }
-      ],
-      "name": "Proiectul de Ordin al ministrului justiţiei privind prelungirea aplicării, în anul 2023, a Ordinului ministrului justiţiei nr. 820/C/2015 pentru aprobarea Normelor metodologice privind acordarea majorării pentru lucrări de excepţie sau misiuni speciale funcţionarilor publici cu statut special şi personalului civil din sistemul administraţiei penitenciare şi a Ordinului ministrului justiţiei nr. 1.291/C/2017 privind aprobarea Normelor metodologice de acordare a majorării pentru lucrări de excepţie sau misiuni speciale, pentru funcţionarii publici cu statut special din Ministerul Justiţiei"
     }
   ]
 }

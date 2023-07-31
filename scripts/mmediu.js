@@ -10,7 +10,7 @@ const {
 
 const main = async ({
   headless = true,
-  maxPages = 10,
+  maxPages = 5,
   timeout = defaultTimeout
 }) => {
   const timerName = 'MMediu took'
@@ -38,7 +38,7 @@ const main = async ({
   const links = []
   for await (const pageNumber of Array(maxPages).keys()) {
     throwIfNotOk(await page.goto(`${rootUrl}${pageNumber + 1}`))
-    console.info(`Navigated to ${page.url()} to fetch pages`)
+    console.info(`Navigated to ${page.url()} to fetch links`)
     console.info('-------------------')
     pageCounter += 1
     for await (const link of await page.locator('article h3.title a').all()) {

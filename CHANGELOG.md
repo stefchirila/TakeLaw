@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1] - 2023-07-31
+
+### Changed
+- Lowered the limits on some scripts to avoid timeouts
+- Added `--disable-http2` start argument to playwright browser context launch options
+- Added MS Edge user agent to playwright browser context launch options
+
 ## [0.3.0] - 2023-07-31
 
 ### Changed

@@ -36,7 +36,10 @@ const main = async ({
   pageCounter += 1
   const regNoPrefix = 'Nr. înregistrare:'
   const docsFieldName = 'Consultati:'
-  await page.getByLabel('dismiss cookie message').click()
+  const cookieButton = page.getByLabel('dismiss cookie message')
+  if (await cookieButton.count()) {
+    await cookieButton.click()
+  }
 
   const rows = page.locator('.grup-parlamentar-list.grupuri-parlamentare-list table').locator('tbody tr:not([style])')
   if (!await rows.count()) {

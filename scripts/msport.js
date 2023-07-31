@@ -9,7 +9,7 @@ const {
 
 const main = async ({
   headless = true,
-  maxLinksCount = 50,
+  maxLinksCount = 40,
   timeout = defaultTimeout
 }) => {
   const timerName = 'MSPORT took'

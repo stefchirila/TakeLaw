@@ -9,7 +9,7 @@ const {
 
 const main = async ({
   headless = true,
-  maxResults = 200,
+  maxResults = 100,
   timeout = defaultTimeout
 }) => {
   const timer = Date.now()

@@ -10,8 +10,8 @@ const {
 
 const main = async ({
   headless = true,
-  limitPerPage = 50,
-  maxResults = 100,
+  limitPerPage = 30,
+  maxResults = 70,
   timeout = defaultTimeout,
 }) => {
   const timer = Date.now()

@@ -2,19 +2,640 @@
   "mai": [
     {
       "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "26-07-2023",
+      "name": "Proiectul hotărârii Guvernului pentru modificarea și completarea Hotărârii Guvernului nr.284/2005 privind stabilirea cuantumului și condițiilor de acordare a compensației lunare pentru chirie cuvenite polițiștilor",
+      "documents": [
+        {
+          "date": "26-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/568_1690351831_Proiect%20HG.pdf",
+          "title": "Proiect HG",
+          "type": "pdf"
+        },
+        {
+          "date": "26-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/568_1690351831_Tabel%20Comparativ.pdf",
+          "title": "Tabel comparativ",
+          "type": "pdf"
+        },
+        {
+          "date": "26-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/568_1690351831_Nota%20de%20fundamentare.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "24-07-2023",
+      "name": "Proiectul Ordinului viceprim-ministrului, ministrul afacerilor interne pentru modificarea Metodologiei privind elaborarea normelor și tabelelor de înzestrare cu armament, muniții, mijloace tehnice și materiale necesare structurilor Ministerului Afacerilor Interne, aprobată prin Ordinul ministrului afacerilor interne nr.28/2018",
+      "documents": [
+        {
+          "date": "24-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/567_1690179063_Pr%20OMAI%20pt%20modifi%20Omai%2028_2018%20metodologia%20elab%20Norme%20si%20Tabele_17072023.pdf",
+          "title": "Proiect OMAI",
+          "type": "pdf"
+        },
+        {
+          "date": "24-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/567_1690179063_referat%20aprobare%20site%20proiect.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "24-07-2023",
+      "name": "proiectul Hotărârii Guvernului pentru modificarea și completarea Regulamentului de aplicare  a Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice,  aprobat prin Hotărârea Guvernului nr. 1.391/2006",
+      "documents": [
+        {
+          "date": "24-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/566_1690176829_DGJ_refacut_proiect%20HG%20m%20si%20c%20Regulament%20circulatie.pdf",
+          "title": "Proiect hotărâre",
+          "type": "pdf"
+        },
+        {
+          "date": "24-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/566_1690176829_DGJ_refacut_nota%20de%20fundamentare.pdf",
+          "title": "Notă de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "24-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/566_1690176829_DGJ_Tabel%20comparativ.pdf",
+          "title": "Tabel comparativ",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "20-07-2023",
+      "name": "Proiectul Ordinului viceprim-ministrului, ministrul afacerilor interne, pentru modificarea și completarea Ordinului Ministrului Afacerilor Interne nr.120/2022 pentru stabilirea componenței și atribuțiilor Comitetului de Monitorizare și Comitetului director pentru programele naționale Afaceri Interne 2021-2027",
+      "documents": [
+        {
+          "date": "20-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/565_1689851962_ORDIN.pdf",
+          "title": "OMAI",
+          "type": "pdf"
+        },
+        {
+          "date": "20-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/565_1689851962_REFERAT.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "19-07-2023",
+      "name": "Proiectul Ordinului viceprim-ministrului, ministrul afacerilor interne, pentru modificarea şi completarea Regulamentului de organizare și funcționare al Centrului de Psihosociologie al Ministerului Afacerilor Interne, aprobat prin Ordinul ministrului afacerilor interne nr. 147/2013",
+      "documents": [
+        {
+          "date": "19-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/564_1689770593_referat%20aprobare%20site%20proiect.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        },
+        {
+          "date": "19-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/564_1689770593_2.%20Proiect%20Omai_mod_compl%20ROF%20Centru%20Psihosoc%20MAI.pdf",
+          "title": "Proiect Omai",
+          "type": "pdf"
+        },
+        {
+          "date": "19-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/564_1689770593_3.%20Anexa%20-ORGANIGRAMA.pdf",
+          "title": "Anexa",
+          "type": "pdf"
+        },
+        {
+          "date": "19-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/564_1689770593_4.%20Tabel%20comparativ%20-%2014.06.2023.pdf",
+          "title": "Tabel comparativ",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "19-07-2023",
+      "name": "Proiectul Ordonanţei Guvernului pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+      "documents": [
+        {
+          "date": "19-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/563_1689768420_Proiect%20OUG.pdf",
+          "title": "Proiect OG",
+          "type": "pdf"
+        },
+        {
+          "date": "19-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/563_1689768420_Nota%20fundamentare.pdf",
+          "title": "Notă de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "19-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/563_1689768420_Tabel%20comparativ.pdf",
+          "title": "tabel comparativ",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "14-07-2023",
+      "name": "Proiectul Ordinului viceprim-ministrului, ministrul afacerilor interne pentru abrogarea subpunctului 4 de la punctul III din Anexa nr. 1 la Ordinul ministrului afacerilor interne nr. 7/2019 privind stabilirea conținutului – cadru, întocmirea și avizarea documentațiilor tehnico – economice aferente obiectivelor de investiții noi și/sau lucrărilor de intervenții la construcții existente, cuprinse în programele Ministerului Afacerilor Interne",
+      "documents": [
+        {
+          "date": "14-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/562_1689343779_ordin%20abrogare.pdf",
+          "title": "Proiect OMAI",
+          "type": "pdf"
+        },
+        {
+          "date": "14-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/562_1689343779_Referat%20de%20aprobare.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "05-07-2023",
+      "name": "Proiectul Legii pentru completarea Ordonanței de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România.",
+      "documents": [
+        {
+          "date": "05-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/561_1688577384_Lege.pdf",
+          "title": "Proiect Lege",
+          "type": "pdf"
+        },
+        {
+          "date": "05-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/561_1688577384_Expunere%20de%20motive.pdf",
+          "title": "Expunere de motive",
+          "type": "pdf"
+        },
+        {
+          "date": "05-07-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/561_1690787786_Anunt%20dezbatere%20regimul%20strainilor%2003%2008%2023.pdf",
+          "title": "Anunț dezbatere",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "12-06-2023",
+      "name": "Proiectul Ordinului ministrului afacerilor interne și al ministrului familiei, tineretului și egalității de șanse privind condițiile de numire, rolul, atribuțiile și cerințele de pregătire, formare și experiență profesională pentru persoanele desemnate ca reprezentanți pentru minorii străini neînsoțiți",
+      "documents": [
+        {
+          "date": "12-06-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/560_1686589214_proiect%20ordin.pdf",
+          "title": "Proiect OMAI și MFTES",
+          "type": "pdf"
+        },
+        {
+          "date": "12-06-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/560_1686589214_referat.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "09-06-2023",
+      "name": "Proiectul Ordinului ministrului afacerilor interne privind conferirea unor distincții onorifice la nivelul Poliției de Frontieră Române",
+      "documents": [
+        {
+          "date": "09-06-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/559_1686304998_Proiect%20OMAI.pdf",
+          "title": "Proiect OMAI",
+          "type": "pdf"
+        },
+        {
+          "date": "09-06-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/559_1686304998_Referat%20de%20aprobare.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "07-06-2023",
+      "name": "Proiectul Ordinului ministrului afacerilor interne pentru aprobarea regulilor de eligibilitate și de utilizare aferente fondurilor europene dedicate Afacerilor Interne 2021-2027",
+      "documents": [
+        {
+          "date": "07-06-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/558_1686134677_OMAI.pdf",
+          "title": "Proiect OMAI",
+          "type": "pdf"
+        },
+        {
+          "date": "07-06-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/558_1686134678_REFERAT%20DE%20APROBARE.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        },
+        {
+          "date": "07-06-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/558_1690197304_OMAI%20-%20forma%20revizuită.pdf",
+          "title": "OMAI - Forma revizuită",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "11-05-2023",
+      "name": "Proiectul Legii pentru modificarea şi completarea unor acte normative în domeniul străinilor.",
+      "documents": [
+        {
+          "date": "11-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/557_1683810437_Lege.pdf",
+          "title": "Proiect Lege",
+          "type": "pdf"
+        },
+        {
+          "date": "11-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/557_1683810437_Expunere%20de%20motive.pdf",
+          "title": "Expunere de motive",
+          "type": "pdf"
+        },
+        {
+          "date": "11-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/557_1688104726_Lege%20final.pdf",
+          "title": "Proiect Lege forma revizuită",
+          "type": "pdf"
+        },
+        {
+          "date": "11-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/557_1688104726_tabel%20valorificare.pdf",
+          "title": "Tabel valorificare propuneri",
+          "type": "pdf"
+        },
+        {
+          "date": "11-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/557_1690367498_Proiect%20de%20lege%20revizuit.pdf",
+          "title": "Proiect Lege - forma revizuită",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "09-05-2023",
+      "name": "Proiectul Ordinului ministrului afacerilor interne pentru modificarea Ordinului ministrului afacerilor interne nr.36/2019 pentru aprobarea Normativului de cheltuieli pentru acţiuni de protocol, specific Ministerului Afacerilor Interne",
+      "documents": [
+        {
+          "date": "09-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/556_1683630623_Proiect%20omai.pdf",
+          "title": "Proiect omai",
+          "type": "pdf"
+        },
+        {
+          "date": "09-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/556_1683630623_referat%20de%20aprobare.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        },
+        {
+          "date": "09-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/556_1683630623_Anexa.pdf",
+          "title": "Anexa",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "05-05-2023",
+      "name": "Proiectul Ordinului ministrului afacerilor interne pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 142/2018 privind aprobarea componenței și Regulamentului de organizare și funcționare a Comisiei pentru relația cu industria națională de apărare și a Procedurii de acordare a avizului prealabil necesar autorizării operatorilor economici privind desfășurarea de activități pentru realizarea de produse militare, sensibile și strategice și/sau prestarea serviciilor aferente",
+      "documents": [
+        {
+          "date": "05-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/555_1683301869_Proiect%20Omai.pdf",
+          "title": "Proiect act normativ",
+          "type": "pdf"
+        },
+        {
+          "date": "05-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/555_1683301869_Referat%20aprobare.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        },
+        {
+          "date": "05-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/555_1683301869_Tabel%20comparativ.pdf",
+          "title": "Tabel comparativ",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "03-05-2023",
+      "name": "Proiectul Ordinului ministrului afacerilor interne pentru modificarea și completarea Regulamentului de organizare și funcționare a Direcției Generale Logistice, aprobat prin Ordinul ministrului afacerilor interne nr.144/2016",
+      "documents": [
+        {
+          "date": "03-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/554_1683115393_proiect%20Omai%20ROF%20.pdf",
+          "title": "Proiect OMAI",
+          "type": "pdf"
+        },
+        {
+          "date": "03-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/554_1683115393_Referat%20de%20aprobare.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        },
+        {
+          "date": "03-05-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/554_1683115393_Tabel%20comparativ.pdf",
+          "title": "Tabel comparativ",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "21-04-2023",
+      "name": "Proiectul ordonanței de urgență a Guvernului pentru modificarea și completarea unor acte normative în scopul furnizării de servicii publice electronice aferente înmatriculării vehiculelor în România",
+      "documents": [
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/553_1682079491_pr_OUG_inmatriculare%20electronica.pdf",
+          "title": "Proiect OUG",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/553_1682079491_nota%20de%20fundamentare%20digitalizare.pdf",
+          "title": "Notă de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/553_1682079491_Tabel%20comparativ.pdf",
+          "title": "Tabel comparativ",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/553_1683531357_Proiect%20OUG.pdf",
+          "title": "Proiect OUG - forma îmbunătățită",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/553_1683531357_Tabel%20valorificare%20propuneri.pdf",
+          "title": "Tabel valorificare propuneri",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/553_1683531357_Nota%20de%20fundamentare.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "21-04-2023",
+      "name": "Proiectul Legii pentru modificarea și completarea Ordonanței Guvernului nr. 83/2001 privind înființarea, organizarea și funcționarea serviciilor publice comunitare de pașapoarte și serviciilor publice comunitare regim permise de conducere și înmatriculare a vehiculelor",
+      "documents": [
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/552_1682074222_Pr%20Lege%20m%20si%20c%20OG%20nr.%2083%20din%202001.pdf",
+          "title": "Proiect Lege",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/552_1682074222_Expunere%20de%20motive%20-pr%20Lege%20m%20si%20c%20OG%20nr.%2083%20din%20%202001.pdf",
+          "title": "Expunere de motive",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/552_1682074222_Tabel%20comparativ.pdf",
+          "title": "Tabel comparativ",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "21-04-2023",
+      "name": "Proiectul Ordinului ministrului afacerilor interne pentru modificarea anexei nr.1 la Regulamentul serviciului la bordul navelor aparținând Ministerului Afacerilor Interne,aprobat prin Ordinul viceprim-ministrului, ministrul administrației și internelor, interimar nr.307/2009",
+      "documents": [
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/551_1682062674_proiect%20OMAI.pdf",
+          "title": "Proiect OMAI",
+          "type": "pdf"
+        },
+        {
+          "date": "21-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/551_1682062674_referat%20de%20aprobare.pdf",
+          "title": "Referat de aprobare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "13-04-2023",
+      "name": "Proiectul Hotărârii privind stabilirea cuantumului, condițiilor și a mecanismului de acordare a sumei forfetare potrivit Ordonanței de urgență a Guvernului nr. 15/2022 privind acordarea de sprijin şi asistență umanitară de către statul român cetățenilor străini sau apatrizilor aflați în situații deosebite, proveniți din zona conflictului armat din Ucraina",
+      "documents": [
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_Hotararea%20%20Guvernului.pdf",
+          "title": "Hotararea Guvernului",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_Nota%20de%20fundamentare.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_anexa%20nr.1.pdf",
+          "title": "Anexa nr. 1",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_anexa%20nr.2.pdf",
+          "title": "Anexa nr. 2",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_anexa%20nr.3.pdf",
+          "title": "Anexa nr. 3",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_anexa%20nr.4.pdf",
+          "title": "Anexa nr. 4",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_anexa%20nr.5.pdf",
+          "title": "Anexa nr. 5",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1681384375_anexa%20nr.6.pdf",
+          "title": "Anexa nr. 6",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_Hotarare%20a%20Guvernului%2026%20aprilie.pdf",
+          "title": "Hotararea Guvernului",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_Nota%20de%20fundamentare.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_anexa%20nr.1.pdf",
+          "title": "Anexa 1",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_anexa%20nr.2.pdf",
+          "title": "Anexa 2",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_anexa%20nr.3.pdf",
+          "title": "Anexa 3",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_anexa%20nr.4.pdf",
+          "title": "Anexa 4",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_anexa%20nr.5.pdf",
+          "title": "Anexa 5",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_anexa%20nr.6.pdf",
+          "title": "Anexa 6",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682505225_anexa%20nr.7.pdf",
+          "title": "Anexa 7",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1682683977_Tabel%20societate%20civila%2026%20aprilie.pdf",
+          "title": "Tabel recomandari",
+          "type": "pdf"
+        },
+        {
+          "date": "13-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/550_1684481519_Tabel%20societate%20civila%20actualizat%20cu%20MMSS%2011%20mai.pdf",
+          "title": "Tabel propuneri și recomandări - forma revizuită",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "12-04-2023",
+      "name": "Proiectul Hotărârii Guvernului pentru modificarea Hotărârii Guvernului nr. 1061/2002 privind stabilirea uniformei, echipamentului specific, însemnelor distinctive, insignei și documentului de legitimare pentru polițiști",
+      "documents": [
+        {
+          "date": "12-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/549_1681301227_Proiect%20HG.pdf",
+          "title": "Proiect HG",
+          "type": "pdf"
+        },
+        {
+          "date": "12-04-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/549_1681301227_Nota%20de%20fundamentare.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
+      "date": "28-03-2023",
+      "name": "Proiectul Ordonanței de urgență a Guvernului pentru modificarea și completarea unor acte normative privind domeniul străinilor și azilului în România",
+      "documents": [
+        {
+          "date": "28-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/548_1679988958_Ordonanta%20de%20urgenta.pdf",
+          "title": "Proiect O.U.G.",
+          "type": "pdf"
+        },
+        {
+          "date": "28-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/548_1679988958_Nota%20de%20fundamentare.pdf",
+          "title": "Notă de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "28-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/548_1683301088_Ordonanta%20de%20urgenta.pdf",
+          "title": "Proiect OUG - forma revizuită",
+          "type": "pdf"
+        },
+        {
+          "date": "28-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/548_1683301088_Nota%20de%20fundamentare.pdf",
+          "title": "Nota de fundamentare",
+          "type": "pdf"
+        }
+      ]
+    },
+    {
+      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
       "date": "27-03-2023",
       "name": "proiectul de hotărâre a Guvernului privind aprobarea Strategiei Naționale de Ordine și Siguranță Publică 2023-2027.",
       "documents": [
         {
           "date": "27-03-2023",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679910354_Proiect%20HG.pdf",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679997359_Proiect%20HG.pdf",
           "title": "Proiect HG",
           "type": "pdf"
         },
         {
           "date": "27-03-2023",
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/547_1679910354_Proiect%20SNSOP%202023-2027%20%20martie%202023.pdf",
-          "title": "Proiect",
+          "title": "Strategie",
           "type": "pdf"
         },
         {
@@ -52,6 +673,24 @@
           "date": "24-03-2023",
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/546_1679652377_Nota%20de%20fundamentare.pdf",
           "title": "Notă de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "24-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/546_1680850849_Ordonanta%20de%20urgenta%20cazare%20si%20masa%20final%206%20april.pdf",
+          "title": "Proiect O.U.G.- formă revizuită",
+          "type": "pdf"
+        },
+        {
+          "date": "24-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/546_1680850849_Nota%20de%20fundamentare%20final%206%20april.pdf",
+          "title": "Notă de fundamentare -formă revizuită",
+          "type": "pdf"
+        },
+        {
+          "date": "24-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/546_1683115062_Tabel%20societate%20civila%2027%20aprilie.pdf",
+          "title": "Tabel societate civilă",
           "type": "pdf"
         }
       ]
@@ -121,6 +760,18 @@
           "date": "09-03-2023",
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/543_1678373811_tabel%20comparativ%20completare%20HG%201767_2004.pdf",
           "title": "Tabel comparativ",
+          "type": "pdf"
+        },
+        {
+          "date": "09-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/543_1680090954_Proiect%20HG.pdf",
+          "title": "Proiect HG - forma revizuită",
+          "type": "pdf"
+        },
+        {
+          "date": "09-03-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/543_1680090954_Tabel%20propuneri%20transparență.pdf",
+          "title": "Tabel propuneri",
           "type": "pdf"
         }
       ]
@@ -217,6 +868,12 @@
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/537_1676480758_referat.pdf",
           "title": "Referat de aprobare",
           "type": "pdf"
+        },
+        {
+          "date": "15-02-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/537_1686642405_OMAI.pdf",
+          "title": "Proiect OMAI forma revizuită",
+          "type": "pdf"
         }
       ]
     },
@@ -253,6 +910,30 @@
           "date": "10-02-2023",
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/536_1676036908_Protocol.pdf",
           "title": "Protocol",
+          "type": "pdf"
+        },
+        {
+          "date": "10-02-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/536_1685103809_ACORD%20IMPL%20RO%20revizuit.pdf",
+          "title": "Acord implementare revizuit",
+          "type": "pdf"
+        },
+        {
+          "date": "10-02-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/536_1685103809_ACORD%20RO%20revizuit.pdf",
+          "title": "Acord revizuit",
+          "type": "pdf"
+        },
+        {
+          "date": "10-02-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/536_1685103809_Expunere%20de%20motive.pdf",
+          "title": "Expunere de motive",
+          "type": "pdf"
+        },
+        {
+          "date": "10-02-2023",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/536_1685103809_Lege.pdf",
+          "title": "Proiect de Lege",
           "type": "pdf"
         }
       ]
@@ -590,6 +1271,24 @@
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/523_1670921963_Nota%20de%20Fundamentare%201.pdf",
           "title": "Nota de fundamentare",
           "type": "pdf"
+        },
+        {
+          "date": "13-12-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/523_1679985905_1.%20Proiect%20HG%2022.02.2023.pdf",
+          "title": "Proiect act normativ - forma revizuită",
+          "type": "pdf"
+        },
+        {
+          "date": "13-12-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/523_1679985905_1.%20NF_22.02.2023.pdf",
+          "title": "Notă de fundamentare",
+          "type": "pdf"
+        },
+        {
+          "date": "13-12-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/523_1679985905_Tabel%20recomandari%20transparenta%2024.02.2023.pdf",
+          "title": "Tabel propuneri",
+          "type": "pdf"
         }
       ]
     },
@@ -746,6 +1445,12 @@
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/517_1672138231_Nota%20Fundamentare.pdf",
           "title": "Nota de fundamentare - forma revizuită",
           "type": "pdf"
+        },
+        {
+          "date": "04-11-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/517_1683301457_proiect%20HG.pdf",
+          "title": "Proiect act normativ - forma revizuită",
+          "type": "pdf"
         }
       ]
     },
@@ -801,6 +1506,12 @@
           "date": "27-10-2022",
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/515_1666870713_ANEXA%20NR.%202.pdf",
           "title": "Anexa nr. 2",
+          "type": "pdf"
+        },
+        {
+          "date": "27-10-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/515_1688632549_proiect-de-Lege-privind-ordinul-de-protectie.pdf",
+          "title": "Proiect de lege",
           "type": "pdf"
         }
       ]
@@ -3436,6 +4147,36 @@
           "date": "04-01-2022",
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/425_1641378069_Anexa%203.pdf",
           "title": "Anexa 3",
+          "type": "pdf"
+        },
+        {
+          "date": "04-01-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/425_1680525789_Proiect%20OMAI.pdf",
+          "title": "Proiect OMAI - forma refăcută",
+          "type": "pdf"
+        },
+        {
+          "date": "04-01-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/425_1680525789_Anexa%201.pdf",
+          "title": "Anexa 1",
+          "type": "pdf"
+        },
+        {
+          "date": "04-01-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/425_1680525789_Anexa%202.pdf",
+          "title": "Anexa 2",
+          "type": "pdf"
+        },
+        {
+          "date": "04-01-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/425_1680525789_Concluzii%20în%20urma%20întâlnirii%20on-line.pdf",
+          "title": "Tabel",
+          "type": "pdf"
+        },
+        {
+          "date": "04-01-2022",
+          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/425_1680525789_TABEL%20cu%20modalitatea%20de%20preluarenepreluare%20a%20propunerilor%20și%20observațiilor%20formulate.pdf",
+          "title": "Tabel modalitate preluare/ nepreluare propuneri",
           "type": "pdf"
         }
       ]
@@ -6999,858 +7740,6 @@
           "date": "03-08-2020",
           "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/304_1596477088_Nota%20de%20fundamentare.pdf",
           "title": "Nota de fundamentare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "30-07-2020",
-      "name": "Proiectul de Ordin al ministrului afacerilor interne pentru modificarea și completarea Regulamentului centrelor de cazare a străinilor luați în custodie publică, aprobat prin Ordinul ministrului afacerilor interne nr. 121/2014",
-      "documents": [
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125365_Proiect%20Ordin.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125365_Referat%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        },
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125365_Anexa%20nr.%206.pdf",
-          "title": "Anexa nr. 6",
-          "type": "pdf"
-        },
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125366_Anexa%20nr.%2014.pdf",
-          "title": "Anexa nr.14",
-          "type": "pdf"
-        },
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125366_Anexa%20nr.%2015.pdf",
-          "title": "Anexa nr.15",
-          "type": "pdf"
-        },
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125366_Anexa%20nr.%2016.pdf",
-          "title": "Anexa nr.16",
-          "type": "pdf"
-        },
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125366_Anexa%20nr.%2017.pdf",
-          "title": "Anexa nr.17",
-          "type": "pdf"
-        },
-        {
-          "date": "30-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/303_1596125366_Anexa%20nr.%2018.pdf",
-          "title": "Anexa nr.18",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "24-07-2020",
-      "name": "ProiectHotărârii Guvernului privind modificarea Hotărârii Guvernului nr. 1.490/2004 pentru aprobarea Regulamentului de organizare și funcţionare şi a organigramei Inspectoratului General pentru Situații de Urgență.",
-      "documents": [
-        {
-          "date": "24-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/302_1595605782_HGR%201490.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "24-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/302_1595605782_NF_1490.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "24-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/302_1595605782_organigrama-Model.pdf",
-          "title": "Model organigrama",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "22-07-2020",
-      "name": "Proiectul Legii pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
-      "documents": [
-        {
-          "date": "22-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/301_1595437285_Proiect%20lege.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "22-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/301_1595437285_Expunere%20de%20motive.pdf",
-          "title": "Expunere de motive",
-          "type": "pdf"
-        },
-        {
-          "date": "22-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/301_1599027543_1.%20Expunere%20de%20motive.pdf",
-          "title": "Expunere de motive",
-          "type": "pdf"
-        },
-        {
-          "date": "22-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/301_1599027543_2.%20Proiect%20lege.pdf",
-          "title": "Proiect de lege",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "15-07-2020",
-      "name": "Proiectul de Ordin al ministrului afacerilor internepentru modificarea și completarea Ordinului ministrului administrației și internelor nr.163/2011 privind preschimbarea permiselor de conducere naţionale eliberate de autorităţile competente ale altor state cu documente similare româneşti",
-      "documents": [
-        {
-          "date": "15-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/300_1594836262_Omai%20final.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "15-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/300_1594836262_Referat%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        },
-        {
-          "date": "15-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/300_1598441717_Omai.pdf",
-          "title": "Formă actualizată",
-          "type": "pdf"
-        },
-        {
-          "date": "15-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/300_1598442021_Referat%20de%20aprobare.pdf",
-          "title": "Formă actualizată",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "14-07-2020",
-      "name": "Proiectul ordinului ministrului afacerilor interne privind utilizarea înscrisurilor în formă electronica și a semnăturii electronice în cadrul structurilor Ministerului Afacerilor Interne",
-      "documents": [
-        {
-          "date": "14-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/299_1594749936_OMAI%20semnatura%20electronica.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "14-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/299_1594749936_Referat%20de%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "13-07-2020",
-      "name": "Proiectul de Hotărâre a Guvernului pentru punerea în aplicare a unor prevederi ale Ordonanței de urgență a Guvernului nr. 57/2019 privind Codul administrativ",
-      "documents": [
-        {
-          "date": "13-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/298_1594660007_hg%20atributii%20subprefecti%20cancelarie%20colegiul%20prefectural%2029%20iunie.docx",
-          "title": "Text integral",
-          "type": "doc"
-        },
-        {
-          "date": "13-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/298_1594660007_nf%20atributii%20subprefecti%20cancelarie%20colegiul%20prefectural%2029%20iunie.docx",
-          "title": "Notă de fundamentare",
-          "type": "doc"
-        },
-        {
-          "date": "13-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/298_1594660007_anexa%201%20organigrama.docx",
-          "title": "Anexa 1",
-          "type": "doc"
-        },
-        {
-          "date": "13-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/298_1594660007_anexa%202%20regulament%20cadru.docx",
-          "title": "Anexa 2",
-          "type": "doc"
-        },
-        {
-          "date": "13-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/298_1594660007_anexa%203%20colegiu%20prefectural.docx",
-          "title": "Anexa 3",
-          "type": "doc"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "10-07-2020",
-      "name": "Proiectul de Ordin MAI pentru modificarea și completarea Ordinului ministrului administraţiei şi internelor nr.1501/2006 privind procedura înmatriculării, înregistrării, radierii şi eliberarea autorizaţiei de circulaţie provizorie sau pentru probe a vehiculelor",
-      "documents": [
-        {
-          "date": "10-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/297_1594384699_OMAI%20modificare%20OMAI%201501%2029.06.2020.doc",
-          "title": "Text integral",
-          "type": "doc"
-        },
-        {
-          "date": "10-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/297_1594384699_tabel%20comparativ%20OMAI%201501%20%2029.06.2020.doc",
-          "title": "Tabel comparativ",
-          "type": "doc"
-        },
-        {
-          "date": "10-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/297_1594384699_referat%20de%20aprobare%20pentru%20DIRP.docx",
-          "title": "Referat de aprobare",
-          "type": "doc"
-        },
-        {
-          "date": "10-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/297_1597073126_Pr_OMAI_modificare%20OMAI%201501_31072020.pdf",
-          "title": "Proiect OMAI",
-          "type": "pdf"
-        },
-        {
-          "date": "10-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/297_1597073126_Sinteza%20propuneri%20și%20observații%20transparență.pdf",
-          "title": "Sinteza propuneri si observatii",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "09-07-2020",
-      "name": "Proiectul Hotărârii Guvernului pentru aprobarea Strategiei naționale privind imigrația pentru perioada 2020-2023, a Planului de acțiune pe perioada 2020-2021 pentru implementarea Strategiei naționale privind imigrația pentru perioada 2020-2023, precum și pentru modificarea și completarea Hotărârii Guvernului nr. 572/2008 privind constituirea Grupului de coordonare a implementării Strategiei naționale privind imigrația.",
-      "documents": [
-        {
-          "date": "09-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/296_1594319847_Proiect%20HG.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "09-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/296_1594319847_Anexa%201.pdf",
-          "title": "Anexa 1",
-          "type": "pdf"
-        },
-        {
-          "date": "09-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/296_1594319847_Anexa%202.pdf",
-          "title": "Anexa 2",
-          "type": "pdf"
-        },
-        {
-          "date": "09-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/296_1594319847_Nota%20de%20fundamentare.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "09-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/296_1599743703_Anunt%20dezbatere%20IGI%2015%2009%202020.docx",
-          "title": "Anunț dezbatere publică",
-          "type": "doc"
-        },
-        {
-          "date": "09-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/296_1601475279_minuta%20dezbatere_anonimizat.pdf",
-          "title": "Minuta ședință 15.09.2020",
-          "type": "pdf"
-        },
-        {
-          "date": "09-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/296_1601475279_Tabel%20propuneri%20SNI%20septembrie%202020_anonimizat.pdf",
-          "title": "Tabel propuneri",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "08-07-2020",
-      "name": "Proiectul Hotărârii Guvernului pentru modificarea și completarea anexei nr. 2 la Hotărârea Guvernului nr. 94/2014 privind organizarea, funcționarea și componența Comitetului național pentru situații speciale de urgență, precum și pentru modificarea și completarea anexelor nr. 1 – 4 la Hotărârea Guvernului nr. 557/2016 privind managementul tipurilor de risc",
-      "documents": [
-        {
-          "date": "08-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/295_1594224445_pr_HG_modificare_A_94_557.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "08-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/295_1594224445_NF_modificare_A_94_557.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "08-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/295_1594224445_A1.pdf",
-          "title": "Anexa 1",
-          "type": "pdf"
-        },
-        {
-          "date": "08-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/295_1594224445_A2.pdf",
-          "title": "Anexa 2",
-          "type": "pdf"
-        },
-        {
-          "date": "08-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/295_1594224445_A3.pdf",
-          "title": "Anexa 3",
-          "type": "pdf"
-        },
-        {
-          "date": "08-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/295_1594224445_A4.pdf",
-          "title": "Anexa 4",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "01-07-2020",
-      "name": "Proiectul Ordinului ministrului afacerilor interne pentru aprobarea Normelor de protecție a informațiilor clasificate  în domeniul activităților contractuale desfășurate în cadrul Ministerului Afacerilor Interne",
-      "documents": [
-        {
-          "date": "01-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/294_1593616934_Omai.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "01-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/294_1593616934_Norme.pdf",
-          "title": "Norme",
-          "type": "pdf"
-        },
-        {
-          "date": "01-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/294_1593616934_Anexa%201.pdf",
-          "title": "Anexa 1",
-          "type": "pdf"
-        },
-        {
-          "date": "01-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/294_1593616934_Anexa%202.pdf",
-          "title": "Anexa 2",
-          "type": "pdf"
-        },
-        {
-          "date": "01-07-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/294_1593616934_Referat%20de%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "25-06-2020",
-      "name": "Proiectul Ordinului ministrului afacerilor interne privind examinarea medicală a candidaților la concursurile de admitere în instituţiile de învăţământ care formează personal pentru nevoile Ministerului Afacerilor Interne, precum și la concursurile de încadrare în Ministerul Afacerilor Interne",
-      "documents": [
-        {
-          "date": "25-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/292_1593093757_Proiect%20OMAI+Anexe.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "25-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/292_1593093757_referat%20de%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "25-06-2020",
-      "name": "Proiect de Hotărâre pentru aprobarea standardelor de calitate în domeniul evidența persoanelor",
-      "documents": [
-        {
-          "date": "25-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/291_1593084122_HG%20standarde%20calitate%20evidenta%20persoanelor%20si%20Anexă.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "25-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/291_1593084122_Notă%20de%20fundamentare%20HG%20standarde%20evidența%20persoanelor.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "12-06-2020",
-      "name": "Proiectul ordinului ministrului afacerilor interne privind implementarea și dezvoltarea unitară a sistemului de control intern managerial la nivelul Ministerului Afacerilor Interne",
-      "documents": [
-        {
-          "date": "12-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/290_1591980508_Pr%20OMAI%20SCIM.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "12-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/290_1591980508_Referat%20Omai%20SCIM.pdf",
-          "title": "Referat",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "11-06-2020",
-      "name": "Proiectul de Lege pentru stabilirea unor măsuri de aplicare a Acordului privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în materie de reglementare a dreptului de ședere pe teritoriul României",
-      "documents": [
-        {
-          "date": "11-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/289_1591894586_Lege.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "11-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/289_1591894586_Expunere%20de%20motive.pdf",
-          "title": "Expunere de motive",
-          "type": "pdf"
-        },
-        {
-          "date": "11-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/289_1602766983_OuG%20Brexit%20revizuit%20oct%202020.pdf",
-          "title": "Proiect OUG",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "02-06-2020",
-      "name": "Proiectul Hotărârii Guvernului privind stabilirea măsurilor necesare pentru aplicarea Regulamentului (UE) 2019/788 al Parlamentului European şi al Consiliului din 17 aprilie 2019 privind iniţiativa cetăţenească europeană şi a Regulamentului de punere în aplicare (UE) 2019/1799 al Comisiei din 22 octombrie 2019 de stabilire a unor specificații tehnice pentru sistemele separate de colectare online în temeiul Regulamentului (UE) 2019/788 al Parlamentului European și al Consiliului privind inițiativa cetățenească europeană.",
-      "documents": [
-        {
-          "date": "02-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/288_1591116991_HG.pdf",
-          "title": "Proiect HG",
-          "type": "pdf"
-        },
-        {
-          "date": "02-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/288_1591116991_NF.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "02-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/288_1594040689_HG.pdf",
-          "title": "Proiect HG - Formă  actualizată",
-          "type": "pdf"
-        },
-        {
-          "date": "02-06-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/288_1594040689_nota%20fundamentare.pdf",
-          "title": "Nota de fundamentare - Formă actualizată",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "28-05-2020",
-      "name": "Proiectul de Hotărâre a Guvernului pentru aprobarea Normelor metodologice de aplicare a Ordonanţei Guvernului nr. 44/2004 privind integrarea socială a străinilor care au dobândit protecţie internaţională sau un drept de şedere în România, precum şi a cetăţenilor statelor membre ale Uniunii Europene, Spaţiului Economic European şi a cetăţenilor Confederaţiei Elveţiene",
-      "documents": [
-        {
-          "date": "28-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/287_1590688507_Nota%20de%20fundamentare.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "28-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/287_1590688508_HG.pdf",
-          "title": "Proiect Hotărâre",
-          "type": "pdf"
-        },
-        {
-          "date": "28-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/287_1593178753_Anunt%20dezbatere%20IGI%20-%2030%20iunie%202020.pdf",
-          "title": "Anunț dezbatere publică",
-          "type": "pdf"
-        },
-        {
-          "date": "28-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/287_1595427724_HG%20forma%20revizuita.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "28-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/287_1595427724_minuta%20sedinta%2030%20iunie.pdf",
-          "title": "Minuta sedinta",
-          "type": "pdf"
-        },
-        {
-          "date": "28-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/287_1595427725_Nota%20de%20fundamentare%20HG%20forma%20revizuita.pdf",
-          "title": "Nota de fundamentare HG revizuit",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "14-05-2020",
-      "name": "Proiect de Lege pentru modificarea și completarea art. 36 din Legea nr. 218/2002privind organizarea și funcționarea Poliției Române",
-      "documents": [
-        {
-          "date": "14-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/286_1589470998_Proiect%20de%20lege.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "14-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/286_1589470998_Expunere%20de%20motive.pdf",
-          "title": "Expunere de motive",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "12-05-2020",
-      "name": "Proiectul Hotărârii de Guvern pentru completarea Regulamentului de aplicare a Ordonanţei de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, aprobat prin Hotărârea Guvernului nr. 1391/2006",
-      "documents": [
-        {
-          "date": "12-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/285_1589306079_Proiect%20HG%20completare%20ROUG195-2002.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "12-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/285_1589306079_NF%20HG%20completare%20ROUG195-2002.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "09-05-2020",
-      "name": "Măsuri de prevenire și control a răspândirii Coronavirusului Sars-Cov-2, propuse pentru a intra în vigoare începând cu starea de alertă, din data de 15 mai 2020",
-      "documents": [
-        {
-          "date": "09-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/284_1589026328_masuri%20covid%20din%2015.05.pdf",
-          "title": "Textul integral",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "08-05-2020",
-      "name": "Proiectul ordinului ministrului afacerilor interne pentru modificarea Regulamentului privind organizarea şi funcţionarea centrelor de reţinere şi arestare preventivă, precum şi măsurile necesare pentru siguranţa acestora, aprobat prin Ordinul ministrului afacerilor interne nr. 14/2018",
-      "documents": [
-        {
-          "date": "08-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/283_1588950173_Proiect%20OMAI.DOCX",
-          "title": "Text integral",
-          "type": "doc"
-        },
-        {
-          "date": "08-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/283_1588950173_Referat%20de%20aprobare.docx",
-          "title": "Referat de aprobare",
-          "type": "doc"
-        },
-        {
-          "date": "08-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/283_1588950173_Tabel%20comparativ.doc",
-          "title": "tabel comparativ",
-          "type": "doc"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "07-05-2020",
-      "name": "Proiectul de hotărâre a Guvernului pentru modificarea Hotărârii Guvernului nr. 349/2017 privind stabilirea uniformei, siglei, insignei și documentelor de legitimare pentru personalul militar al Direcției Generale de Protecție Internă a Ministerului Afacerilor Interne",
-      "documents": [
-        {
-          "date": "07-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/282_1588871646_HG%20uniforma%20DGPI_18112019.doc",
-          "title": "Proiect Hotărâre de Guvern",
-          "type": "doc"
-        },
-        {
-          "date": "07-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/282_1588871646_NF%20uniforma%20DGPI_18112019.doc",
-          "title": "Nota de fundamentare",
-          "type": "doc"
-        },
-        {
-          "date": "07-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/282_1599656555_Hotarare.pdf",
-          "title": "Forma actualizată",
-          "type": "pdf"
-        },
-        {
-          "date": "07-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/282_1599656555_Nota%20de%20fundamentare.pdf",
-          "title": "Forma actualizată",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "06-05-2020",
-      "name": "Proiectul Ordinului ministrului afacerilor interne pentru modificarea şi completarea unor acte normative din domeniul resurselor umane în Ministerul Afacerilor Interne",
-      "documents": [
-        {
-          "date": "06-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/281_1588770222_proiect%20Omai.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "06-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/281_1588770222_referat%20de%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "04-05-2020",
-      "name": "Proiectul de hotărâre a Guvernului pentru aprobarea condițiilor privind acordarea locuinței de serviciu, a cheltuielilor de cazare şi deplasare a prefecților și a subprefecților, precum și pentru stabilirea plafonului maxim al cheltuielilor privind locuinţa de serviciu, cheltuielilor de cazare şi deplasare a prefecților și a subprefecților, aferente anului 2020",
-      "documents": [
-        {
-          "date": "04-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/280_1588616450_hg%20plafon%20maxim%20cheltuieli%20prefect%20subprefect%2027%20aprilie%202020.docx",
-          "title": "Proiect Hotărâre de Guvern",
-          "type": "doc"
-        },
-        {
-          "date": "04-05-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/280_1588616451_nf%20plafon%20maxim%20cheltuieli%20prefect%20subprefect%2027%20aprilie%202020.docx",
-          "title": "Nota de fundamentare",
-          "type": "doc"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "29-04-2020",
-      "name": "Proiect al Ordinului ministrului afacerilor interne pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 160/2017 privind asigurarea protecției personalului Ministerului Afacerilor Interne",
-      "documents": [
-        {
-          "date": "29-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/279_1588162188_Proiect%20OMAI.docx",
-          "title": "Text integral",
-          "type": "doc"
-        },
-        {
-          "date": "29-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/279_1588162188_Referat%20de%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        },
-        {
-          "date": "29-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/279_1588162188_Tabel%20Comparativ.pdf",
-          "title": "Tabel comparativ",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "27-04-2020",
-      "name": "Hotărâre pentru completarea Hotărârii Guvernului nr. 264/2003 privind stabilirea acţiunilor şi categoriilor de cheltuieli, criteriilor, procedurilor şi limitelor pentru efectuarea de plăţi în avans din fonduri publice",
-      "documents": [
-        {
-          "date": "27-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/278_1587977790_HG%20modificare%20HG%20%20nr.%20264%20din%202003.pdf",
-          "title": "Hotărâre",
-          "type": "pdf"
-        },
-        {
-          "date": "27-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/278_1587977790_NOTA%20DE%20FUNDAMENTARE.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "22-04-2020",
-      "name": "Proiect de Hotărâre pentru modificarea și completarea Hotărârii Guvernului nr. 929/2016 privind stabilirea cadrului instituțional și a unor măsuri pentru aplicarea Regulamentului (UE) 2015/2219 al Parlamentului European şi al Consiliului din 25 noiembrie 2015 privind Agenția Uniunii Europene pentru Formare în Materie de Aplicare a Legii (CEPOL) și de înlocuire și de abrogare a Deciziei 2005/681/JAI a Consiliului",
-      "documents": [
-        {
-          "date": "22-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/277_1587574869_proiect%20HG.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "22-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/277_1587574870_Nota%20de%20fundamentare.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "22-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/277_1587574870_tabel%20comparativ%20CEPOL.pdf",
-          "title": "Tabel comparativ",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "07-04-2020",
-      "name": "Proiectul de ordin al ministrului afacerilor interne pentru modificarea și completarea Ordinului ministrului afacerilor interne nr. 129/2019 privind constituirea, la nivelul Ministerului Afacerilor Interne, a Comitetului de coordonare a noii arhitecturi a sistemelor europene de informații pentru frontieră și securitate",
-      "documents": [
-        {
-          "date": "07-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/276_1586279145_Omai%20modif%20Omai%20129.pdf",
-          "title": "text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "07-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/276_1586279145_Referat%20de%20aprobare.pdf",
-          "title": "referat de aprobare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "06-04-2020",
-      "name": "Proiectul Ordinului ministrului afacerilor interne pentru modificarea literei c) a punctului 5 din Anexa nr. 11 la Normativul privind asigurarea tehnică de autovehicule a structurilor Ministerului Afacerilor Interne, aprobat prin Ordinul ministrului internelor și reformei administrative nr. 599/2008",
-      "documents": [
-        {
-          "date": "06-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/275_1586185322_Omai.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "06-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/275_1586185322_Referat%20de%20aprobare.pdf",
-          "title": "Referat de aprobare",
-          "type": "pdf"
-        },
-        {
-          "date": "06-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/275_1586185322_Tabel%20comparativ.pdf",
-          "title": "Tabel comparativ",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "02-04-2020",
-      "name": "Proiectul Ordonanței de urgență a Guvernului pentru suspendarea aplicării unor dispoziții din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată, cu modificările și completările ulterioare, și instituirea unor măsuri ce vizează circulația vehiculelor pe drumurile publice, pe durata stării de urgență instituită prin Decretul nr. 195/2020.",
-      "documents": [
-        {
-          "date": "02-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/274_1585847075_Proiect%20OUG%20195.pdf",
-          "title": "proiect OUG",
-          "type": "pdf"
-        },
-        {
-          "date": "02-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/274_1585847075_Nota%20fundamentare%20OuG%20suspendare%20OUG%20195.pdf",
-          "title": "nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "02-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/274_1587535979_Pr_OUG_195_IV.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "02-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/274_1587535980_NF_proiect_OUG_19.pdf",
-          "title": "Nota fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "02-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/274_1587535980_Sinteza%20argumente%20nepreluare%20ref.pdf",
-          "title": "Sinteza argumente",
-          "type": "pdf"
-        },
-        {
-          "date": "02-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/274_1589440489_Proiect%20OUG%20195.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "02-04-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/274_1589440489_Nota%20de%20fundamentare%20Proiect%20OUG%20195.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        }
-      ]
-    },
-    {
-      "currentUrl": "https://www.mai.gov.ro/informatii-publice/transparenta-decizionala/",
-      "date": "27-03-2020",
-      "name": "Proiectul ordonanței de urgență pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 1/1999 privind regimul stării de asediu și regimul stării de urgență.",
-      "documents": [
-        {
-          "date": "27-03-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/273_1585331279_Proiect%20OUG.pdf",
-          "title": "Text integral",
-          "type": "pdf"
-        },
-        {
-          "date": "27-03-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/273_1585331279_Nota%20de%20fundamentare.pdf",
-          "title": "Nota de fundamentare",
-          "type": "pdf"
-        },
-        {
-          "date": "27-03-2020",
-          "link": "https://webapp.mai.gov.ro/frontend/documente_transparenta/273_1585921403_Tabel%20argumentare%20nepreluare%20observații.pdf",
-          "title": "Tabel argumentare",
           "type": "pdf"
         }
       ]
