@@ -1,21 +1,21 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@types/node': ^18.16.18
+  '@types/node': ^18.17.1
   cross-env: ^7.0.3
-  playwright: ^1.35.1
+  playwright: ^1.36.2
 
 dependencies:
-  playwright: 1.35.1
+  playwright: 1.36.2
 
 devDependencies:
-  '@types/node': 18.16.18
+  '@types/node': 18.17.1
   cross-env: 7.0.3
 
 packages:
 
-  /@types/node/18.16.18:
-    resolution: {integrity: sha512-/aNaQZD0+iSBAGnvvN2Cx92HqE5sZCPZtx2TsK+4nvV23fFe09jVDvpArXr2j9DnYlzuU9WuoykDDc6wqvpNcw==}
+  /@types/node/18.17.1:
+    resolution: {integrity: sha512-xlR1jahfizdplZYRU59JlUx9uzF1ARa8jbhM11ccpCJya8kvos5jwdm2ZAgxSCwOl0fq21svP18EVwPBXMQudw==}
     dev: true
 
   /cross-env/7.0.3:
@@ -44,19 +44,19 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /playwright-core/1.35.1:
-    resolution: {integrity: sha512-pNXb6CQ7OqmGDRspEjlxE49w+4YtR6a3X6mT1hZXeJHWmsEz7SunmvZeiG/+y1yyMZdHnnn73WKYdtV1er0Xyg==}
+  /playwright-core/1.36.2:
+    resolution: {integrity: sha512-sQYZt31dwkqxOrP7xy2ggDfEzUxM1lodjhsQ3NMMv5uGTRDsLxU0e4xf4wwMkF2gplIxf17QMBCodSFgm6bFVQ==}
     engines: {node: '>=16'}
     hasBin: true
     dev: false
 
-  /playwright/1.35.1:
-    resolution: {integrity: sha512-NbwBeGJLu5m7VGM0+xtlmLAH9VUfWwYOhUi/lSEDyGg46r1CA9RWlvoc5yywxR9AzQb0mOCm7bWtOXV7/w43ZA==}
+  /playwright/1.36.2:
+    resolution: {integrity: sha512-4Fmlq3KWsl85Bl4InJw1NC21aeQV0iSZuFvTDcy1F8zVmXmgQRe89GxF8zMSRt/KIS+2tUolak7EXVl9aC+JdA==}
     engines: {node: '>=16'}
     hasBin: true
     requiresBuild: true
     dependencies:
-      playwright-core: 1.35.1
+      playwright-core: 1.36.2
     dev: false
 
   /shebang-command/2.0.0:

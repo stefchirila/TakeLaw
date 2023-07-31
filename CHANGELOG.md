@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.3.2] - 2023-08-31
+
+### Changed
+- Updated dependencies versions
+
 ## [0.3.1] - 2023-07-31
 
 ### Changed
