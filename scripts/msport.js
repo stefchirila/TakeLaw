@@ -34,7 +34,10 @@ const main = async ({
   )
 
   const rootUrl = 'https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/'
-  throwIfNotOk(await page.goto(rootUrl))
+  const response = await page.goto(rootUrl)
+  if (response.status() !== 200) {
+    throwIfNotOk(await page.goto(rootUrl))
+  }
   console.info(`Navigated to ${page.url()} to fetch links`)
   console.info('-------------------')
   pageCounter += 1
