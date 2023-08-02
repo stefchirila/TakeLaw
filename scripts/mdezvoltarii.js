@@ -3,13 +3,12 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown,
-  throwIfNotOk
+  teardown
 } = require('./helpers')
 
 const main = async ({
   headless = true,
-  maxResults = 100,
+  maxResults = 75,
   timeout = defaultTimeout
 }) => {
   const timer = Date.now()
@@ -24,11 +23,19 @@ const main = async ({
   const output = {
     mdezvoltarii: []
   }
+  await page.route('**/*', (route) =>
+    route.request().url().includes('stylesheet?id')
+      ? route.abort()
+      : route.continue()
+  )  
   let documentCounter = 0
   let pageCounter = 0
   const baseUrl = 'https://www.mdlpa.ro/'
-
-  throwIfNotOk(await page.goto('https://www.mdlpa.ro/pages/actenormativecaractergeneral'))
+  const rootUrl = 'https://www.mdlpa.ro/pages/actenormativecaractergeneral'
+  const response = await page.goto(rootUrl)
+  if (response.status() === 503) {
+    await page.goto(rootUrl)
+  }
   const yearlyArchives = [
     'https://www.mdlpa.ro/pages/actenormativecaractergeneral'
   ]
@@ -42,7 +49,7 @@ const main = async ({
     yearlyArchives.push(`${baseUrl}${archiveUrl}`)
   }
   for await (const archiveUrl of yearlyArchives) {
-    throwIfNotOk(await page.goto(archiveUrl))
+    await page.goto(archiveUrl)
     console.info(`Navigated to ${page.url()} to fetch pages links`)
     console.info('-------------------')
     pageCounter += 1
@@ -78,7 +85,7 @@ const main = async ({
   console.info('-------------------')
   try {
     for await (docPage of output.mdezvoltarii) {
-      throwIfNotOk(await page.goto(docPage.currentUrl))
+      await page.goto(docPage.currentUrl)
       console.info(`Navigated to ${docPage.currentUrl} to fetch documents links`)
       console.info('-------------------')
       pageCounter += 1

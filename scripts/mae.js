@@ -4,8 +4,7 @@ const {
   getMonthFromROString,
   outputReport,
   setup,
-  teardown,
-  throwIfNotOk
+  teardown
 } = require('./helpers')
 
 const pageUrls = [
@@ -32,12 +31,16 @@ const main = async ({
   let pageCounter = 0
   await page.route('**/*', (route) =>
     route.request().resourceType() === 'image' ||
+    route.request().url().includes('stylesheet?id') ||
     route.request().url().endsWith('.js')
       ? route.abort()
       : route.continue()
   )
   for await (const pageUrl of pageUrls) {
-    throwIfNotOk(await page.goto(pageUrl))
+    const response = await page.goto(pageUrl)
+    if (response.status() === 503) {
+      await page.goto(pageUrl)
+    }
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')
     pageCounter += 1

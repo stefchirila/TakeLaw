@@ -3,8 +3,7 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown,
-  throwIfNotOk,
+  teardown
 } = require('./helpers')
 
 const main = async ({
@@ -26,15 +25,19 @@ const main = async ({
   let pageCounter = 0
   await page.route('**/*', (route) =>
     route.request().resourceType() === 'image' ||
-    route.request().url().endsWith('.css') ||
-    route.request().url().endsWith('.js')
+    // route.request().url().endsWith('.css') ||
+    route.request().url().includes('stylesheet?id')
+    // route.request().url().endsWith('.js')
       ? route.abort()
       : route.continue()
   )
 
   const rootUrl = 'https://www.mcid.gov.ro/transparenta-decizionala-2/'
 
-  throwIfNotOk(await page.goto(rootUrl))
+  const response = await page.goto(rootUrl)
+  if (response.status() === 503) {
+    await page.goto(rootUrl)
+  }
   console.info(`Navigated to ${page.url()} to fetch articles, dates & documents`)
   console.info('-------------------')
   pageCounter += 1
@@ -44,7 +47,7 @@ const main = async ({
   for await (const toggleLink of await page.locator('.elementor-toggle .elementor-tab-title').all()) {
     const tabControls = await toggleLink.getAttribute('aria-controls')
     await toggleLink.click()
-    const table = page.locator(`[id*="${tabControls}"]`).locator('table[width][cellpadding][cellspacing][border]')
+    const table = page.locator(`#${tabControls}`).locator('table[width][cellpadding][cellspacing][border]')
     await table.waitFor({
       state: 'visible'
     })

@@ -2,7 +2,6 @@ const {
   defaultTimeout,
   getDocumentType,
   outputReport,
-  retryGoto,
   setup,
   teardown,
 } = require('./helpers')
@@ -26,15 +25,19 @@ const main = async ({
   let documentCounter = 0
   let pageCounter = 0
   await page.route('**/*', (route) =>
-  route.request().resourceType() === 'image' ||
-  route.request().url().endsWith('.css') ||
-  route.request().url().endsWith('.js')
-    ? route.abort()
-    : route.continue()
-  )
+    route.request().resourceType() === 'image' ||
+    route.request().url().includes('stylesheet?id') ||
+    route.request().url().endsWith('.css') ||
+    route.request().url().endsWith('.js')
+      ? route.abort()
+      : route.continue()
+    )
 
   const rootUrl = 'https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/'
-  await retryGoto(page, rootUrl)
+  const response = await page.goto(rootUrl)
+  if (response.status() === 503) {
+    await page.goto(rootUrl)
+  }
   console.info(`Navigated to ${page.url()} to fetch links`)
   console.info('-------------------')
   pageCounter += 1

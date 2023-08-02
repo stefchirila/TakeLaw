@@ -3,8 +3,7 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown,
-  throwIfNotOk
+  teardown
 } = require('./helpers')
 
 const main = async ({
@@ -27,11 +26,16 @@ const main = async ({
   await page.route('**/*', (route) =>
     route.request().resourceType() === 'image' ||
     route.request().url().endsWith('.css') ||
+    route.request().url().includes('stylesheet?id') ||
     route.request().url().endsWith('.js')
       ? route.abort()
       : route.continue()
   )
-  throwIfNotOk(await page.goto('https://www.just.ro/informatii-de-interes-public/acte-normative/proiecte-in-dezbatere/'))
+  const rootUrl = 'https://www.just.ro/informatii-de-interes-public/acte-normative/proiecte-in-dezbatere/'
+  const response = await page.goto(rootUrl)
+  if (response.status() === 503) {
+    await page.goto(rootUrl)
+  }
   console.info(`Navigated to ${page.url()} to titles, dates & links`)
   console.info('-------------------')
   pageCounter += 1
@@ -56,7 +60,7 @@ const main = async ({
   }
   let currentIndex = 0
   for await (const item of items) {
-    throwIfNotOk(await page.goto(item.currentUrl))
+    await page.goto(item.currentUrl)
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')
     pageCounter += 1

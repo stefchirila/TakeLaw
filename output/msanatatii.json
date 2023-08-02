@@ -1,6 +1,37 @@
 {
   "msanatatii": [
     {
+      "currentUrl": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/hot%C4%83r%C3%A2re-a-guvernului-privind-aprobarea-strategiei-na%C8%9Bionale-de-vaccinare-%C3%AEn-rom%C3%A2nia-pentru-perioada-2023-2030/",
+      "date": "01-08-2023",
+      "name": "Hotărâre a Guvernului privind aprobarea Strategiei naționale de vaccinare în România pentru perioada 2023 – 2030.",
+      "documents": [
+        {
+          "date": "01-08-2023",
+          "link": "https://www.ms.ro/media/documents/HG_-_STRATEGIA_NATIONALA_DE_VACCINARE_2023_-_2030.docx",
+          "title": "HG - STRATEGIA NATIONALA DE VACCINARE 2023 - 2030",
+          "type": "doc"
+        },
+        {
+          "date": "01-08-2023",
+          "link": "https://www.ms.ro/media/documents/NOT%C4%82_DE_FUNDAMENTARE_-_HG_STRATEGIA_NATIONALA_DE_VACCINARE.docx",
+          "title": "NOTĂ DE FUNDAMENTARE - HG STRATEGIA NATIONALA DE VACCINARE",
+          "type": "doc"
+        },
+        {
+          "date": "01-08-2023",
+          "link": "https://www.ms.ro/media/documents/Anexa_-_Plan_de_ac%C8%9Biuni_pentru_implementarea_Strategiei_de_vaccinare_%C3%AEn_Rom%C3%A2nia_2023.docx",
+          "title": "Anexa - Plan de acțiuni pentru implementarea Strategiei de vaccinare în România 2023",
+          "type": "doc"
+        },
+        {
+          "date": "01-08-2023",
+          "link": "https://www.ms.ro/media/documents/Anexa_-_STRATEGIA_NATIONALA_DE_VACCINARE.docx",
+          "title": "Anexa - STRATEGIA NATIONALA DE VACCINARE",
+          "type": "doc"
+        }
+      ]
+    },
+    {
       "currentUrl": "https://www.ms.ro/ro/transparenta-decizionala/acte-normative-in-transparenta/ordin-privind-aprobarea-metodologiei-%C5%9Fi-criteriilor-minime-obligatorii-de-ierarhizare-a-structurilor-de-obstetric%C4%83-ginecologie-neonatologie-%C5%9Fi-pediatrie-care-asigur%C4%83-servicii-de-terapie-intensiv%C4%83-pentru-nou-n%C4%83scu%C8%9Bi/",
       "date": "28-07-2023",
       "name": "Ordin privind aprobarea metodologiei şi criteriilor minime obligatorii de ierarhizare a structurilor de obstetrică-ginecologie, neonatologie şi pediatrie care asigură servicii de terapie intensivă pentru nou-născuți",
@@ -360,6 +391,12 @@
           "date": "05-07-2023",
           "link": "https://www.ms.ro/media/documents/Anexa_protocoale_28.06.docx",
           "title": "Referat_protocoale terapeutice_28.06",
+          "type": "doc"
+        },
+        {
+          "date": "05-07-2023",
+          "link": "https://www.ms.ro/media/documents/Anexa_protocoale_01.08.docx",
+          "title": "Anexa_protocoale_01.08",
           "type": "doc"
         }
       ]

@@ -4,8 +4,7 @@ const {
   getDocumentType,
   outputReport,
   setup,
-  teardown,
-  throwIfNotOk
+  teardown
 } = require('./helpers')
 
 const main = async ({
@@ -27,10 +26,19 @@ const main = async ({
   const output = {
     camera_deputatilor: []
   }
+  await page.route('**/*', (route) =>
+    route.request().url().includes('stylesheet?id')
+      ? route.abort()
+      : route.continue()
+    )
   const iframeTriggerPrefix = 'javascript:loadintoIframe('
   const baseUrl = 'https://www.cdep.ro'
 
-  throwIfNotOk(await page.goto(`https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`))
+  const rootUrl = `https://www.cdep.ro/pls/caseta/eCaseta2015.OrdineZi?dat=${timestamp ? getDate(timestamp) : ''}`
+  const response = await page.goto(rootUrl)
+  if (response.status() === 503) {
+    await page.goto(rootUrl)
+  }
   console.info(`Navigated to ${page.url()}`)
   console.info('-------------------')
   

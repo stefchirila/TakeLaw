@@ -1,6 +1,12 @@
 # Changelog
 
-## [0.3.2] - 2023-08-31
+## [0.4.0] - 2023-08-02
+
+### Changed
+
+- Added retry mechanism to initial webpage load on all scripts
+
+## [0.3.2] - 2023-07-31
 
 ### Changed
 - Updated dependencies versions

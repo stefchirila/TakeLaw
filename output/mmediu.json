@@ -1,6 +1,100 @@
 {
   "mmediu": [
     {
+      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-ordin-al-ministrului-mediului-apelor-si-padurilor-pentru-aprobarea-nivelului-de-interventie-si-de-preventie-in-cazul-speciei-urs-brun-ursus-arctos-in-interesul-sanatatii-si-securitatii-populatiei-si-in-scopul-prevenirii-unor-daune-importante/6368",
+      "date": "02-08-2023",
+      "name": "Proiect de ordin al ministrului mediului, apelor și pădurilor pentru aprobarea nivelului de intervenție și de prevenție în cazul speciei urs brun (Ursus arctos), în interesul sănătății și securității populației și în scopul prevenirii unor daune importante.",
+      "documents": [
+        {
+          "date": "02-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Referat%20de%20aprobare%289%29.doc",
+          "title": "Referat de aprobare",
+          "type": "doc"
+        },
+        {
+          "date": "02-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Proiect%20Ordin%20preven%C8%9Bie%20%C8%99i%20interven%C8%9Bie%281%29.doc",
+          "title": "Proiect Ordin",
+          "type": "doc"
+        },
+        {
+          "date": "02-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/ANEXA%201%20OM.doc",
+          "title": "ANEXA 1 OM",
+          "type": "doc"
+        },
+        {
+          "date": "02-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Anexa%202%20OM.doc",
+          "title": "Anexa 2 OM",
+          "type": "doc"
+        },
+        {
+          "date": "02-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Anexa%203%20OM.doc",
+          "title": "Anexa 3 OM",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-hotarare-a-guvernului-privind-aprobarea-platii-contributiei-anuale-a-romaniei-la-bugetul-organizatiei-pentru-cooperare-si-dezvoltare-economica-ocde-destinata-proiectului-forumului-incluziv-privind-abordarile-referitoare-la-atenuarea-carbonului-i/6365",
+      "date": "02-08-2023",
+      "name": "Proiect de Hotărâre a Guvernului privind aprobarea plății contribuției anuale a României la bugetul Organizației pentru Cooperare și Dezvoltare Economică (OCDE) destinată proiectului Forumului Incluziv privind Abordările referitoare la Atenuarea Carbonului (IFCMA), pentru perioada 2023-2026",
+      "documents": [
+        {
+          "date": "02-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Nota%20de%20fundamentare_%20HG-%20Contributii%20OCDE-IFCMA.doc",
+          "title": "Nota de fundamentare",
+          "type": "doc"
+        },
+        {
+          "date": "02-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Proiect_HG-Contributii%20OCDE-IFCMA.docx",
+          "title": "Proiect_HG",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "currentUrl": "http://www.mmediu.ro/articol/proiectul-de-lege-privind-codul-silvic/6362",
+      "date": "01-08-2023",
+      "name": "Proiectul de  Lege privind Codul Silvic.",
+      "documents": [
+        {
+          "date": "01-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Nota%20de%20fundamentare%20.DOCX",
+          "title": "Nota de fundamentare",
+          "type": "doc"
+        },
+        {
+          "date": "01-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Noul%20Cod%20Silvic_proiect.docx",
+          "title": "Noul Cod Silvic_proiect",
+          "type": "doc"
+        }
+      ]
+    },
+    {
+      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-ordin-privind-modificarea-si-completarea-ghidului-metodologic-privind-evaluarea-adecvata-a-efectelor-potentiale-ale-planurilor-sau-proiectelor-asupra-ariilor-naturale-protejate-de-interes-comunitar-aprobat-prin-ordinul-ministrului-mediului-apelo/6361",
+      "date": "01-08-2023",
+      "name": "Proiect de Ordin privind modificarea și completarea Ghidului metodologic privind evaluarea adecvată a efectelor potențiale ale planurilor sau proiectelor asupra ariilor naturale protejate de interes comunitar, aprobat prin Ordinul ministrului mediului, apelor și pădurilor nr. 1682/2023",
+      "documents": [
+        {
+          "date": "01-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/OM%20modificare%20si%20completarea%20OM%201682-2023.docx",
+          "title": "Proiect OM",
+          "type": "doc"
+        },
+        {
+          "date": "01-08-2023",
+          "link": "http://www.mmediu.ro/app/webroot/uploads/files/referat%20de%20aprobare%287%29.docx",
+          "title": "Referat de aprobare",
+          "type": "doc"
+        }
+      ]
+    },
+    {
       "currentUrl": "http://www.mmediu.ro/articol/proiect-de-hotarare-a-guvernului-privind-reaprobarea-caracteristicilor-principale-si-a-indicatorilor-tehnico-economici-aferenti-obiectivului-de-investitii-amenajare-rau-trotus-si-afluenti-judetul-harghita-precum-si-nota-de-fundamentare-a-acestuia/6356",
       "date": "28-00-2023",
       "name": "Proiect de hotărâre a Guvernului  privind reaprobarea caracteristicilor principale și a indicatorilor tehnico-economici aferenți obiectivului de investiții  „Amenajare râu Trotuș și afluenți, județul Harghita” precum și Nota de fundamentare a acestuia.",
@@ -1373,106 +1467,6 @@
           "link": "http://www.mmediu.ro/app/webroot/uploads/files/ANEXA%20la%20Ordin%20privind%20Ghidul%20general%20evaluare%20adecvata.doc",
           "title": "ANEXA",
           "type": "doc"
-        }
-      ]
-    },
-    {
-      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-ordin-al-ministrului-mediului-apelor-si-privind-modificarea-anexelor-nr-1-3-la-ordinul-ministrului-mediului-apelor-si-padurilor-nr-203-2020-privind-stabilirea-cadrului-legal-si-institutional-necesar-aplicarii-regulamentului-delegat-ue-2019-1603-/6042",
-      "date": "14-03-2023",
-      "name": "Proiect de Ordin al ministrului mediului, apelor și privind modificarea anexelor nr. 1-3 la Ordinul ministrului mediului, apelor și pădurilor nr. 203/2020 privind stabilirea cadrului legal și instituțional necesar aplicării Regulamentului delegat (UE) 2019/1603 al Comisiei din 18 iulie 2019 de completare a Directivei 2003/87/CE a Parlamentului European și a Consiliului în ceea ce privește măsurile adoptate de Organizația Aviației Civile Internaționale pentru monitorizarea, raportarea și verificarea emisiilo",
-      "documents": [
-        {
-          "date": "14-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/OM%20%20de%20modificare%20a%20OM%20203_Corsia.doc",
-          "title": "Proiect Ordin",
-          "type": "doc"
-        },
-        {
-          "date": "14-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/referat%20aprobare%20OM%20modiifcare%20OM%20203_2020%20%20CORSIA.docx",
-          "title": "Referat de aprobare",
-          "type": "doc"
-        },
-        {
-          "date": "14-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Anexa%201-3.zip",
-          "title": "Anexa 1, 2, 3",
-          "type": "archive"
-        }
-      ]
-    },
-    {
-      "currentUrl": "http://www.mmediu.ro/articol/proiectul-de-ordin-al-ministrului-pentru-aprobarea-ghidului-specific-privind-conditiile-de-accesare-a-fondurilor-europene-aferente-planului-national-de-redresare-si-rezilienta-in-cadrul-apelului-de-proiecte-pnrr-2023-c2-s-i-2-a/6040",
-      "date": "13-03-2023",
-      "name": "Proiectul de ordin al ministrului pentru aprobarea Ghidului specific privind conditiile de accesare a fondurilor europene aferente Planului national de redresare si rezilienta in cadrul apelului de proiecte PNRR/2023/C2/S/I.2.A",
-      "documents": [
-        {
-          "date": "13-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Referat%20%20I2.doc",
-          "title": "Referat",
-          "type": "doc"
-        },
-        {
-          "date": "13-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Proiect%20de%20ordin%20pepiniere.docx",
-          "title": "Proiect OM",
-          "type": "doc"
-        },
-        {
-          "date": "13-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Anexa%20si%20ghid.zip",
-          "title": "Anexa + Ghid",
-          "type": "archive"
-        }
-      ]
-    },
-    {
-      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-om-privind-aprobarea-planului-de-management-al-sitului-natura-2000-rosci0405-dealurile-strehaia-batlanele/6029",
-      "date": "07-03-2023",
-      "name": "Proiect de OM privind aprobarea Planului de management al sitului Natura 2000 ROSCI0405 Dealurile Strehaia-Bâtlanele",
-      "documents": [
-        {
-          "date": "07-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Proiect%20Ordin_ROSCI0405.docx",
-          "title": "Proiect OM",
-          "type": "doc"
-        },
-        {
-          "date": "07-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Referat_ROSCI0405.docx",
-          "title": "Referat",
-          "type": "doc"
-        },
-        {
-          "date": "07-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Anexa_Plan-de-managementROSCI0405.docx",
-          "title": "Anexa",
-          "type": "doc"
-        }
-      ]
-    },
-    {
-      "currentUrl": "http://www.mmediu.ro/articol/proiect-de-ordin-privind-aprobarea-cotelor-de-recolta-pentru-specia-caprior-capreolus-capreolus-pentru-perioada-01-mai-2023-30-aprilie-2024/6027",
-      "date": "06-03-2023",
-      "name": "Proiect de Ordin privind aprobarea cotelor de recoltă pentru specia căprior (Capreolus capreolus) pentru perioada 01 mai 2023 – 30 aprilie 2024",
-      "documents": [
-        {
-          "date": "06-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Ordinul%20privind%20aprobarea%20cotelor%20de%20recolta%20pentru%20specia%20caprior%284%29.doc",
-          "title": "Ordin",
-          "type": "doc"
-        },
-        {
-          "date": "06-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Referat%20de%20aprobare%202023.doc",
-          "title": "Referat",
-          "type": "doc"
-        },
-        {
-          "date": "06-03-2023",
-          "link": "http://www.mmediu.ro/app/webroot/uploads/files/Anexa%20la%20proiectul%20de%20%20Ordinul%20pt%20dezbatere%20p.xls",
-          "title": "Anexa",
-          "type": "xls"
         }
       ]
     }

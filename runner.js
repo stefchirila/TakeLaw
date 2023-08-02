@@ -28,32 +28,32 @@ Ex:
 // const { main: cdepPl } = require('./scripts/cdep-pl')
 // ;(async () => {
 //   const output = await cdepPl({
-//     headless: true
+//     headless: true,
+//     timestamp: '06-21-2023'
 //   })
 //   fs.writeFile('output/cdep-pl.json', JSON.stringify(output, null, 2))
 // })()
 
-// const { main: senatPl } = require('./scripts/senat-pl')
-// ;(async () => {
-//   const output = await senatPl({
-//     headless: true
-//   })
-//   fs.writeFile('output/senat-pl.json', JSON.stringify(output, null, 2))
-// })()
+const { main: senatPl } = require('./scripts/senat-pl')
+;(async () => {
+  const output = await senatPl({
+    headless: false
+  })
+  fs.writeFile('output/senat-pl.json', JSON.stringify(output, null, 2))
+})()
 
 // const { main: mtransport } = require('./scripts/mtransport')
 // ;(async () => {
 //   const output = await mtransport({
-//     headless: true
+//     headless: false
 //   })
-//   // console.info(output)
 //   fs.writeFile('output/mtransport.json', JSON.stringify(output, null, 2))
 // })()
 
 // const { main: mfinante } = require('./scripts/mfinante')
 // ;(async () => {
 //   const output = await mfinante({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mfinante.json', JSON.stringify(output, null, 2))
 // })()
@@ -61,7 +61,7 @@ Ex:
 // const { main: mdezvoltarii } = require('./scripts/mdezvoltarii')
 // ;(async () => {
 //   const output = await mdezvoltarii({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mdezvoltarii.json', JSON.stringify(output, null, 2))
 // })()
@@ -69,7 +69,7 @@ Ex:
 // const { main: meducatiei } = require('./scripts/meducatiei')
 // ;(async () => {
 //   const output = await meducatiei({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/meducatiei.json', JSON.stringify(output, null, 2))
 // })()
@@ -77,7 +77,7 @@ Ex:
 // const { main: mmediu } = require('./scripts/mmediu')
 // ;(async () => {
 //   const output = await mmediu({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mmediu.json', JSON.stringify(output, null, 2))
 // })()
@@ -85,7 +85,7 @@ Ex:
 // const { main: mai } = require('./scripts/mai')
 // ;(async () => {
 //   const output = await mai({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mai.json', JSON.stringify(output, null, 2))
 // })()
@@ -93,7 +93,7 @@ Ex:
 // const { main: mae } = require('./scripts/mae')
 // ;(async () => {
 //   const output = await mae({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mae.json', JSON.stringify(output, null, 2))
 // })()
@@ -101,7 +101,7 @@ Ex:
 // const { main: mjustitiei } = require('./scripts/mjustitiei')
 // ;(async () => {
 //   const output = await mjustitiei({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mjustitiei.json', JSON.stringify(output, null, 2))
 // })()
@@ -109,7 +109,7 @@ Ex:
 // const { main: mapn } = require('./scripts/mapn')
 // ;(async () => {
 //   const output = await mapn({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mapn.json', JSON.stringify(output, null, 2))
 // })()
@@ -117,7 +117,7 @@ Ex:
 // const { main: meconomiei } = require('./scripts/meconomiei')
 // ;(async () => {
 //   const output = await meconomiei({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/meconomiei.json', JSON.stringify(output, null, 2))
 // })()
@@ -125,7 +125,7 @@ Ex:
 // const { main: menergiei } = require('./scripts/menergiei')
 // ;(async () => {
 //   const output = await menergiei({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/menergiei.json', JSON.stringify(output, null, 2))
 // })()
@@ -149,7 +149,7 @@ Ex:
 // const { main: magriculturii } = require('./scripts/magriculturii')
 // ;(async () => {
 //   const output = await magriculturii({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/magriculturii.json', JSON.stringify(output, null, 2))
 // })()
@@ -157,23 +157,23 @@ Ex:
 // const { main: mculturii } = require('./scripts/mculturii')
 // ;(async () => {
 //   const output = await mculturii({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mculturii.json', JSON.stringify(output, null, 2))
 // })()
 
-const { main: msport } = require('./scripts/msport')
-;(async () => {
-  const output = await msport({
-    headless: true
-  })
-  fs.writeFile('output/msport.json', JSON.stringify(output, null, 2))
-})()
+// const { main: msport } = require('./scripts/msport')
+// ;(async () => {
+//   const output = await msport({
+//     headless: false
+//   })
+//   fs.writeFile('output/msport.json', JSON.stringify(output, null, 2))
+// })()
 
 // const { main: minvestitiilor } = require('./scripts/minvestitiilor')
 // ;(async () => {
 //   const output = await minvestitiilor({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/minvestitiilor.json', JSON.stringify(output, null, 2))
 // })()
@@ -181,7 +181,7 @@ const { main: msport } = require('./scripts/msport')
 // const { main: mfamiliei } = require('./scripts/mfamiliei')
 // ;(async () => {
 //   const output = await mfamiliei({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mfamiliei.json', JSON.stringify(output, null, 2))
 // })()
@@ -189,7 +189,7 @@ const { main: msport } = require('./scripts/msport')
 // const { main: mmuncii } = require('./scripts/mmuncii')
 // ;(async () => {
 //   const output = await mmuncii({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mmuncii.json', JSON.stringify(output, null, 2))
 // })()
@@ -197,7 +197,7 @@ const { main: msport } = require('./scripts/msport')
 // const { main: mcercetarii } = require('./scripts/mcercetarii')
 // ;(async () => {
 //   const output = await mcercetarii({
-//     headless: true
+//     headless: false
 //   })
 //   fs.writeFile('output/mcercetarii.json', JSON.stringify(output, null, 2))
 // })()
