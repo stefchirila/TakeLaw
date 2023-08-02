@@ -37,8 +37,25 @@ const teardown = async (waitForMs = 0) => {
 
 const throwIfNotOk = (response) => {
   if (!response.ok()) {
-    throw new Error(`Response from ${response.request().url()} not ok: ${response.status()} ${response.statusText()}`)
+    console.log(`Response from ${response.request().url()} not ok: ${response.status()} ${response.statusText()}`)
   }
+}
+
+const retryGoto = async (page, url, maxRetries = 10) => {
+  let response
+  let retryCount = 0
+  while (true && retryCount < maxRetries) {
+    try {
+      retryCount += 1
+      response = await page.goto(url)
+    } catch (error) {
+      throwIfNotOk(response)
+    }
+    if (response.status() === 200) {
+      break
+    }
+  }
+  return response
 }
 
 const getDate = (timestamp = Date.now()) => {
@@ -147,6 +164,7 @@ module.exports = {
   getMonthFromROString,
   knownDocumentTypes,
   outputReport,
+  retryGoto,
   setup,
   teardown,
   throwIfNotOk
