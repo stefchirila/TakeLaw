@@ -8,7 +8,8 @@ const {
 
 const main = async ({
   headless = true,
-  maxResults = 75,
+  maxArticles = 100,
+  maxResults = 100,
   timeout = defaultTimeout
 }) => {
   const timer = Date.now()
@@ -49,6 +50,11 @@ const main = async ({
     yearlyArchives.push(`${baseUrl}${archiveUrl}`)
   }
   for await (const archiveUrl of yearlyArchives) {
+    if (output.mdezvoltarii.length > maxArticles) {
+      console.info(`Reached maximum results limit of ${maxArticles}, stop fetching article page links from ${archiveUrl}`)
+      console.info('-------------------')
+      break
+    }
     await page.goto(archiveUrl)
     console.info(`Navigated to ${page.url()} to fetch pages links`)
     console.info('-------------------')
@@ -79,6 +85,11 @@ const main = async ({
         name: (await link.textContent()).trim(),
         documents: []
       })
+      if (output.mdezvoltarii.length > maxArticles) {
+        console.info(`Reached maximum results limit of ${maxArticles}, stop fetching article page links...`)
+        console.info('-------------------')
+        break
+      }
     }
   }
   console.info(`Found ${output.mdezvoltarii.length} items. Accessing each page to fetch documents links...`)

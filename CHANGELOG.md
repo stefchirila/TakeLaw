@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.1] - 2023-08-03
+
+### Changed
+- Changed `mcercetarii`, `mjustitiei`, `mdezvoltarii` scripts to limit the amount of results and to gracefully exit
+- Changed `defaultTimeout` from 4 minutes to 3 minutes
+
 ## [0.4.0] - 2023-08-02
 
 ### Changed

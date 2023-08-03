@@ -48,6 +48,11 @@ const main = async ({
     const tabControls = await toggleLink.getAttribute('aria-controls')
     await toggleLink.click()
     const table = page.locator(`#${tabControls}`).locator('table[width][cellpadding][cellspacing][border]')
+    if (await table.count() === 0) {
+      console.info(`No table found for ${tabControls}`)
+      console.info('-------------------')
+      break
+    }
     await table.waitFor({
       state: 'visible'
     })

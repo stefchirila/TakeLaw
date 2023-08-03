@@ -34,13 +34,13 @@ Ex:
 //   fs.writeFile('output/cdep-pl.json', JSON.stringify(output, null, 2))
 // })()
 
-const { main: senatPl } = require('./scripts/senat-pl')
-;(async () => {
-  const output = await senatPl({
-    headless: false
-  })
-  fs.writeFile('output/senat-pl.json', JSON.stringify(output, null, 2))
-})()
+// const { main: senatPl } = require('./scripts/senat-pl')
+// ;(async () => {
+//   const output = await senatPl({
+//     headless: false
+//   })
+//   fs.writeFile('output/senat-pl.json', JSON.stringify(output, null, 2))
+// })()
 
 // const { main: mtransport } = require('./scripts/mtransport')
 // ;(async () => {

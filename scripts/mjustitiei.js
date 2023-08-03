@@ -8,6 +8,7 @@ const {
 
 const main = async ({
   headless = true,
+  maxPages = 30,
   timeout = defaultTimeout
 }) => {
   const timerName = 'MJustitiei took'
@@ -57,6 +58,11 @@ const main = async ({
       documents: [],
       name: articleTitle
     })
+    if (items.length > maxPages) {
+      console.info(`Reached max pages (${maxPages}). Stop fetching page links`)
+      console.info('-------------------')
+      break
+    }
   }
   let currentIndex = 0
   for await (const item of items) {
@@ -86,7 +92,6 @@ const main = async ({
     items[currentIndex].documents = documents
     currentIndex += 1
   }
-
   output.mjustitiei = items
 
   await teardown()

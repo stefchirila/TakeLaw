@@ -7,7 +7,7 @@ let context
 /** @type {import('playwright').Page} */
 let page
 
-const defaultTimeout = 4 * 60 * 1000
+const defaultTimeout = 3 * 60 * 1000
 
 const setup = async ({
   headless = true,
