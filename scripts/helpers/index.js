@@ -8,6 +8,7 @@ let context
 let page
 
 const defaultTimeout = 3 * 60 * 1000
+// const proxyIP = 'http://80.96.21.87:8888'
 
 const setup = async ({
   headless = true,
@@ -16,11 +17,15 @@ const setup = async ({
   browser = await chromium.launch({
     // args: ['--ignore-certificate-errors', '--disable-http2'],
     headless,
+    // proxy: { server: proxyIP },
     timeout,
   })
   context = await browser.newContext({
     // ignoreHTTPSErrors: true,
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188'
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188',
+    // proxy: {
+    //   server: proxyIP,
+    // }
   })
   page = await context.newPage()
   return {

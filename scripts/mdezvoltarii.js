@@ -8,8 +8,10 @@ const {
 
 const main = async ({
   headless = true,
-  maxArticles = 100,
-  maxResults = 100,
+  // maxArticles = 100,
+  // maxResults = 100,
+  maxArticles = 10,
+  maxResults = 10,
   timeout = defaultTimeout
 }) => {
   const timer = Date.now()

@@ -42,10 +42,10 @@ const main = async ({
   const years = [
     '2023',
     '2022',
-    '2021',
-    '2020',
-    '2019',
-    '2018'
+    // '2021',
+    // '2020',
+    // '2019',
+    // '2018'
   ]
   const yearSelect = page.locator('select[name="filter_year"]')
   const yearSelectButton = page.locator('button[type="submit"]')
