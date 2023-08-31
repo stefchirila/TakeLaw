@@ -1,11 +1,16 @@
 # Changelog
 
+
+## [0.5] - 2023-08-31
+
+### Fixed
+- Fixed `magriculturi` because people can't be consistent
+- Fixed `msport`
+
 ## [0.4.2] - 2023-08-09
 
 ### Changed
 - Changed `mapn`, `minvestitiilor`, `mdezvoltarii`, `msport` scripts to limit the amount of results and to gracefully exit
-
-# Changelog
 
 ## [0.4.1] - 2023-08-03
 

@@ -4,13 +4,11 @@ const {
   outputReport,
   setup,
   teardown,
-  throwIfNotOk
 } = require('./helpers')
 
 const main = async ({
   headless = true,
   maxLinksCount = 10,
-  // maxLinksCount = 40,
   timeout = defaultTimeout
 }) => {
   const timerName = 'MSPORT took'
@@ -27,15 +25,19 @@ const main = async ({
   let documentCounter = 0
   let pageCounter = 0
   await page.route('**/*', (route) =>
-  route.request().resourceType() === 'image' ||
-  route.request().url().endsWith('.css') ||
-  route.request().url().endsWith('.js')
-    ? route.abort()
-    : route.continue()
-  )
+    route.request().resourceType() === 'image' ||
+    route.request().url().includes('stylesheet?id') ||
+    route.request().url().endsWith('.css') ||
+    route.request().url().endsWith('.js')
+      ? route.abort()
+      : route.continue()
+    )
 
   const rootUrl = 'https://sport.gov.ro/proiecte-legislative-in-dezbatere-publica/'
-  throwIfNotOk(await page.goto(rootUrl))
+  const response = await page.goto(rootUrl)
+  if (response.status() === 503) {
+    await page.goto(rootUrl)
+  }
   console.info(`Navigated to ${page.url()} to fetch links`)
   console.info('-------------------')
   pageCounter += 1
@@ -53,7 +55,7 @@ const main = async ({
   }
 
   for await (const link of links) {
-    throwIfNotOk(await page.goto(link))
+    await page.goto(link)
     console.info(`Navigated to ${page.url()} to fetch documents`)
     console.info('-------------------')
     pageCounter += 1
@@ -94,7 +96,7 @@ const main = async ({
       }
     }
     for await (const separateDocLink of separateDocLinks) {
-      throwIfNotOk(await page.goto(separateDocLink))
+      await page.goto(separateDocLink)
       console.info(`Navigated to ${page.url()} to fetch the doc, as it's displayed on a separate attachment page`)
       console.info('-------------------')
       pageCounter += 1
